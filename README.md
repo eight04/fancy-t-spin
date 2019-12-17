@@ -49,6 +49,7 @@ A list of beautiful T-spin patterns. Please install [fumen-preview](https://gith
 * [ST Stacking](https://harddrop.com/fumen/?m115@vhAvJJAhB8IeF8CeG8CeG8JeAAAvhBFlBvkB2gB8Ie?F8CeG8EeE8TeAAAvhBFgBvfBsgB8IeF8CeG8EeE8deAAAvh?CFbBJkBvaBigB8IeF8CeG8EeE8neAAAvhCFWBJlBAAA) ([wiki](https://harddrop.com/wiki/ST_Stacking_Setups))
 * [Crush](https://harddrop.com/fumen/?m115@/gB8FeC8CeR8AeE8JeAgl/ghWHegWIegWRaGeRaPeA?AeUhRLgHFewhQLPeAAAvhBFrBAAA)
 * [Drain Pipe](https://harddrop.com/fumen/?m115@fgB8CeG8DeI8AeH8BeH8AeI8AeI8AeE8JeAgHvhCUS?uUAzO0dEloo2Awno2AzX/dEEszQEchQCAjLBAAAAPAA)
+
   - [With 2w hole](https://harddrop.com/fumen/?m115@fgB8CeG8DeI8AeH8BeH8BeH8BeH8BeD8JeAgHvhCWX?f+rBAAA)
 
 ### Double-Double
