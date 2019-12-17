@@ -45,7 +45,7 @@ A list of beautiful T-spin patterns. Please install [fumen-preview](https://gith
 * [Neo TSD](https://harddrop.com/fumen/?m115@zgC8GeA8IeB8BeH8BeH8AeG8JeAgHzgiHGegHweAAA?vhEtgflgfFgfNqBAAA)
 * [Iso TSD](https://harddrop.com/fumen/?m115@zgD8FeA8IeB8HeA8BeI8AeG8JeAgHzgzD3eAAAvhCF?gfdqBAAA)
 * [Hyper Fractal](https://harddrop.com/fumen/?m115@7fF8DeF8DeF8DeF8DeF8DeF8DeF8DeF8DeF8DeF8De?F8Je+KJvhJipB+gBifB+WBiVB+MBlVBlfBlpBAAA)
-* [ST Stacking](https://harddrop.com/fumen/?m115@vhAvJJAhB8IeF8CeG8CeG8JeAAAvhBFlBvkB2gB8Ie?F8CeG8EeE8TeAAAvhBFgBvfBsgB8IeF8CeG8EeE8deAAAvh?CFbBJkBvaBigB8IeF8CeG8EeE8neAAAvhCFWBJlBAAA)
+* [ST Stacking](https://harddrop.com/fumen/?m115@vhAvJJAhB8IeF8CeG8CeG8JeAAAvhBFlBvkB2gB8Ie?F8CeG8EeE8TeAAAvhBFgBvfBsgB8IeF8CeG8EeE8deAAAvh?CFbBJkBvaBigB8IeF8CeG8EeE8neAAAvhCFWBJlBAAA) ([wiki](https://harddrop.com/wiki/ST_Stacking_Setups))
 * [Crush](https://harddrop.com/fumen/?m115@/gB8FeC8CeR8AeE8JeAgl/ghWHegWIegWRaGeRaPeA?AeUhRLgHFewhQLPeAAAvhBFrBAAA)
 * [Drain Pipe](https://harddrop.com/fumen/?m115@fgB8CeG8DeI8AeH8BeH8AeI8AeI8AeE8JeAgHvhCUS?uUAzO0dEloo2Awno2AzX/dEEszQEchQCAjLBAAAAPAA)
   - [With 2w hole](https://harddrop.com/fumen/?m115@fgB8CeG8DeI8AeH8BeH8BeH8BeH8BeD8JeAgHvhCWX?f+rBAAA)
@@ -68,7 +68,7 @@ A list of beautiful T-spin patterns. Please install [fumen-preview](https://gith
   - [Cut Copy Tower](https://harddrop.com/fumen/?m115@jfB8BeH8CeH8AeG8CeH8AeI8CeH8AeG8CeH8AeI8Ce?H8AeG8CeH8AeG8JeAglUfAtDeRpBeBtDeRLBeAPgWDeBPCe?gWDegHBPAehWDegHCeRaDehHAeRagWDeBPCegWDegHBPAeh?WDegHCeRaDehHAeRagWDeBPCegWDegHBPAehWDegHCeRaDe?hHAeRaOeAAAvhGl4AFCBlMBFWBlgBFqBAAA)
   
 * [Imperial Cross](https://harddrop.com/fumen/?m115@2gB8HeA8FeD8AeH8CeH8AeE8JeAgHvhE1hfNrfFrfd?rBAAA)
-* [Polymer](https://harddrop.com/fumen/?m115@igC8GeA8IeA8FeD8BeH8AeJ8BeH8AeD8JeAgHvhFlX?fNhBliflhftrBAAA)
+* [Polymer](https://harddrop.com/fumen/?m115@igC8GeA8IeA8FeD8BeH8AeJ8BeH8AeD8JeAglYgg0I?eiWGewDIewDIewDBeRaEewDAeRaFeRLHeRLOeAAAvhGlYfl?XfNhBliflhftrBAAA)
 * [STSD](https://harddrop.com/fumen/?m115@1gB8HeA8GeC8AeI8BeH8BeE8JeAgH1ghWFeRpgWGeR?LgWAehHIegHIegHNeAAA1gxhFewSAtwhGewwAewSHeRLaeA?AAvgwhIewhIewhGehlwDHeglAPHeg0NeAAAvhCVhftqBAAA?)
 
   - [STSD Tower](https://harddrop.com/fumen/?m115@LgE8EeD8FeD8AeI8BeH8BeH8CeI8AeH8BeH8BeC8Je?AgHvhDdsBlrBNrBAAA)
@@ -89,8 +89,16 @@ A list of beautiful T-spin patterns. Please install [fumen-preview](https://gith
   - [Compare to Chidori](https://harddrop.com/fumen/?m115@kgBtIeBtBeC8R4AeilC8R4BeglF8CeH8AeJ8AeD8Je?AgHkgBPEeQ4CeBPglCeQaAewDGewhCegWqeAAA)
   
 * [DT Cannon](https://harddrop.com/fumen/?m115@hgB8IeA8FeB8AeH8BeH8CeH8AeI8AeG8JeAgHhghHI?egHFehWAegHFegWBeBPEegWCeBPheAAA3gRaGeRpJeAtDeR?LAeBPEeRLAeAPPeAAAvhE1VfdlfFlBdqBAAA)
+
+  - [Lucky hole](https://harddrop.com/fumen/?m115@XgB8IeI8AeH8BeH8CeH8AeI8AeH8AeH8JeAgHvhDFg?BdlBlpBAAA)
+  
 * [DT Cannon 2](https://harddrop.com/fumen/?m115@jgB8IeA8DeD8AeH8CeH8AeH8BeI8AeE8JeAgH1gRaA?eBPDeRaCeBPpeAAAjgBPIeAPAtEexhAehlDexhCeglAtGeg?HgWHeiHVeAAAagR4GeRpAtRegWAPIeAPIeAPHexhg0GeRLM?eAAAvhE1WfdhfFhBdrBAAA)
-* [Magic Key](https://harddrop.com/fumen/?m115@sgH8CeH8AeI8AeH8BeI8AeG8JeAgHzgQaIeRaHegHQ?aHegHIehHReAAAvhDFbBDWBdqBAAA) - [Lucky hole](https://harddrop.com/fumen/?m115@igH8CeH8AeI8AeH8BeI8AeH8AeH8JeAgHvhEFWBDRB?dlBlpBAAA)
+
+  - [Lucky hole](https://harddrop.com/fumen/?m115@VgB8BeH8CeI8AeH8CeH8AeH8BeI8AeH8AeF8JeAgHv?hDFcBdmBlqBAAA)
+
+* [Magic Key](https://harddrop.com/fumen/?m115@sgH8CeH8AeI8AeH8BeI8AeG8JeAgHzgQaIeRaHegHQ?aHegHIehHReAAAvhDFbBDWBdqBAAA)
+
+  - [Lucky hole](https://harddrop.com/fumen/?m115@igH8CeH8AeI8AeH8BeI8AeH8AeH8JeAgHvhEFWBDRB?dlBlpBAAA)
 
 ### Triple
 
