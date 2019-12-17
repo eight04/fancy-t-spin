@@ -26,6 +26,7 @@ A list of beautiful T-spin patterns. Please install [fumen-preview](https://gith
 * [May / Super Spiral 2](https://harddrop.com/fumen/?m115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgHfgRpHeRLH?ewDIewDAeBPFewDBeBPEewDceAAAvhCFqBtpBAAA)
 
   - [Transfer to DT2](https://harddrop.com/fumen/?m115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgHvhCpkBEcB?nQB4gE8FeD8neAAA)
+  - [Lucky hole](https://harddrop.com/fumen/?m115@fgB8BeG8CeG8AeI8BeH8CeG8BeI8AeG8Je9xmvhIVW?ftkfFlB9WfVbftkBAAAFqBAAA)
   
 * [Mini Triple](https://harddrop.com/fumen/?m115@pgB8HeA8IeA8AeI8BeH8BeH8CeF8JeAgHvhCVvBtpB?AAA)
 
