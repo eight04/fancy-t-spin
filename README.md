@@ -3,19 +3,20 @@ Fancy T-Spin
 
 A list of beautiful T-spin patterns. Please install [fumen-preview](https://github.com/knewjade/fumen-preview-extension) before viewing.
 
-### Single
+Single
+-------
 
-* [Hamburger / Single Stacking](https://harddrop.com/fumen/?m115@RhBtIeBtQeAgHAhG8DeF8CeG8CeG8JeAAAvhBFlBkf?BsgG8DeF8CeG8neAAAvhCFbBJkBAAA)
- ([wiki](https://harddrop.com/wiki/Hamburger))
+[![Hamburger](https://fumen-svg-server--eight041.repl.co/?data=v115%40mfG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8De%3FF8CeG8CeG8JeAgWJAIyehDVsZrDSBAAAvhJ0pBdlfFlBAAA%3F0fBdbfFbBAAAJkBAAA&delay=500)](https://harddrop.com/fumen/?v115@mfG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8De?F8CeG8CeG8JeAgWJAIyehDVsZrDSBAAAvhJ0pBdlfFlBAAA?0fBdbfFbBAAAJkBAAA)
 
-### Single-Double
+Single-Double
+--------------
 
-* [Windsor SD](https://harddrop.com/fumen/?m115@0gB8GeB8HeC8AeI8CeH8AeE8JeAgH0gRaGeRaLeiWI?egWWeAAAvhC9gBFrBAAA) - Cut Copy alternative
-* [Windsor Mini](https://harddrop.com/fumen/?m115@HhI8AeF8CeH8AeB8JeAgHMhzDeeAAAvhC9jBlsBAAA?)
-* [SD1](https://harddrop.com/fumen/?v115@5gB8GeB8CeG8AeH8CeH8BeA8JeAgH5gRaGeRaKehHI?egHIegHJeAAAvhB9sBAAA)
-* [Yoshihiro SD](https://harddrop.com/fumen/?m115@RhG8CeI8KeAgHvhB9tBnmBHhE8EeD8ZeAAAvhBlsBA?AA)
-* [KGT](https://harddrop.com/fumen/?m115@pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgHvhDVhBDTB?lcBAAA)
-* [壺](http://fumen.zui.jp/?v115@9gC8CeF8EeF8CeG8CeD8JeAgHvhEXrB9lBlrBAAAAA?A)
+[![Windsor SD](https://fumen-svg-server--eight041.repl.co/?data=v115%400gB8GeB8HeC8AeI8CeH8AeE8JeAgWMAXORoDzXyTAS%3FIT7B0gRaGeRaLeiWIegWWeAAAvhGtgflgf9gBAAANrfFrBA%3FAA&delay=500)](https://harddrop.com/fumen/?v115@0gB8GeB8HeC8AeI8CeH8AeE8JeAgWMAXORoDzXyTAS?IT7B0gRaGeRaLeiWIegWWeAAAvhGtgflgf9gBAAANrfFrBA?AA)
+[![Windsor Mini](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhI8AeF8CeH8AeB8JeAgWOAXORoDzXyTASo93DuuBA%3FAMhzDeeAAPAAvhFVjf9jBAAA9sflsBAAA)](https://harddrop.com/fumen/?v115@HhI8AeF8CeH8AeB8JeAgWOAXORoDzXyTASo93DuuBA?AMhzDeeAAPAAvhFVjf9jBAAA9sflsBAAA)
+[![Single Double](https://fumen-svg-server--eight041.repl.co/?data=v115%405gB8GeB8CeG8AeH8CeH8BeA8JeAgWPATOZyDs488AQ%3FmqhECDdCA5gRaGeRaKehHIegHIegHJeAAAvhF9efVjftsfl%3Fsf9sBAAA)](https://harddrop.com/fumen/?v115@5gB8GeB8CeG8AeH8CeH8BeA8JeAgWPATOZyDs488AQ?mqhECDdCA5gRaGeRaKehHIegHIegHJeAAAvhF9efVjftsfl?sf9sBAAA)
+[![Yoshihiro SD](https://fumen-svg-server--eight041.repl.co/?data=v115%40bhI8KeAgWOAZn81DJ9VXEvoo2Az2AAAvhCVtf9tBAA%3FAMhB8CeF8DeG8MeAAAvhCtsflsBAAA)](https://harddrop.com/fumen/?v115@bhI8KeAgWOAZn81DJ9VXEvoo2Az2AAAvhCVtf9tBAA?AMhB8CeF8DeG8MeAAAvhCtsflsBAAA)
+[![KGT](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgWDAL71BAvh%3FGNhfVhBAAATTB9cflcBAAA)](https://harddrop.com/fumen/?v115@pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgWDAL71BAvh?GNhfVhBAAATTB9cflcBAAA)
+[![壺](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAAvhHXr%3FBtlfllf9lBAAPAA9rflrBAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAAvhHXr?Btlfllf9lBAAPAA9rflrBAAA)
 
 ### Single-Triple
 
