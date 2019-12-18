@@ -18,13 +18,13 @@ Single-Double
 [![KGT](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgWDAL71BAvh%3FGNhfVhBAAATTB9cflcBAAA)](https://harddrop.com/fumen/?v115@pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgWDAL71BAvh?GNhfVhBAAATTB9cflcBAAA)
 [![壺](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAAvhHXr%3FBtlfllf9lBAAPAA9rflrBAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAAvhHXr?Btlfllf9lBAAPAA9rflrBAAA)
 
-### Single-Triple
+Single-Triple
+--------------
 
-* [Kaslideoscope](https://harddrop.com/fumen/?m115@pgD8CeF8DeF8AeI8CeG8CeI8AeD8JeAgHhgRpHeRLH?ewDIewDAeiWEewDCegWEewDaeAAAvhC9rBtqBAAA)
-
-  - [Lucky hole](https://harddrop.com/fumen/?m115@fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgHvhD9m?BtlBFrBAAA)
+[![Kaslideoscope](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgD8CeF8DeF8AeI8CeG8CeI8AeD8JeAgWNALScDEJ3%3FENEzVzQEFBAAAhgRpHeRLHewDIewDAeiWEewDCegWEewDae%3FAAPAAvhHVcftlfVrf9rBAAAVhftqBAAA)](https://harddrop.com/fumen/?v115@pgD8CeF8DeF8AeI8CeG8CeI8AeD8JeAgWNALScDEJ3?ENEzVzQEFBAAAhgRpHeRLHewDIewDAeiWEewDCegWEewDae?AAPAAvhHVcftlfVrf9rBAAAVhftqBAAA)
+[![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgWMAMwg%3F%2FD5oo2Ao3krDvhM9SuAAVXftgfVmf9mBAAA9XfVcftlBAAA%3FNrfFrBAAA)](https://harddrop.com/fumen/?v115@fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgWMAMwg?/D5oo2Ao3krDvhM9SuAAVXftgfVmf9mBAAA9XfVcftlBAAA?NrfFrBAAA)
   
-* [May / Super Spiral 2](https://harddrop.com/fumen/?m115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgHfgRpHeRLH?ewDIewDAeBPFewDBeBPEewDceAAAvhCFqBtpBAAA)
+[![May](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgWDANyJDAfg%3FRpHeRLHewDIewDAeBPFewDBeBPEewDceAAPAAvhGVbftkfF%3FqBAAAVgftpBAAA)](https://harddrop.com/fumen/?v115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgWDANyJDAfg?RpHeRLHewDIewDAeBPFewDBeBPEewDceAAPAAvhGVbftkfF?qBAAAVgftpBAAA)
 
   - [Transfer to DT2](https://harddrop.com/fumen/?m115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgHvhCpkBEcB?nQB4gE8FeD8neAAA)
   - [Lucky hole](https://harddrop.com/fumen/?m115@fgB8BeG8CeG8AeI8BeH8CeG8BeI8AeG8Je9xmvhIVW?ftkfFlB9WfVbftkBAAAFqBAAA)
