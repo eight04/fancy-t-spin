@@ -31,6 +31,7 @@ Single-Double
 [![壺](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWHAlUlkDVPdCAvhHXr%3FQAAtlfllf9lBAAA9rflrBAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWHAlUlkDVPdCAvhHXr?QAAtlfllf9lBAAA9rflrBAAA)
 
+Single Double / Partial Imperial Cross
 [![Single Double](https://fumen-svg-server--eight041.repl.co/?data=v115%405gB8BeG8CeG8AeH8CeH8BeA8JeAgWPATOZyDs488AQ%3FmqhECDdCA)](https://harddrop.com/fumen/?v115@5gB8BeG8CeG8AeH8CeH8BeA8JeAgWPATOZyDs488AQ?mqhECDdCA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%405gB8BeG8CeG8AeH8CeH8BeA8JeAgWHAlUlkDVPdCAv%3FhI9efVjftsflsf9sBAAA9jfFoBAAA)](https://harddrop.com/fumen/?v115@5gB8BeG8CeG8AeH8CeH8BeA8JeAgWHAlUlkDVPdCAv?hI9efVjftsflsf9sBAAA9jfFoBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhG8CeF8DeG8MeAgWIAzOckDrOZyD5gR4GeR4KehlI%3FeglIeglJeAAA)](https://harddrop.com/fumen/?v115@HhG8CeF8DeG8MeAgWIAzOckDrOZyD5gR4GeR4KehlI?eglIeglJeAAA)
