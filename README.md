@@ -35,14 +35,16 @@ Single-Double
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%405gB8BeG8CeG8AeH8CeH8BeA8JeAgWHAlUlkDVPdCAv%3FhI9efVjftsflsf9sBAAA9jfFoBAAA)](https://harddrop.com/fumen/?v115@5gB8BeG8CeG8AeH8CeH8BeA8JeAgWHAlUlkDVPdCAv?hI9efVjftsflsf9sBAAA9jfFoBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhG8CeF8DeG8MeAgWIAzOckDrOZyD5gR4GeR4KehlI%3FeglIeglJeAAA)](https://harddrop.com/fumen/?v115@HhG8CeF8DeG8MeAgWIAzOckDrOZyD5gR4GeR4KehlI?eglIeglJeAAA)
 [![STSD Transform](https://fumen-svg-server--eight041.repl.co/?data=v115%405gB8GeB8CeG8AeH8CeH8BeA8JeAg0QAz%2BT7BFbEwCy%3FC5aEmXyGEvhG9efVjftsf1sBAAA5jBcZBHhF8DeE8YeAAA)](https://harddrop.com/fumen/?v115@5gB8GeB8CeG8AeH8CeH8BeA8JeAg0QAz+T7BFbEwCy?C5aEmXyGEvhG9efVjftsf1sBAAA5jBcZBHhF8DeE8YeAAA)
-> Single Double / Partial Imperial Cross
+> Single Double = Partial Imperial Cross
 
 Single-Triple
 --------------
 
-[![Kaslideoscope](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgD8CeF8DeF8AeI8CeG8CeI8AeD8JeAgWNALScDEJ3%3FENEzVzQEFBAAAhgRpHeRLHewDIewDAeiWEewDCegWEewDae%3FAAPAAvhHVcftlfVrf9rBAAAVhftqBAAA)](https://harddrop.com/fumen/?v115@pgD8CeF8DeF8AeI8CeG8CeI8AeD8JeAgWNALScDEJ3?ENEzVzQEFBAAAhgRpHeRLHewDIewDAeiWEewDCegWEewDae?AAPAAvhHVcftlfVrf9rBAAAVhftqBAAA)
-[![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgWMAMwg%3F%2FD5oo2Ao3krDvhM9SuAAVXftgfVmf9mBAAA9XfVcftlBAAA%3FNrfFrBAAA)](https://harddrop.com/fumen/?v115@fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgWMAMwg?/D5oo2Ao3krDvhM9SuAAVXftgfVmf9mBAAA9XfVcftlBAAA?NrfFrBAAA)
-  
+[![Kaslideoscope](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8HeA8GeC8AeI8CeG8CeI8AeD8JeAgWNALScDEJ3%3FENEzVzQEFBAAA)](https://harddrop.com/fumen/?v115@rgB8HeA8GeC8AeI8CeG8CeI8AeD8JeAgWNALScDEJ3?ENEzVzQEFBAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8HeA8GeC8AeI8CeG8CeI8AeD8JeAgWHAlUlkDVP%3FdCAvhHVcftlfVrf9rBAAAVhftqBAAA)](https://harddrop.com/fumen/?v115@rgB8HeA8GeC8AeI8CeG8CeI8AeD8JeAgWHAlUlkDVP?dCAvhHVcftlfVrf9rBAAAVhftqBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gC8GeC8GeC8CeI8AeD8JeAgWIAzOckDrOZyDrgR4G%3FeR4EehlDei0RpglFeg0RpgldeAAA)](https://harddrop.com/fumen/?v115@9gC8GeC8GeC8CeI8AeD8JeAgWIAzOckDrOZyDrgR4G?eR4EehlDei0RpglFeg0RpgldeAAA)
+[![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgWMAMwg%3F%2FD5oo2Ao3krD)](https://harddrop.com/fumen/?v115@fgD8BeG8CeG8AeI8CeG8CeI8AeH8AeE8JeAgWMAMwg?/D5oo2Ao3krD)
+
 [![May](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgWDANyJDAfg%3FRpHeRLHewDIewDAeBPFewDBeBPEewDceAAPAAvhGVbftkfF%3FqBAAAVgftpBAAA)](https://harddrop.com/fumen/?v115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgWDANyJDAfg?RpHeRLHewDIewDAeBPFewDBeBPEewDceAAPAAvhGVbftkfF?qBAAAVgftpBAAA)
 [![Transfer to DT2](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgWTA0LkJET6%3FMXEFbEcEvoo2AkupAAvhGRbuAApffpkBAAAUcB3QBAAA)](https://harddrop.com/fumen/?v115@pgB8HeA8IeA8AeI8BeH8CeG8BeG8JeAgWTA0LkJET6?MXEFbEcEvoo2AkupAAvhGRbuAApffpkBAAAUcB3QBAAA)
 [![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgB8BeG8CeG8AeI8BeH8CeG8BeI8AeG8JeAg0MAMwg%3F%2FD5oo2Ao3krDvhL9RuAAVWftffFlBAAA9WfVbftkBAAA9lf%3FFqBAAA)](https://harddrop.com/fumen/?v115@fgB8BeG8CeG8AeI8BeH8CeG8BeI8AeG8JeAg0MAMwg?/D5oo2Ao3krDvhL9RuAAVWftffFlBAAA9WfVbftkBAAA9lf?FqBAAA)
