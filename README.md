@@ -119,6 +119,7 @@ Double-Double
 
 [![Fractal](https://fumen-svg-server--eight041.repl.co/?data=v115%401gB8FeC8CeH8AeH8CeH8AeE8JeAgWHAmLckD0isCA)](https://harddrop.com/fumen/?v115@1gB8FeC8CeH8AeH8CeH8AeE8JeAgWHAmLckD0isCA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%401gB8FeC8CeH8AeH8CeH8AeE8JeAgWHAlUlkDVPdCAv%3FhFNhuAAFhBAAANrfFrBAAA)](https://harddrop.com/fumen/?v115@1gB8FeC8CeH8AeH8CeH8AeE8JeAgWHAlUlkDVPdCAv?hFNhuAAFhBAAANrfFrBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40%2FgA8GeD8AeI8AeI8AeE8JeAgWIAzOckDrOZyDhgR4B%3FeRpCeR4CeRpCeilAeBtDeglDeBtpeAAAhgxDBexSCexDCex%3FSCeiWAeBPDegWAACeBPBeDAjeAAPDADA%2FCAbgg0EeQ4Ceg0%3FEeR4Aeh0EeglQ4i0EeglCeg0EehljeAAA)](https://harddrop.com/fumen/?v115@/gA8GeD8AeI8AeI8AeE8JeAgWIAzOckDrOZyDhgR4B?eRpCeR4CeRpCeilAeBtDeglDeBtpeAAAhgxDBexSCexDCex?SCeiWAeBPDegWAACeBPBeDAjeAAPDADA/CAbgg0EeQ4Ceg0?EeR4Aeh0EeglQ4i0EeglCeg0EehljeAAA)
 [![Fractal 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgD8FeC8CeH8AeI8BeG8CeH8AeE8JeAgWLAmLckD0i%3FkTAS4oAAvhFNcuAAFcBAAANrfFrBAAA)](https://harddrop.com/fumen/?v115@pgD8FeC8CeH8AeI8BeG8CeH8AeE8JeAgWLAmLckD0i?kTAS4oAAvhFNcuAAFcBAAANrfFrBAAA)
 
 [![Cut Copy](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgB8BeB8CeB8CeH8AeI8CeH8AeI8AeE8JeAgWKADA3%3FTASI3LEwGCAA)](https://harddrop.com/fumen/?v115@qgB8BeB8CeB8CeH8AeI8CeH8AeI8AeE8JeAgWKADA3?TASI3LEwGCAA)
