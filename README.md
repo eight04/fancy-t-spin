@@ -182,6 +182,9 @@ Double-Triple
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40AhG8CeG8CeG8CeG8JeAgWIAzOckDrOZyDsgBtEeQ4C%3FeBtDeR4HeglQ4HeglIehlReAAPAA)](https://harddrop.com/fumen/?v115@AhG8CeG8CeG8CeG8JeAgWIAzOckDrOZyDsgBtEeQ4C?eBtDeR4HeglQ4HeglIehlReAAPAA)
 [![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40igH8CeH8AeI8AeH8BeI8AeH8AeH8JeAgWMAMwg%2FD5o%3Fo2Ao3krD)](https://harddrop.com/fumen/?v115@igH8CeH8AeI8AeH8BeI8AeH8AeH8JeAgWMAMwg/D5o?o2Ao3krD)
 
+[![FinT Cannon](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgB8IeI8AeF8DeF8DeF8BeH8AeE8JeAgWNAGORyCFb%3Fs2BBWZNEOBAAA)](http://harddrop.com/fumen/?v115@mgB8IeI8AeF8DeF8DeF8BeH8AeE8JeAgWNAGORyCFb?s2BBWZNEOBAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgB8IeI8AeF8DeF8DeF8BeH8AeE8JeAgWHAlUlkDVP%3FdCAvhMVYf9ifFiflhfNrBAAAUdfcsfEsfkrBVif9sBAAA)](http://harddrop.com/fumen/?v115@mgB8IeI8AeF8DeF8DeF8BeH8AeE8JeAgWHAlUlkDVP?dCAvhMVYf9ifFiflhfNrBAAAUdfcsfEsfkrBVif9sBAAA)
+
 Triple
 ---------
 
