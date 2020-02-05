@@ -1,7 +1,7 @@
 IKcco Opener
 ============
 
-IKcco is a first-bag air-TSD opener. It is always executable if T or L is earlier than either S or Z.
+IKcco is a first-bag air-TSD opener. It is always executable if L before S or J before Z.
 
 First bag
 ---------
