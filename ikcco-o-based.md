@@ -1,7 +1,7 @@
 IKcco Opener (O-based)
 ======================
 
-When J comes later than O, O have to be placed first.
+When J comes later than O, O has to be placed first.
 
 First bag
 --------
