@@ -78,6 +78,8 @@ Deal with early JLZS:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gRpg0ywAthlA8Rpi0BtR4E8wwAtR4glI8glA8JeAg%3FH)](http://fumen.zui.jp/?v115@9gRpg0ywAthlA8Rpi0BtR4E8wwAtR4glI8glA8JeAg?H)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gRpzhAtR4A8Rpi0BthlE8g0AtR4glI8glA8JeAgH)](http://fumen.zui.jp/?v115@9gRpzhAtR4A8Rpi0BthlE8g0AtR4glI8glA8JeAgH)
 
+> In the first image, I can be placed once Z is placed. Therefore you can stack it with queues like `LIZTSJO`.
+
 > In the fifth image, ZS can be placed after IL.
 
 Special cases (e.g. `[LI]TJ[ZO]S`, `[LI][JS]TOZ`):

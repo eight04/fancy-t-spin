@@ -3,6 +3,11 @@ Fancy T-Spin
 
 Beautiful T-spin patterns.
 
+Other pages:
+
+* [IKcco Opener](ikcco.md)
+* [IKcco Opener (O-based)](ikcco-o-based.md)
+
 Single
 -------
 
@@ -135,7 +140,10 @@ Double-Double
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgA8CeD8BeB8AeE8CeH8AeH8JeAgWHAlUlkDVPdCAv%3FhH9pflpBAAATpBSnBdrfFrBAAA)](https://harddrop.com/fumen/?v115@/gA8CeD8BeB8AeE8CeH8AeH8JeAgWHAlUlkDVPdCAv?hH9pflpBAAATpBSnBdrfFrBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40DhD8EeE8EeF8DeE8JeAgWIAzOckDrOZyD%2FgQ4IeR4I%3FeQ4glGeilOeAAA)](https://harddrop.com/fumen/?v115@DhD8EeE8EeF8DeE8JeAgWIAzOckDrOZyD/gQ4IeR4I?eQ4glGeilOeAAA)
 
-  
+[![Shachiku Train](https://fumen-svg-server--eight041.repl.co/?data=v115%409gF8DeE8CeH8AeK8AeA8JeAgWQAz8bkDoeihEFbEwC%3Fyy1JE)](https://harddrop.com/fumen/?v115@9gF8DeE8CeH8AeK8AeA8JeAgWQAz8bkDoeihEFbEwC?yy1JE)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gF8DeE8CeH8AeK8AeA8JeAgWHAlUlkDVPdCAvhGNn%3FfFnBAAAMnBNtfFtBAAA)](https://harddrop.com/fumen/?v115@9gF8DeE8CeH8AeK8AeA8JeAgWHAlUlkDVPdCAvhGNn?fFnBAAAMnBNtfFtBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40RhF8DeF8NeAgWIAzOckDrOZyD4gAtHeBtHeAtCehlG%3FeR4glFeR4AeglJeAAA4gAPHeBPDeD8AtA8BehWFeA8xDgWF%3FewhwDAegWJeAAeugAtHeBtHeAtCehlGeh0glGeg0AeglGeg%3F0LeAAAugAPHeBPHeAPCehWEeAAAehHgWEeBAgHAegWGegHL%3FeAAAogwhIewhCeR4DewhBeR4CeBtwhFeR4BtEeR4AeRpHeR%3FpJeAAAogQaIeQaCexDDeQaBexDCeBPQaEAAexDBPEexDAex%3FSFeAAAexSJeAAA8gg0CeR4Deg0BeR4CeAth0FeBtRpFeAtA%3FeRpJeAAA)](https://harddrop.com/fumen/?v115@RhF8DeF8NeAgWIAzOckDrOZyD4gAtHeBtHeAtCehlG?eR4glFeR4AeglJeAAA4gAPHeBPDeD8AtA8BehWFeA8xDgWF?ewhwDAegWJeAAeugAtHeBtHeAtCehlGeh0glGeg0AeglGeg?0LeAAAugAPHeBPHeAPCehWEeAAAehHgWEeBAgHAegWGegHL?eAAAogwhIewhCeR4DewhBeR4CeBtwhFeR4BtEeR4AeRpHeR?pJeAAAogQaIeQaCexDDeQaBexDCeBPQaEAAexDBPEexDAex?SFeAAAexSJeAAA8gg0CeR4Deg0BeR4CeAth0FeBtRpFeAtA?eRpJeAAA)
+
 [![Polymer](https://fumen-svg-server--eight041.repl.co/?data=v115%40igC8GeA8IeA8FeD8BeH8AeJ8BeH8AeD8JeAg0HAQ3E%3FvEtI6CA)](https://harddrop.com/fumen/?v115@igC8GeA8IeA8FeD8BeH8AeJ8BeH8AeD8JeAg0HAQ3E?vEtI6CA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40igC8GeA8IeA8FeD8BeH8AeJ8BeH8AeD8JeAg0HAlUl%3FkDVPdCAvhHlYflXfNhBAAAliflhftrBAAA)](https://harddrop.com/fumen/?v115@igC8GeA8IeA8FeD8BeH8AeJ8BeH8AeD8JeAg0HAlUl?kDVPdCAvhHlYflXfNhBAAAliflhftrBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40RhE8EeE8AeD8JeAg0IAzOckDrOZyDigilGeglFeTpF%3FeTpBeR4Atg0zhAeR4Btg0GeAth0TeAAeigiWGegWFezSFez%3FwBexDAPgHT4AexDBPgHDeAABeAPhHDeAAAeDAJeAAeZgg0I%3Fei0GewhIewhIewhBeR4AtDewhAeR4BtDeRpBeAtglDeRpAe%3FilJeAAeZggHIeiHGeQaIeQaIeQ4BexDAPDeQ4AexDBPDeww%3FwSBeAPgWDexwA8iWJeAAejgzhFeRpHeRpIeglBeR4EeglAe%3FR4g0EehlBeg0Heh0JeAAA)](https://harddrop.com/fumen/?v115@RhE8EeE8AeD8JeAg0IAzOckDrOZyDigilGeglFeTpF?eTpBeR4Atg0zhAeR4Btg0GeAth0TeAAeigiWGegWFezSFez?wBexDAPgHT4AexDBPgHDeAABeAPhHDeAAAeDAJeAAeZgg0I?ei0GewhIewhIewhBeR4AtDewhAeR4BtDeRpBeAtglDeRpAe?ilJeAAeZggHIeiHGeQaIeQaIeQ4BexDAPDeQ4AexDBPDeww?wSBeAPgWDexwA8iWJeAAejgzhFeRpHeRpIeglBeR4EeglAe?R4g0EehlBeg0Heh0JeAAA)
@@ -143,6 +151,8 @@ Double-Double
 [![TSD Neo TSD](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8IeA8CeE8AeH8BeG8CeG8BeI8AeE8JeAg0PAUNK%3FSAS4fqDvoo2AUNSBA)](https://harddrop.com/fumen/?v115@kgB8IeA8CeE8AeH8BeG8CeG8BeI8AeE8JeAg0PAUNK?SAS4fqDvoo2AUNSBA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8IeA8CeE8AeH8BeG8CeG8BeI8AeE8JeAg0HAlUl%3FkDVPdCAvhIVXuAA9hBAAAiXB9gflgfFhfdrBAAA)](https://harddrop.com/fumen/?v115@kgB8IeA8CeE8AeH8BeG8CeG8BeI8AeE8JeAg0HAlUl?kDVPdCAvhIVXuAA9hBAAAiXB9gflgfFhfdrBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%404gF8DeF8DeF8CeI8AeF8JeAg0IAzOckDrOZyDjgBtI%3FeBtCezhGeh0Heg0Ieg0beAAejgBPIeBPCeTaFeAAhHGeAAg%3FHIegHIeBAQeAAejgBtIeBtCeh0R4Feg0R4Geg0glIeglIeh%3FlQeAAe)](https://harddrop.com/fumen/?v115@4gF8DeF8DeF8CeI8AeF8JeAg0IAzOckDrOZyDjgBtI?eBtCezhGeh0Heg0Ieg0beAAejgBPIeBPCeTaFeAAhHGeAAg?HIegHIeBAQeAAejgBtIeBtCeh0R4Feg0R4Geg0glIeglIeh?lQeAAe)
+
+[![DT Variant](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40igB8IeA8EeilAeF8glCeH8CeH8AeI8AeF8JeAgWMAk%3Fe88AQhDXEpCReEhgg0hWIegWEeiWAeQaAADeg0A8BeRaIeQ%3FaheAAAYgQ4HegHxhIewhEeC8AeAPQpHeBPIewSHeBPHeAPA%3FANeAAA)](https://harddrop.com/fumen/?v115@igB8IeA8EeilAeF8glCeH8CeH8AeI8AeF8JeAgWMAk?e88AQhDXEpCReEhgg0hWIegWEeiWAeQaAADeg0A8BeRaIeQ?aheAAAYgQ4HegHxhIewhEeC8AeAPQpHeBPIewSHeBPHeAPA?ANeAAA)
 
 Double-Double-Double
 --------------------
