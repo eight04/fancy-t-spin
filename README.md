@@ -7,6 +7,7 @@ Other pages:
 
 * [IKcco Opener](ikcco.md)
 * [IKcco Opener (O-based)](ikcco-o-based.md)
+* [Donation](donation.md)
 
 Single
 -------
