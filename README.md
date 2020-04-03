@@ -47,6 +47,10 @@ Single-Double
 [![STSD Transform](https://fumen-svg-server--eight041.repl.co/?data=v115%405gB8GeB8CeG8AeH8CeH8BeA8JeAg0QAz%2BT7BFbEwCy%3FC5aEmXyGEvhG9efVjftsf1sBAAA5jBcZBHhF8DeE8YeAAA)](https://harddrop.com/fumen/?v115@5gB8GeB8CeG8AeH8CeH8BeA8JeAg0QAz+T7BFbEwCy?C5aEmXyGEvhG9efVjftsf1sBAAA5jBcZBHhF8DeE8YeAAA)
 > Single Double = Partial Imperial Cross
 
+[![Partial Shachiku Train](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgB8FeC8GeD8AeM8AeA8JeAgWaAQCaeEpikTASIz0D%3Fhl74DrQ98AQuReDJ2BAA)](https://harddrop.com/fumen/?v115@/gB8FeC8GeD8AeM8AeA8JeAgWaAQCaeEpikTASIz0D?hl74DrQ98AQuReDJ2BAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgB8FeC8GeD8AeM8AeA8JeAgWHAlUlkDVPdCAvhGNm%3FfFmBAAAcnBNtfFtBAAA)](https://harddrop.com/fumen/?v115@/gB8FeC8GeD8AeM8AeA8JeAgWHAlUlkDVPdCAvhGNm?fFmBAAAcnBNtfFtBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40RhD8AeB8CeH8LeAgWIAzOckDrOZyD%2FgR4GeR4Nei0I%3Feg0JeAAA%2FgxDGexDKeA8AeAAiHGeAAAeglJeAAABhR4GeR4%3FLeilGeglLeAAABhxDGexDLehWg0FeAAgWLeAAA4gAtHeBtH%3FeAtLeR4GeR4LeAAA)](https://harddrop.com/fumen/?v115@RhD8AeB8CeH8LeAgWIAzOckDrOZyD/gR4GeR4Nei0I?eg0JeAAA/gxDGexDKeA8AeAAiHGeAAAeglJeAAABhR4GeR4?LeilGeglLeAAABhxDGexDLehWg0FeAAgWLeAAA4gAtHeBtH?eAtLeR4GeR4LeAAA)
+
 Single-Triple
 --------------
 
