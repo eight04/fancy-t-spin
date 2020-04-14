@@ -12,7 +12,11 @@ Other pages:
 Single
 -------
 
-[![Hamburger](https://fumen-svg-server--eight041.repl.co/?data=v115%40mfG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8De%3FF8CeG8CeG8JeAgWJAIyehDVsZrDSBAAAvhJ0pBdlfFlBAAA%3F0fBdbfFbBAAAJkBAAA&delay=500)](https://harddrop.com/fumen/?v115@mfG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8De?F8CeG8CeG8JeAgWJAIyehDVsZrDSBAAAvhJ0pBdlfFlBAAA?0fBdbfFbBAAAJkBAAA)
+[![Hamburger](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhG8DeH8AeG8AeI8JeAgWJAIyehDVsZrDSBAAA)](https://harddrop.com/fumen/?v115@AhG8DeH8AeG8AeI8JeAgWJAIyehDVsZrDSBAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhG8DeH8AeG8AeI8JeAgWHAlUlkDVPdCAvhCdlfFlB%3FAAA)](https://harddrop.com/fumen/?v115@AhG8DeH8AeG8AeI8JeAgWHAlUlkDVPdCAvhCdlfFlB?AAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40UhG8CeG8JeAgWIAzOckDrOZyD2gQ4IeR4IeQ4EeBtI%3FeBtQeAAA2gwDIexDHeA8whE8BPA8HeAPAtQeAAAsgQ4IeR4%3FIeQ4EehlIeglIeglReAAA)](https://harddrop.com/fumen/?v115@UhG8CeG8JeAgWIAzOckDrOZyD2gQ4IeR4IeQ4EeBtI?eBtQeAAA2gwDIexDHeA8whE8BPA8HeAPAtQeAAAsgQ4IeR4?IeQ4EehlIeglIeglReAAA)
+[![Loop](https://fumen-svg-server--eight041.repl.co/?data=v115%40UhG8CeG8JeAgWEAMnzQEvhAkpQAA2gG8CeG8DeF8de%3FAAAvhDdlfFlBAAA0fBigG8CeG8DeF8xeAAAvhDdbfFbBAAA%3FZkB)](https://harddrop.com/fumen/?v115@UhG8CeG8JeAgWEAMnzQEvhAkpQAA2gG8CeG8DeF8de?AAAvhDdlfFlBAAA0fBigG8CeG8DeF8xeAAAvhDdbfFbBAAA?ZkB)
+
 
 Single-Double
 --------------
