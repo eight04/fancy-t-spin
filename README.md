@@ -81,6 +81,9 @@ Single-Triple
 [![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgD8BeG8DeG8AeJ8AeJ8AeC8JeAgWMAMwg%2FD5oo2Ao%3F3krD)](https://harddrop.com/fumen/?v115@zgD8BeG8DeG8AeJ8AeJ8AeC8JeAgWMAMwg/D5oo2Ao?3krD)
 [![Compare to Chidori](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gD8BeG8DeG8AeJ8AeD8JeAgWWADHvQEBMVTASYlNE%3FFbs2BouCNEyuBAADhAAIeA8geAAPAA)](https://harddrop.com/fumen/?v115@9gD8BeG8DeG8AeJ8AeD8JeAgWWADHvQEBMVTASYlNE?Fbs2BouCNEyuBAADhAAIeA8geAAPAA)
 
+[![Single Triple 2](https://fumen-svg-server--eight041.repl.co/?data=v115%409gD8BeH8CeF8CeH8AeE8JeAgWTATOZyDs488AQuR5D%3FQDVTAS4oAA)](https://harddrop.com/fumen/?v115@9gD8BeH8CeF8CeH8AeE8JeAgWTATOZyDs488AQuR5D?QDVTAS4oAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gD8BeH8CeF8CeH8AeE8JeAgWHAlUlkDVPdCAvhHNr%3FfFrfdrBAAAOhBViftrBAAA)](https://harddrop.com/fumen/?v115@9gD8BeH8CeF8CeH8AeE8JeAgWHAlUlkDVPdCAvhHNr?fFrfdrBAAAOhBViftrBAAA)
+
 Double
 ---------
 
