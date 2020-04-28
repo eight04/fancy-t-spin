@@ -21,6 +21,8 @@ Col 1
 [![O/L/J](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40AhA8AeE8AeI8AeI8AeI8JeAgWFAPXL0AqAAAAqghlB%3FeBtCeRpglCeBtBeRpglueAAPAAqgxwGeBtHeRaveAAAqgBP%3FGeQaAPwhGeCtueAAAkgQ4EewhQpBeRpCegWwhQpCeQpAPBe%3FgWweAAAggglIegWgHGeglgWAPGeglweAAAggAtIeAtIeAtH%3FeCPueAAA)](https://harddrop.com/fumen/?v115@AhA8AeE8AeI8AeI8AeI8JeAgWFAPXL0AqAAAAqghlB?eBtCeRpglCeBtBeRpglueAAPAAqgxwGeBtHeRaveAAAqgBP?GeQaAPwhGeCtueAAAkgQ4EewhQpBeRpCegWwhQpCeQpAPBe?gWweAAAggglIegWgHGeglgWAPGeglweAAAggAtIeAtIeAtH?eCPueAAA)
 [![O/L/J 2](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%402gA8AeE8CeG8AeI8AeI8AeI8JeAgWJAPXL0AKoo2AS%3FAAAAkgBtCeilCeBtBeglRpHeRpueAAApgwwIewwAtQaHeAt%3FQaueAAApgAPwhAtGeBPAtHeQaAtueAAAagQ4IeRpCeRpDeQ%3FpAPBexhIehWueAAAhgglGeCPGehlIeAPglueAAA)](https://harddrop.com/fumen/?v115@2gA8AeE8CeG8AeI8AeI8AeI8JeAgWJAPXL0AKoo2AS?AAAAkgBtCeilCeBtBeglRpHeRpueAAApgwwIewwAtQaHeAt?QaueAAApgAPwhAtGeBPAtHeQaAtueAAAagQ4IeRpCeRpDeQ?pAPBexhIehWueAAAhgglGeCPGehlIeAPglueAAA)
 
+[![JZS](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40wgC8DeA8AeD8DeF8AeI8AeI8AeI8JeAgWDAqH0BAgg%3FAtAeR4EeBtR4FeAti0Ieg0teAAA)](https://harddrop.com/fumen/?v115@wgC8DeA8AeD8DeF8AeI8AeI8AeI8JeAgWDAqH0BAgg?AtAeR4EeBtR4FeAti0Ieg0teAAA)
+
 [![STSD](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40DhD8AeI8AeI8AeI8JeAgWEAz%2BT7BagBtIeBtBeilR4%3FAeRpBeglg0R4BeRpCei0teAAPAA)](https://harddrop.com/fumen/?v115@DhD8AeI8AeI8AeI8JeAgWEAz+T7BagBtIeBtBeilR4?AeRpBeglg0R4BeRpCei0teAAPAA)
 
 Col 2
@@ -45,3 +47,11 @@ Col 2
 
 [![Shachiku Train](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%403gF8DeG8AeI8AeI8AeH8JeAgWQAz8bkDoeihEFbEwC%3Fyy1JEZgQ4IeR4Deh0CeQ4Deg0BtGeg0AeBtteAAA)](https://harddrop.com/fumen/?v115@3gF8DeG8AeI8AeI8AeH8JeAgWQAz8bkDoeihEFbEwC?yy1JEZgQ4IeR4Deh0CeQ4Deg0BtGeg0AeBtteAAA)
 [![LZS](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ChF8AeI8AeI8AeH8JeAgWDAsH0BAkgQ4DeglDeR4Ce%3FglBtCeQ4CehlBtteAAA)](https://harddrop.com/fumen/?v115@ChF8AeI8AeI8AeH8JeAgWDAsH0BAkgQ4DeglDeR4Ce?glBtCeQ4CehlBtteAAA)
+
+Overhang cleanup
+----------------
+
+[![Fin](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8BeH8DeF8DeH8BeI8AeA8JeAgWDAGOxCAvhEdif%3FFiflifdtBAAA)](https://harddrop.com/fumen/?v115@zgE8BeH8DeF8DeH8BeI8AeA8JeAgWDAGOxCAvhEdif?FiflifdtBAAA)
+[![Fin](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhE8BeH8DeF8CeB8JeAgWDAGOxCA3gR4BeRpCeR4Ce%3FRpEeglIeglIehlMeAAA)](https://harddrop.com/fumen/?v115@HhE8BeH8DeF8CeB8JeAgWDAGOxCA3gR4BeRpCeR4Ce?RpEeglIeglIehlMeAAA)
+[![Fin](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce%3FilFeg0Ieg0Heh0MeAAA)](https://harddrop.com/fumen/?v115@HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce?ilFeg0Ieg0Heh0MeAAA)
+[![Fin](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce%3FilFeAtHeBtHeAtNeAAA)](https://harddrop.com/fumen/?v115@HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce?ilFeAtHeBtHeAtNeAAA)
