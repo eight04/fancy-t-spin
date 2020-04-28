@@ -282,8 +282,12 @@ Triple-Double-Double
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40JhH8CeG8AeI8JeAgWIAzOckDrOZyDfgh0Heg0Ieg0A%3FeBtFewhBeBtEewhIewhIewhSeAAA)](https://harddrop.com/fumen/?v115@JhH8CeG8AeI8JeAgWIAzOckDrOZyDfgh0Heg0Ieg0A?eBtFewhBeBtEewhIewhIewhSeAAA)
 [![King Crimson Transfer](https://fumen-svg-server--eight041.repl.co/?data=v115%40ThH8CeG8JeAgWZALOZyDFbs2By%2B2aEPG98AQuReDud%3FXrDSBAAAvhC0gBZkBcVBBhF8EeE8deAAAvhFVbftkBAAAOa%3FB5gB6RB)](https://harddrop.com/fumen/?v115@ThH8CeG8JeAgWZALOZyDFbs2By+2aEPG98AQuReDud?XrDSBAAAvhC0gBZkBcVBBhF8EeE8deAAAvhFVbftkBAAAOa?B5gB6RB)
 
+[![???](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWJ%3FAl8NSATJUABmAAAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWJ?Al8NSATJUABmAAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWH%3FAlUlkDVPdCAvhLVTftcfVif9sBAAAViftrBAAAXtBNsfFsB%3FAAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWH?AlUlkDVPdCAvhLVTftcfVif9sBAAAViftrBAAAXtBNsfFsB?AAA)
+
 References
 -----------
 
 * [Harddrop Wiki](https://harddrop.com/wiki/Tetris_Wiki)
 * [テトリステンプレ集 (atwiki)](https://w.atwiki.jp/tetrismaps/)
+* [Cold Clear](https://www.youtube.com/channel/UCg0eIg-Sst99BTf8fT_Cd0g/videos)
