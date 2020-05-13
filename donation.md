@@ -25,6 +25,7 @@ Col 1
 
 [![STSD](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40DhD8AeI8AeI8AeI8JeAgWEAz%2BT7BagBtIeBtBeilR4%3FAeRpBeglg0R4BeRpCei0teAAPAA)](https://harddrop.com/fumen/?v115@DhD8AeI8AeI8AeI8JeAgWEAz+T7BagBtIeBtBeilR4?AeRpBeglg0R4BeRpCei0teAAPAA)
 
+[![DT](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%402gG8CeG8AeI8AeI8AeI8JeAgWCAkOBAADghlIeglFe%3Fh0AeglFeg0BeBtEeg0CeBtDeRpHeRpveAAA)](https://harddrop.com/fumen/?v115@2gG8CeG8AeI8AeI8AeI8JeAgWCAkOBAADghlIeglFe?h0AeglFeg0BeBtEeg0CeBtDeRpHeRpveAAA)
 [![Partial DT](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%403gF8DeF8AeI8AeI8AeI8JeAgWMAQCaeEpikTASYxwC%3FEghlIeglFeR4AeglEeR4BeBtDeh0CeBtCeg0RpGeg0RpueA%3FAApgxSHewSAeQaGeAPRaueAAApgQaAtHeQaAtwwIewwueAA%3FApgglwSHeAtxSGeBtQaueAAA)](https://harddrop.com/fumen/?v115@3gF8DeF8AeI8AeI8AeI8JeAgWMAQCaeEpikTASYxwC?EghlIeglFeR4AeglEeR4BeBtDeh0CeBtCeg0RpGeg0RpueA?AApgxSHewSAeQaGeAPRaueAAApgQaAtHeQaAtwwIewwueAA?ApgglwSHeAtxSGeBtQaueAAA)
 
 Col 2
