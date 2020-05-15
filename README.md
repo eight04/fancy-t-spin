@@ -302,3 +302,4 @@ References
 * [Harddrop Wiki](https://harddrop.com/wiki/Tetris_Wiki)
 * [テトリステンプレ集 (atwiki)](https://w.atwiki.jp/tetrismaps/)
 * [Cold Clear](https://www.youtube.com/channel/UCg0eIg-Sst99BTf8fT_Cd0g/videos)
+* [たいようあめみや](https://www.youtube.com/channel/UCHog7L3CzsDg2GH9aza1bPg)
