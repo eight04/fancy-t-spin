@@ -43,6 +43,10 @@ Single-Double
 [![No hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhD8CeG8BeG8CeD8JeAgWJAOH98AQcTDEFBAAAvhC9%3FrfVwBAAA)](https://harddrop.com/fumen/?v115@HhD8CeG8BeG8CeD8JeAgWJAOH98AQcTDEFBAAAvhC9?rfVwBAAA)
 [![STMB Transfer](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgWPAzeW0BFb%3FEwCyC5aEmI6CAvhDXTBMMBTLB%2BPB)](https://harddrop.com/fumen/?v115@pgD8CeG8BeG8CeH8AeI8AeI8AeE8JeAgWPAzeW0BFb?EwCyC5aEmI6CAvhDXTBMMBTLB+PB)
 
+[![Parapet Double](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgC8GeB8CeG8BeG8CeH8AeG8JeAgWQAQCSeDwo2TAS%3FY5LEVkkrD)](https://harddrop.com/fumen/?v115@zgC8GeB8CeG8BeG8CeH8AeG8JeAgWQAQCSeDwo2TAS?Y5LEVkkrD)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgC8GeB8CeG8BeG8CeH8AeG8JeAgWHAlUlkDVPdCAv%3FhJtgflgf9gf9lfFqfdqBAAAtlfllBAAA)](https://harddrop.com/fumen/?v115@zgC8GeB8CeG8BeG8CeH8AeG8JeAgWHAlUlkDVPdCAv?hJtgflgf9gf9lfFqfdqBAAAtlfllBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ChE8EeE8EeG8CeE8JeAgWIAzOckDrOZyDzgilGeglA%3FtHeBtBeg0EeAtCeg0Heh0OeAAA)](https://harddrop.com/fumen/?v115@ChE8EeE8EeG8CeE8JeAgWIAzOckDrOZyDzgilGeglA?tHeBtBeg0EeAtCeg0Heh0OeAAA)
+
 [![壺](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWHAlUlkDVPdCAvhHXr%3FQAAtlfllf9lBAAA9rflrBAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWHAlUlkDVPdCAvhHXr?QAAtlfllf9lBAAA9rflrBAAA)
 
