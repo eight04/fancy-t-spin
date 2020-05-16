@@ -30,3 +30,7 @@ Double Double
 [![S Cut Copy 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8EeE8EeF8AeG8JeAgWSAToo2ADA3TASI3LEwW98%3FAQbAAAvhD0fB3bBcmfEmB)](https://harddrop.com/fumen/?v115@HhA8EeE8EeF8AeG8JeAgWSAToo2ADA3TASI3LEwW98?AQbAAAvhD0fB3bBcmfEmB)
 [![Shachiku Train](https://fumen-svg-server--eight041.repl.co/?data=v115%409gF8DeE8EeF8DeF8NeAgWQAz8bkDoeihEFbEwCyy1J%3FEvhC6tB%2FsfnsB)](https://harddrop.com/fumen/?v115@9gF8DeE8EeF8DeF8NeAgWQAz8bkDoeihEFbEwCyy1J?EvhC6tB/sfnsB)
 
+Triple
+------
+
+[![JZ Crush](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhG8DeI8AeF8JeAgWKAqn88AwUxhETtBAAvhHOkBac%3FB0VfUbfcgfElfskBAAA)](https://harddrop.com/fumen/?v115@KhG8DeI8AeF8JeAgWKAqn88AwUxhETtBAAvhHOkBac?B0VfUbfcgfElfskBAAA)
