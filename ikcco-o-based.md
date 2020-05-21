@@ -30,9 +30,15 @@ If the first path is not possible, you can try to stack a TSD by placing S at th
 
 ### 3
 
-With an early Z, you can spin a TSS to setup STSD.
+With an early ZIJ, you can spin a TSS to setup STSD.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gh0AewhFeg0BewhBeBtBeg0B8whCeBtB8BewhA8Ae%3FB8AeA8JelLJ)](https://harddrop.com/fumen/?v115@9gh0AewhFeg0BewhBeBtBeg0B8whCeBtB8BewhA8Ae?B8AeA8JelLJ)
+
+### 3-2
+
+If I comes last, setup a donation TSD which comes with another TSD chance.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gzhCeg0CeRpDeg0ilRpAeBth0glB8R4BeBtB8AeR4%3FA8AeB8AeA8JetLJ)](https://harddrop.com/fumen/?v115@1gzhCeg0CeRpDeg0ilRpAeBth0glB8R4BeBtB8AeR4?A8AeB8AeA8JetLJ)
 
 ### 4
 
