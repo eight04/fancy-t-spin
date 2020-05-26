@@ -64,6 +64,31 @@ Simple tetris.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgCtwhItwhFtA8BtwhEtD8whCtD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@zgCtwhItwhFtA8BtwhEtD8whCtD8BeG8JeAgH)
 
+
+### 3-3
+
+Stack a fin which comes to another TSD chance.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40lgglGeilCeQ4Eewhi0R4DewhRpg0A8Q4BtBewhRpD8%3FBtAewhD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@lgglGeilCeQ4Eewhi0R4DewhRpg0A8Q4BtBewhRpD8?BtAewhD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgg0Iei0CeQ4EewhglRpR4DewhglRpA8Q4BtBewhhl%3FD8BtAewhD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@jgg0Iei0CeQ4EewhglRpR4DewhglRpA8Q4BtBewhhl?D8BtAewhD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgzhRpAeQ4Eeg0RpAeR4Dei0AeA8Q4BtBeilD8BtAe%3FglD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@sgzhRpAeQ4Eeg0RpAeR4Dei0AeA8Q4BtBeilD8BtAe?glD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgi0RpAeQ4Eeg0RpAeR4DezhA8Q4BtBeilD8BtAegl%3FD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@tgi0RpAeQ4Eeg0RpAeR4DezhA8Q4BtBeilD8BtAegl?D8BeG8JeAgH)
+
+### 3-4
+
+Clean up the left part with TSM.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%406gglIeglBeA8Beg0CehlD8i0AeD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@6gglIeglBeA8Beg0CehlD8i0AeD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FghlBeg0CeA8BeglBei0D8glCeD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@/ghlBeg0CeA8BeglBei0D8glCeD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhAtCeR4A8BeBtBeR4D8AtCeD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@BhAtCeR4A8BeBtBeR4D8AtCeD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhR4DeA8BeR4glCeD8ilAeD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@BhR4DeA8BeR4glCeD8ilAeD8BeG8JeAgH)
+
+TSS.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gQ4IeR4DeA8DeQ4glBeD8AeilD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@3gQ4IeR4DeA8DeQ4glBeD8AeilD8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gAtHeBtDeA8Beg0AtDeD8i0AeD8BeG8JeAgH)](https://harddrop.com/fumen/?v115@4gAtHeBtDeA8Beg0AtDeD8i0AeD8BeG8JeAgH)
+
+
 Fourth bag
 ----------
 
