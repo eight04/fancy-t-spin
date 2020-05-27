@@ -13,6 +13,8 @@ Double
 [![LS](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhF8CeH8BeF8JeAgWCAMNBAAvhEifQAAXhf3lfXlff%3FqB)](https://harddrop.com/fumen/?v115@MhF8CeH8BeF8JeAgWCAMNBAAvhEifQAAXhf3lfXlff?qB)
 [![ZS](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8BeH8BeI8AeG8JeAgWCAaNBAAvhEcaB3bfXgffq%3FBAAA)](https://harddrop.com/fumen/?v115@HhA8BeH8BeI8AeG8JeAgWCAaNBAAvhEcaB3bfXgffq?BAAA)
 
+[![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA%3FvhDmmBKqfiqfCrB)](https://harddrop.com/fumen/?v115@9gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA?vhDmmBKqfiqfCrB)
+
 [![L Crush](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhG8CeG8CeG8BeA8JeAgWJAMoo2AjLJbEIBAAAvhDT%3FdQAA6ofCtBAAA)](https://harddrop.com/fumen/?v115@HhG8CeG8CeG8BeA8JeAgWJAMoo2AjLJbEIBAAAvhDT?dQAA6ofCtBAAA)
 [![J Crush](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhG8CeG8CeH8LeAgWJAKoo2AjLJbEIBAAAvhDTdB%2Bt%3FfGtBAAA)](https://harddrop.com/fumen/?v115@HhG8CeG8CeH8LeAgWJAKoo2AjLJbEIBAAAvhDTdB+t?fGtBAAA)
 [![J Crush (STMB)](https://fumen-svg-server--eight041.repl.co/?data=v115%409gE8EeF8CeI8AeI8AeA8JeAgWWAKoo2AjLJbEooo2A%3FFb%2BsCUkFSAylAAAvhEXdB%2BefejfmnBAAA)](https://harddrop.com/fumen/?v115@9gE8EeF8CeI8AeI8AeA8JeAgWWAKoo2AjLJbEooo2A?Fb+sCUkFSAylAAAvhEXdB+efejfmnBAAA)
