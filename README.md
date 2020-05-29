@@ -266,7 +266,7 @@ Double-Triple
 Triple
 ---------
 
-[![Triple](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40RhA8IeA8AeH8JeAgWGA0LmQEsoBAAzgh0Heg0Ieg0A%3FeBtIeBtYeAAPAAtgF8hHBeF8gHCeF8gHAeBPF8AABeAPAtE%3F8TeAAAVgh0Heg0Ieg0AehlFewhBeglFewhAeQ4glFewhAeR%3F4FewhBeQ4ZeAAeVghHHegHIegHAehWFAQaBegWFAQaAewDg%3FWFAQ4AewDwhFeQ4BewhZeAAtNAnLeGEFbMECy3eeEPBAAAp%3Fgh0Heg0Ieg0AeR4GeR4keAAtAApghHHegHIegHAexDFeAAx%3FDkeAAtPAz8zCEsn9TASIIWEBSdCApgh0Heg0Ieg0AeglGei%3FlkeAAtAApghHHegHIegHAeg0G8hWg0GeAAceAAtNAv%2BbrDy%3Foo2AjLJbEIBAAAggAtHeBtHeAtIeh0Heg0Ieg0ceAAPAAqg%3FAPHeBPHeAPCeF8gHAeAAGegHBeAAGeA8AAQeAAPNAv%2BbrDy%3Foo2AjLJbEIBAAAqgR4GeR4HejlFehlHehlbeAAA0gxDGexD%3FBeF8hWHehWbeAAAqgR4GeR4HezhFeRpHeRpbeAAA)](https://harddrop.com/fumen/?v115@RhA8IeA8AeH8JeAgWGA0LmQEsoBAAzgh0Heg0Ieg0A?eBtIeBtYeAAPAAtgF8hHBeF8gHCeF8gHAeBPF8AABeAPAtE?8TeAAAVgh0Heg0Ieg0AehlFewhBeglFewhAeQ4glFewhAeR?4FewhBeQ4ZeAAeVghHHegHIegHAehWFAQaBegWFAQaAewDg?WFAQ4AewDwhFeQ4BewhZeAAtNAnLeGEFbMECy3eeEPBAAAp?gh0Heg0Ieg0AeR4GeR4keAAtAApghHHegHIegHAexDFeAAx?DkeAAtPAz8zCEsn9TASIIWEBSdCApgh0Heg0Ieg0AeglGei?lkeAAtAApghHHegHIegHAeg0G8hWg0GeAAceAAtNAv+brDy?oo2AjLJbEIBAAAggAtHeBtHeAtIeh0Heg0Ieg0ceAAPAAqg?APHeBPHeAPCeF8gHAeAAGegHBeAAGeA8AAQeAAPNAv+brDy?oo2AjLJbEIBAAAqgR4GeR4HejlFehlHehlbeAAA0gxDGexD?BeF8hWHehWbeAAAqgR4GeR4HezhFeRpHeRpbeAAA)
+[![Triple](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40RhA8IeA8AeH8JeAgWGA0LmQEsoBAAzgh0Heg0Ieg0A%3FeBtIeBtYeAAPAAzghHHegHIeglAeAPAtF8CeBtE8TeAAtNA%3FnLeGEFbMECy3eeEPBAAApgh0Heg0Ieg0AeR4GeR4keAAtAA%3FpghHHegHIegHAexDFeAAxDkeAAtPAz8zCEsn9TASIIWEBSd%3FCApgh0Heg0Ieg0AeglGeilkeAAtAApghHHegHIegHAeg0G8%3FhWg0GeAAceAAtNAv%2BbrDyoo2AjLJbEIBAAAggAtHeBtHeAt%3FIeh0Heg0Ieg0ceAAPAAqgAPHeBPHeAPCeF8gHAeAAGegHBe%3FAAGeA8AAQeAAPNAv%2BbrDyoo2AjLJbEIBAAAqgR4GeR4Hejl%3FFehlHehlbeAAA0gxDGexDBeF8hWHehWbeAAAqgR4GeR4Hez%3FhFeRpHeRpbeAAA)](https://harddrop.com/fumen/?v115@RhA8IeA8AeH8JeAgWGA0LmQEsoBAAzgh0Heg0Ieg0A?eBtIeBtYeAAPAAzghHHegHIeglAeAPAtF8CeBtE8TeAAtNA?nLeGEFbMECy3eeEPBAAApgh0Heg0Ieg0AeR4GeR4keAAtAA?pghHHegHIegHAexDFeAAxDkeAAtPAz8zCEsn9TASIIWEBSd?CApgh0Heg0Ieg0AeglGeilkeAAtAApghHHegHIegHAeg0G8?hWg0GeAAceAAtNAv+brDyoo2AjLJbEIBAAAggAtHeBtHeAt?Ieh0Heg0Ieg0ceAAPAAqgAPHeBPHeAPCeF8gHAeAAGegHBe?AAGeA8AAQeAAPNAv+brDyoo2AjLJbEIBAAAqgR4GeR4Hejl?FehlHehlbeAAA0gxDGexDBeF8hWHehWbeAAAqgR4GeR4Hez?hFeRpHeRpbeAAA)
 [![STSD transfer](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8AeI8BeG8JeAg0PAz%2BT7BFbEcEyC5aEmI6CAvhD%3FZaBOLBvgB6WBjgF8DeF8DeF8DeF8DeF8deAAAvhHVMftVBA%3FAAVbftkBAAAzlB0bB)](https://harddrop.com/fumen/?v115@RhA8AeI8BeG8JeAg0PAz+T7BFbEcEyC5aEmI6CAvhD?ZaBOLBvgB6WBjgF8DeF8DeF8DeF8DeF8deAAAvhHVMftVBA?AAVbftkBAAAzlB0bB)
 
 [![Super Spiral](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeC8AeG8CeG8CeI8AeF8JeAgWOATAurDyo%3Fo2AzIWXEBzBAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeC8AeG8CeG8CeI8AeF8JeAgWOATAurDyo?o2AzIWXEBzBAA)
@@ -310,6 +310,13 @@ Triple-Double-Double
 
 [![???](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWJ%3FAl8NSATJUABmAAAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWJ?Al8NSATJUABmAAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWH%3FAlUlkDVPdCAvhLVTftcfVif9sBAAAViftrBAAAXtBNsfFsB%3FAAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWH?AlUlkDVPdCAvhLVTftcfVif9sBAAAViftrBAAAXtBNsfFsB?AAA)
+
+Triple-Triple
+-------------
+
+[![TST Tower](https://fumen-svg-server--eight041.repl.co/?data=v115%40XgB8IeA8FeB8AeH8BeI8AeI8AeH8BeI8AeG8JeAgWL%3FAUNuSASYdME3I6CA)](https://harddrop.com/fumen/?v115@XgB8IeA8FeB8AeH8BeI8AeI8AeH8BeI8AeG8JeAgWL?AUNuSASYdME3I6CA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40XgB8IeA8FeB8AeH8BeI8AeI8AeH8BeI8AeG8JeAgWH%3FAlUlkDVPdCAvhHNLf1QfdbBAAANaf1ffdqBAAA)](https://harddrop.com/fumen/?v115@XgB8IeA8FeB8AeH8BeI8AeI8AeH8BeI8AeG8JeAgWH?AlUlkDVPdCAvhHNLf1QfdbBAAANaf1ffdqBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40tgF8DeF8DeF8DeF8DeH8AeG8JeAgWIAzOckDrOZyDX%3FghlIeglFeh0AeglFeg0BewhFeg0AtAewhFeBtAewhFeAtBe%3FwhZeAAAOgG8BegWg0F8Ceg0F8hHAeg0FegHBeQ4FegHAPAe%3FQ4FeBPAeQ4FeAtBeQ4ZeAAAvfQ4IeR4IeQ4Feh0Heg0Ieg0%3FAtHeBtHeAtIeRpHeRpleAAA)](https://harddrop.com/fumen/?v115@tgF8DeF8DeF8DeF8DeH8AeG8JeAgWIAzOckDrOZyDX?ghlIeglFeh0AeglFeg0BewhFeg0AtAewhFeBtAewhFeAtBe?whZeAAAOgG8BegWg0F8Ceg0F8hHAeg0FegHBeQ4FegHAPAe?Q4FeBPAeQ4FeAtBeQ4ZeAAAvfQ4IeR4IeQ4Feh0Heg0Ieg0?AtHeBtHeAtIeRpHeRpleAAA)
 
 180 degrees Spins
 -----------------
