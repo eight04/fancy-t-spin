@@ -272,17 +272,34 @@ Triple
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeC8AeG8CeG8CeI8AeF8JeAgWHAlUlkDVP%3FdCAvhGWbf%2BlfWqBAAAVgf9qBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeC8AeG8CeG8CeI8AeF8JeAgWHAlUlkDVP?dCAvhGWbf+lfWqBAAAVgf9qBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40sgB8IeA8IeF8DeF8DeF8DeF8JeAgWIAzOckDrOZyD9%3FgilGeglIeg0Iei0QeAAAsgAAAeA8HeAAA8DeiWAeAAEegWC%3FeAAEegHCeAAEeiHAeAAOeAAA9gzhFeRpHeRpHezhPeAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8IeF8DeF8DeF8DeF8JeAgWIAzOckDrOZyD9?gilGeglIeg0Iei0QeAAAsgAAAeA8HeAAA8DeiWAeAAEegWC?eAAEegHCeAAEeiHAeAAOeAAA9gzhFeRpHeRpHezhPeAAA)
 [![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgA8BeB8EeA8CeI8AeG8CeG8CeI8AeH8AeG8JeAgWM%3FAMwg%2FD5oo2Ao3krD)](https://harddrop.com/fumen/?v115@fgA8BeB8EeA8CeI8AeG8CeG8CeI8AeH8AeG8JeAgWM?AMwg/D5oo2Ao3krD)
-[![STSD Variation](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeC8AeG8CeG8CeH8BeF8JeAgWQAz%2BT7BFb%3F02CBM%2BdD0eDKEvhDWbf%2BlfWqBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeC8AeG8CeG8CeH8BeF8JeAgWQAz+T7BFb?02CBM+dD0eDKEvhDWbf+lfWqBAAA)
 [![SZ Variation](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40sgB8IeA8EeQ4BtAeF8R4BtF8g0Q4BeF8i0AeF8JeAg%3FWOAzn88AQhDXEpiW5DP2BAAsgB8HeAAFeilBeE8QLAeAPGe%3FgWwSR4FegWxhQeAAA)]()
+
+[![Super Spiral STSD](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeC8AeG8CeG8CeH8BeF8JeAgWVATAurDyo%3Fo2AzIWXEBD98AwM%2BtCkAAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeC8AeG8CeG8CeH8BeF8JeAgWVATAurDyo?o2AzIWXEBD98AwM+tCkAAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeC8AeG8CeG8CeH8BeF8JeAgWHAlUlkDVP%3FdCAvhDWbf%2BlfWqBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeC8AeG8CeG8CeH8BeF8JeAgWHAlUlkDVP?dCAvhDWbf+lfWqBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40BhF8DeG8CeH8BeF8JeAgWIAzOckDrOZyDsgBtIeBtD%3FeilGeglmeAAA)](https://harddrop.com/fumen/?v115@BhF8DeG8CeH8BeF8JeAgWIAzOckDrOZyDsgBtIeBtD?eilGeglmeAAA)
 
 [![Super Spiral 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeA8FeB8AeH8CeG8CeH8AeG8JeAgWSATAurDyo%3Fo2AzIWXEBD98AQbAAA)](https://harddrop.com/fumen/?v115@rgB8IeA8FeB8AeH8CeG8CeH8AeG8JeAgWSATAurDyo?o2AzIWXEBD98AQbAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeA8FeB8AeH8CeG8CeH8AeG8JeAgWHAlUlkDVP%3FdCAvhIOVf2afelfGlBAAeNaf1ffdqBAAA)](https://harddrop.com/fumen/?v115@rgB8IeA8FeB8AeH8CeG8CeH8AeG8JeAgWHAlUlkDVP?dCAvhIOVf2afelfGlBAAeNaf1ffdqBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ChE8EeE8EeG8AeG8JeAgWIAzOckDrOZyDrgBtIeBtE%3Feh0AehlEeg0CeglEeg0CeglYeAAA)](https://harddrop.com/fumen/?v115@ChE8EeE8EeG8AeG8JeAgWIAzOckDrOZyDrgBtIeBtE?eh0AehlEeg0CeglEeg0CeglYeAAA)
 [![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40hgB8IeI8AeH8CeG8CeH8AeH8AeH8JeAgWMAMwg%2FD5o%3Fo2Ao3krD)](https://harddrop.com/fumen/?v115@hgB8IeI8AeH8CeG8CeH8AeH8AeH8JeAgWMAMwg/D5o?o2Ao3krD)
+
+[![Super Spiral 2 STSD](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeA8FeB8AeH8CeG8CeG8BeG8JeAgWZATAurDyo%3Fo2AzIWXEBD98AQr78AwM%2BtCkAAAA)](https://harddrop.com/fumen/?v115@rgB8IeA8FeB8AeH8CeG8CeG8BeG8JeAgWZATAurDyo?o2AzIWXEBD98AQr78AwM+tCkAAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeA8FeB8AeH8CeG8CeG8BeG8JeAgWHAlUlkDVP%3FdCAvhD2afelfGlBAAA)](https://harddrop.com/fumen/?v115@rgB8IeA8FeB8AeH8CeG8CeG8BeG8JeAgWHAlUlkDVP?dCAvhD2afelfGlBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40BhF8DeF8DeG8BeG8JeAgWIAzOckDrOZyDigR4GeR4A%3FtHeBtEeh0AeAtFeg0Ieg0ceAAA)](https://harddrop.com/fumen/?v115@BhF8DeF8DeG8BeG8JeAgWIAzOckDrOZyDigR4GeR4A?tHeBtEeh0AeAtFeg0Ieg0ceAAA)
   
-[![モグラの巣](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgC8CeG8DeH8AeH8CeG8CeI8AeC8JeAgWeAlvs2Alr%3FDfET4M3Alvs2AF2DfET4p9BlPR6BFdAAAvhC0XuXATP0dEl%3Foo2Awno2AzX%2FdEFbEmDy31CAMmQCAjLBAAAAA)](https://harddrop.com/fumen/?v115@pgC8CeG8DeH8AeH8CeG8CeI8AeC8JeAgWeAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFdAAAvhC0XuXATP0dEl?oo2Awno2AzX/dEFbEmDy31CAMmQCAjLBAAAAA)
-[![モグラの巣 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgC8CeH8CeH8AeH8CeG8CeI8AeC8JeAgWiAlvs2Alr%3FDfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQbAAAvhDUXuLAT%3FX%2FdEFbEmDy31CAMmQBAyAAAAAAtDAFbkAA5RQAA)](https://harddrop.com/fumen/?v115@pgC8CeH8CeH8AeH8CeG8CeI8AeC8JeAgWiAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQbAAAvhDUXuLAT?X/dEFbEmDy31CAMmQBAyAAAAAAtDAFbkAA5RQAA)
-[![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgC8CeG8DeH8AeH8CeG8CeI8AeH8AeD8JeAgWMAMwg%3F%2FD5oo2Ao3krDvhF0SuAAchBAAA1cfdnBAAA)](https://harddrop.com/fumen/?v115@fgC8CeG8DeH8AeH8CeG8CeI8AeH8AeD8JeAgWMAMwg?/D5oo2Ao3krDvhF0SuAAchBAAA1cfdnBAAA)
+[![モグラの巣](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8AeH8CeG8CeI8AeF8JeAgWeAlvs2Alr%3FDfET4M3Alvs2AF2DfET4p9BlPR6BFdAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8AeH8CeG8CeI8AeF8JeAgWeAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFdAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8AeH8CeG8CeI8AeF8JeAgWHAlUlkDVP%3FdCAvhCUWf8kBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8AeH8CeG8CeI8AeF8JeAgWHAlUlkDVP?dCAvhCUWf8kBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ChE8EeE8EeH8AeF8JeAgWIAzOckDrOZyDigQ4IeR4I%3FeQ4Eeh0AehlEeg0CeglEeg0CeglYeAAA)](https://harddrop.com/fumen/?v115@ChE8EeE8EeH8AeF8JeAgWIAzOckDrOZyDigQ4IeR4I?eQ4Eeh0AehlEeg0CeglEeg0CeglYeAAA)
+
+[![モグラの巣 STSD](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8AeH8CeG8CeH8BeF8JeAgWlAlvs2Alr%3FDfET4M3Alvs2AF2DfET4p9BlPR6BFt78AwM%2BtCkAAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8AeH8CeG8CeH8BeF8JeAgWlAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFt78AwM+tCkAAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8AeH8CeG8CeH8BeF8JeAgWHAlUlkDVP%3FdCAvhD0VfUWf8kBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8AeH8CeG8CeH8BeF8JeAgWHAlUlkDVP?dCAvhD0VfUWf8kBAAA)
+
+[![モグラの巣 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8BeG8BeH8CeI8AeF8JeAgWiAlvs2Alr%3FDfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQbAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8BeG8BeH8CeI8AeF8JeAgWiAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQbAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8BeG8BeH8CeI8AeF8JeAgWHAlUlkDVP%3FdCAvhF0VuAAUbfcguCAjLBAAElfskBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8BeG8BeH8CeI8AeF8JeAgWHAlUlkDVP?dCAvhF0VuAAUbfcguCAjLBAAElfskBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ChE8EeE8EeH8BeE8JeAgWIAzOckDrOZyDsghlIeglE%3Feh0BeglEeg0BehlEeg0CeglIeglOeAAA)](https://harddrop.com/fumen/?v115@ChE8EeE8EeH8BeE8JeAgWIAzOckDrOZyDsghlIeglE?eh0BeglEeg0BehlEeg0CeglIeglOeAAA)
+
+[![モグラの巣 2 STSD](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8BeG8BeH8CeH8BeF8JeAgWpAlvs2Alr%3FDfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQr78AwM%2BtCkAAA%3FA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8BeG8BeH8CeH8BeF8JeAgWpAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQr78AwM+tCkAAA?A)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeB8BeG8BeH8CeH8BeF8JeAgWHAlUlkDVP%3FdCAvhF0VfUbfcgfElfskBAAA)](https://harddrop.com/fumen/?v115@sgB8IeA8EeB8BeG8BeH8CeH8BeF8JeAgWHAlUlkDVP?dCAvhF0VfUbfcgfElfskBAAA)
   
 Triple-Double
 -------------
