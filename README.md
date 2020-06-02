@@ -335,6 +335,17 @@ Triple-Double-Double
 [![???](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWJ%3FAl8NSATJUABmAAAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWJ?Al8NSATJUABmAAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWH%3FAlUlkDVPdCAvhLVTftcfVif9sBAAAViftrBAAAXtBNsfFsB%3FAAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8EeE8AeI8BeH8DeH8AeH8BeI8AeB8JeAgWH?AlUlkDVPdCAvhLVTftcfVif9sBAAAViftrBAAAXtBNsfFsB?AAA)
 
+Triple-Double-Triple
+--------------------
+
+[![TST DT](https://fumen-svg-server--eight041.repl.co/?data=v115%40DgB8IeI8AeH8BeI8AeI8AeH8BeH8CeH8AeI8AeG8Je%3FAgWIAUNuSASYxwC)](https://harddrop.com/fumen/?v115@DgB8IeI8AeH8BeI8AeI8AeH8BeH8CeH8AeI8AeG8Je?AgWIAUNuSASYxwC)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40DgB8IeI8AeH8BeI8AeI8AeH8BeH8CeH8AeI8AeG8Je%3FAgWHAlUlkDVPdCAvhNNBuAA1GfdRBAAANQf1VfdgfdlfFlB%3FAAANaf1ffdqBAAA)](https://harddrop.com/fumen/?v115@DgB8IeI8AeH8BeI8AeI8AeH8BeH8CeH8AeI8AeG8Je?AgWHAlUlkDVPdCAvhNNBuAA1GfdRBAAANQf1VfdgfdlfFlB?AAANaf1ffdqBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40OgG8CeG8CeG8CeG8CeG8CeH8CeH8AeI8AeG8JeAgWI%3FAzOckDrOZyDDgzhNeh0Heg0Ieg0AtHeBtHeAtweAAA)](https://harddrop.com/fumen/?v115@OgG8CeG8CeG8CeG8CeG8CeH8CeH8AeI8AeG8JeAgWI?AzOckDrOZyDDgzhNeh0Heg0Ieg0AtHeBtHeAtweAAA)
+
+[![TST DT 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40DgB8IeI8AeH8BeI8AeI8AeH8CeH8AeH8BeI8AeG8Je%3FAgWMAUNuSASYxwCFbU9A)](https://harddrop.com/fumen/?v115@DgB8IeI8AeH8BeI8AeI8AeH8CeH8AeH8BeI8AeG8Je?AgWMAUNuSASYxwCFbU9A)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40DgB8IeI8AeH8BeI8AeI8AeH8CeH8AeH8BeI8AeG8Je%3FAgWHAlUlkDVPdCAvhMNBf1GfdRBAAANQf1VfdgfFgBAAANa%3Ff1ffdqBAAA)](https://harddrop.com/fumen/?v115@DgB8IeI8AeH8BeI8AeI8AeH8CeH8AeH8BeI8AeG8Je?AgWHAlUlkDVPdCAvhMNBf1GfdRBAAANQf1VfdgfFgBAAANa?f1ffdqBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40OgG8CeG8CeG8CeG8CeG8DeH8AeH8BeI8AeG8JeAgWI%3FAzOckDrOZyDDgzhNeh0Heg0Ieg0AtHeBtHeAtweAAA)](https://harddrop.com/fumen/?v115@OgG8CeG8CeG8CeG8CeG8DeH8AeH8BeI8AeG8JeAgWI?AzOckDrOZyDDgzhNeh0Heg0Ieg0AtHeBtHeAtweAAA)
+
 Triple-Triple
 -------------
 
