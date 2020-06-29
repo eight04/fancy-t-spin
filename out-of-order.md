@@ -12,6 +12,7 @@ Double
 
 [![LS](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhF8CeH8BeF8JeAgWCAMNBAAvhEifQAAXhf3lfXlff%3FqB)](https://harddrop.com/fumen/?v115@MhF8CeH8BeF8JeAgWCAMNBAAvhEifQAAXhf3lfXlff?qB)
 [![ZS](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8BeH8BeI8AeG8JeAgWCAaNBAAvhEcaB3bfXgffq%3FBAAA)](https://harddrop.com/fumen/?v115@HhA8BeH8BeI8AeG8JeAgWCAaNBAAvhEcaB3bfXgffq?BAAA)
+[![JJ](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8AeA8CeH8AeF8JeAgWCAq%2FAAAvhMKhQAAOkBTVB%3FqLBtWflWf9Wf9qflqBAAAecf%2BqfeqB)](https://harddrop.com/fumen/?v115@NhD8AeA8CeH8AeF8JeAgWCAq/AAAvhMKhQAAOkBTVB?qLBtWflWf9Wf9qflqBAAAecf+qfeqB)
 
 [![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA%3FvhDmmBKqfiqfCrB)](https://harddrop.com/fumen/?v115@9gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA?vhDmmBKqfiqfCrB)
 [![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8HeA8IeA8DeF8DeI8AeE8JeAgWJAqS88AQDbaEF%3FBAAAvhFarBAAAOqfupfWvBAAA)](https://harddrop.com/fumen/?v115@zgB8HeA8IeA8DeF8DeI8AeE8JeAgWJAqS88AQDbaEF?BAAAvhFarBAAAOqfupfWvBAAA)
