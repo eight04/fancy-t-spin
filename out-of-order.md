@@ -16,6 +16,8 @@ Double
 
 [![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA%3FvhDmmBKqfiqfCrB)](https://harddrop.com/fumen/?v115@9gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA?vhDmmBKqfiqfCrB)
 [![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8HeA8IeA8DeF8DeI8AeE8JeAgWJAqS88AQDbaEF%3FBAAAvhFarBAAAOqfupfWvBAAA)](https://harddrop.com/fumen/?v115@zgB8HeA8IeA8DeF8DeI8AeE8JeAgWJAqS88AQDbaEF?BAAAvhFarBAAAOqfupfWvBAAA)
+[![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8HeA8IeB8DeF8BeA8AeF8BeF8JeAgWJAqS88AQD%3FbaEFBAAAvhC6mBOqfuqB)](https://harddrop.com/fumen/?v115@zgB8HeA8IeB8DeF8BeA8AeF8BeF8JeAgWJAqS88AQD?baEFBAAAvhC6mBOqfuqB)
+[![JJ Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8CeF8EeF8DeF8AeA8BeD8JeAgWJAqP88AQDbaEF%3FBAAAvhD2qfWrf%2BrBemB)](https://harddrop.com/fumen/?v115@9gB8CeF8EeF8DeF8AeA8BeD8JeAgWJAqP88AQDbaEF?BAAAvhD2qfWrf+rBemB)
 [![SI Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8EeD8EeF8EeE8AeG8JeAgWJATO88AQDbaEFBAAA%3FvhF3hBxafJbfJlfhqfBrB)](https://harddrop.com/fumen/?v115@9gB8EeD8EeF8EeE8AeG8JeAgWJATO88AQDbaEFBAAA?vhF3hBxafJbfJlfhqfBrB)
 
 [![L Crush](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhG8CeG8CeG8BeA8JeAgWJAMoo2AjLJbEIBAAAvhDT%3FdQAA6ofCtBAAA)](https://harddrop.com/fumen/?v115@HhG8CeG8CeG8BeA8JeAgWJAMoo2AjLJbEIBAAAvhDT?dQAA6ofCtBAAA)
@@ -26,6 +28,9 @@ Double
 [![J Crush (STMB)](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgF8CeG8BeH8BeH8AeJ8AeB8JeAgWWAKoo2AjLJbEo%3Foo2AFb%2BsCUkFSAylAAAvhDzSBuifOnBAAA)](https://harddrop.com/fumen/?v115@zgF8CeG8BeH8BeH8AeJ8AeB8JeAgWWAKoo2AjLJbEo?oo2AFb+sCUkFSAylAAAvhDzSBuifOnBAAA)
 
 [![LS Donation](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8EeF8AeA8BeE8JeAgWNAMd88AQmCKEBPONEOBAA%3FAvhDKkQAAXgBsqfkqB)](https://harddrop.com/fumen/?v115@NhD8EeF8AeA8BeE8JeAgWNAMd88AQmCKEBPONEOBAA?AvhDKkQAAXgBsqfkqB)
+
+[![ZS Donation](https://fumen-svg-server--eight041.repl.co/?data=v115%403gB8GeB8HeC8AeC8CeH8AeH8JeAgWNAad88AQmCKEB%3FPONEOBAAAvhDMbB%2FkuRABOyTASIbMEGP98AQWhNEQBAAAfl%3FQFASeh1DUBAAAZfQDAFbkAA)](https://harddrop.com/fumen/?v115@3gB8GeB8HeC8AeC8CeH8AeH8JeAgWNAad88AQmCKEB?PONEOBAAAvhDMbB/kuRABOyTASIbMEGP98AQWhNEQBAAAfl?QFASeh1DUBAAAZfQDAFbkAA)
+> S must not touch the ground
 
 [![STMB Cave](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhB8DeE8EeF8CeE8JeAgWLAzeW0BFbs2BBSdCAvhE8%3FhBOhBvqfnqfHrB)](https://harddrop.com/fumen/?v115@HhB8DeE8EeF8CeE8JeAgWLAzeW0BFbs2BBSdCAvhE8?hBOhBvqfnqfHrB)
 [![Crush](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8DeE8EeG8BeG8AeG8JeAgWFAjLJbEIBAAAvhF8c%3FQAAOcBvlfPmfHmBAAA)](https://harddrop.com/fumen/?v115@9gB8DeE8EeG8BeG8AeG8JeAgWFAjLJbEIBAAAvhF8c?QAAOcBvlfPmfHmBAAA)
