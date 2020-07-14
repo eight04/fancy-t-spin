@@ -9,6 +9,7 @@ Other pages:
 * [IKcco Opener (O-based)](ikcco-o-based.md)
 * [Donation](donation.md)
 * [Out of order](out-of-order.md)
+* [SL Donation](sl-donation.md)
 
 Single
 -------
