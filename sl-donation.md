@@ -159,6 +159,21 @@ You can often get `00110` from an overhang:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40hgB8IeI8AeH8BeH8CeH8AeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@hgB8IeI8AeH8BeH8CeH8AeI8AeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%407fB8IeE8h0R4AeE8g0R4BeE8g0AeB8AeE8CeI8AeH8%3FBeH8CeH8AeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@7fB8IeE8h0R4AeE8g0R4BeE8g0AeB8AeE8CeI8AeH8?BeH8CeH8AeI8AeG8JeAgH)
 
+Make sure to stack on the right side or the overhang will block the entire structure.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhB8FeC8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@JhB8FeC8CeH8AeE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgBtIeEth0R4AeEtg0R4BeEtg0AeB8AeEtC8CeH8Ae%3FE8JeAgH)](https://harddrop.com/fumen/?v115@jgBtIeEth0R4AeEtg0R4BeEtg0AeB8AeEtC8CeH8Ae?E8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhDtDeC8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@JhDtDeC8CeH8AeE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgR4HeQ4EeU4AeBthlU4BeBtglU4AeB8AeglT4C8Ce%3FH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@fgR4HeQ4EeU4AeBthlU4BeBtglU4AeB8AeglT4C8Ce?H8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhT4FeC8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@HhT4FeC8CeH8AeE8JeAgH)
+
+In the above failing example, you can try to build a TSD-imperial cross and spin an upside-down T to clear the donation.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgBtIeEth0R4wwEtg0R4ywDtg0AeB8AeEtC8CeH8Ae%3FE8JeAgH)](https://harddrop.com/fumen/?v115@jgBtIeEth0R4wwEtg0R4ywDtg0AeB8AeEtC8CeH8Ae?E8JeAgH)
+
+
 ### Stack on top of incomplete TST
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhhlFeA8BeglG8AeA8glF8JeAgHJhhlIeglAPHeg0P%3FeAAA)](https://harddrop.com/fumen/?v115@JhhlFeA8BeglG8AeA8glF8JeAgHJhhlIeglAPHeg0P?eAAA)
