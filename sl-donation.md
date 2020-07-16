@@ -24,6 +24,8 @@ After the first T-spin, the result will be another 4-wide flat ground. You can s
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VhF8g0AeBtF8JeAgH)]()
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gB8Deh0CeE8g0BtAeF8g0AeBtG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@3gB8Deh0CeE8g0BtAeF8g0AeBtG8AeH8JeAgH)
 
+After the second T-spin, it leaves an open 2-wide gap. Which means you can build it on top of any strcture that only requires a 2 wide well e.g. DT cannon.
+
 ### Stack on top of a well
 
 It leaves a clean field when using as a donation on col 1 and col 2 well.
@@ -38,6 +40,29 @@ Since it adds 1 hieght to col 2 well, you can stack it on 3-height well to form 
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgF8h0CeE8g0BtAeF8g0AeBtF8BeH8BeH8BeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@jgF8h0CeE8g0BtAeF8g0AeBtF8BeH8BeH8BeH8JeAg?H)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gQ4IeR4HeH8BeH8BeH8JeAgH)](https://harddrop.com/fumen/?v115@1gQ4IeR4HeH8BeH8BeH8JeAgH)
+
+Notice how it leaves one block after the first t-spin on the 2-wide well. It can be used to build TST/STSD overhang.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8DeG8BeH8AewhG8JeAgH)](https://harddrop.com/fumen/?v115@BhF8DeG8BeH8AewhG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgB8Deh0ywE8g0BtwwF8g0AeBtG8BeH8AewhG8JeAg%3FH)](https://harddrop.com/fumen/?v115@tgB8Deh0ywE8g0BtwwF8g0AeBtG8BeH8AewhG8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhB8Deg0AeBtG8BeH8AewhG8JeAgH)](https://harddrop.com/fumen/?v115@BhB8Deg0AeBtG8BeH8AewhG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgAtHeBtBei0CeAtCeB8g0CeA8AeI8BeH8AewhG8Je%3FAgH)](https://harddrop.com/fumen/?v115@qgAtHeBtBei0CeAtCeB8g0CeA8AeI8BeH8AewhG8Je?AgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgA8IeA8DeF8DeF8BeH8whAeG8JeAgH)](https://harddrop.com/fumen/?v115@zgA8IeA8DeF8DeF8BeH8whAeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ugB8CeA8h0ywE8g0BtwwF8g0AeBtF8BeH8whAeG8Je%3FAgH)](https://harddrop.com/fumen/?v115@ugB8CeA8h0ywE8g0BtwwF8g0AeBtF8BeH8whAeG8Je?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChB8CeA8g0AeBtF8BeH8whAeG8JeAgH)](https://harddrop.com/fumen/?v115@ChB8CeA8g0AeBtF8BeH8whAeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gBtIeBtB8CeB8AeH8BeH8whAeG8JeAgH)](https://harddrop.com/fumen/?v115@1gBtIeBtB8CeB8AeH8BeH8whAeG8JeAgH)
+
+In the second example, the wall on the J side must form a flat surface.
+
+### Stack on incomplete TSD
+
+Since it leaves a `1011` shape after the first t-spin, you can stack it on TSD to create fractal/imperial cross.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8DeF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhF8DeF8CeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgB8Deh0ywE8g0BtwwF8g0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@tgB8Deh0ywE8g0BtwwF8g0AeBtF8CeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhB8Deg0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhB8Deg0AeBtF8CeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG%3FeBtxDi0CeAtBewDBeg0qeAAA)](https://harddrop.com/fumen/?v115@rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG?eBtxDi0CeAtBewDBeg0qeAAA)
 
 ### KGT Alternative
 
