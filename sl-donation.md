@@ -4,7 +4,7 @@ SL Donation
 You can create a donation T slot with S/Z and J/L.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Sfh0Heg0BtGeg0AeBtPeh0R4Feg0R4Geg0AeB8Pegl%3FAeR4FeglR4GehlB80eAgH)](https://harddrop.com/fumen/?v115@Sfh0Heg0BtGeg0AeBtPeh0R4Feg0R4Geg0AeB8Pegl?AeR4FeglR4GehlB80eAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40cfilGeglQ4IeR4HeA8Q4A8QeR4GeR4Hei0HeA8g0A8%3F%2BeAgH)](https://harddrop.com/fumen/?v115@cfilGeglQ4IeR4HeA8Q4A8QeR4GeR4Hei0HeA8g0A8?+eAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BeilGeglQ4IeR4HeA8Q4A8QeR4GeR4Hei0HeA8g0A8%3FPeilGeglAtHeBtHeAtBeA8qeAgH)](https://harddrop.com/fumen/?v115@+eilGeglQ4IeR4HeA8Q4A8QeR4GeR4Hei0HeA8g0A8?PeilGeglAtHeBtHeAtBeA8qeAgH)
 
 Shachiku Train
 --------------
@@ -319,11 +319,6 @@ In this case, you can stack a JS donation or SL donation:
 > [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgE8DeF8AeA8AeG8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@kgE8DeF8AeA8AeG8AeI8AeI8AeI8AeI8JeAgH)
 > [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OghlEeQ4CeglEeR4AeAtglE8AeQ4BtF8AeA8AtG8Ae%3FI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@OghlEeQ4CeglEeR4AeAtglE8AeQ4BtF8AeA8AtG8Ae?I8AeI8AeI8AeI8JeAgH)
 
-### Stack on incomplete imperial cross
-
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhB8CeF8DeG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@HhB8CeF8DeG8AeG8JeAgH)
-
-
 ### Escalator
 
 This is a double-triple template using JS donation:
@@ -354,3 +349,46 @@ With the STSD variant, you can use another L and J to build a TST:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gi0Heglg0EeB8AeglB8DeA8BehlA8DeB8AeG8JeAg%3FH)](https://harddrop.com/fumen/?v115@1gi0Heglg0EeB8AeglB8DeA8BehlA8DeB8AeG8JeAg?H)
 
 Note that these examples only work when the overhang is two cells high.
+
+### Stack on incomplete TSD
+
+Like escalator, spot the L shape on the right side as the base of the setup.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4EeRpR4CeC8Rpi0AeE8Ceg0G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@2gR4EeRpR4CeC8Rpi0AeE8Ceg0G8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8IeA8CeRpilAeD8RpglQ4BeE8BeR4AeE8CeQ4G8%3FAeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8IeA8CeRpilAeD8RpglQ4BeE8BeR4AeE8CeQ4G8?AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8CeRpDeA8CeRpilAeD8BtglQ4BeE8BtR4AeE8Ce%3FQ4G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8CeRpDeA8CeRpilAeD8BtglQ4BeE8BtR4AeE8Ce?Q4G8AeG8JeAgH)
+
+OverFuture
+-----------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeilAeF8glAtBeF8BtBeF8AtBeG8JeAgH)](https://harddrop.com/fumen/?v115@sgB8IeA8EeilAeF8glAtBeF8BtBeF8AtBeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeilwwF8glAtxwF8BtAewwF8AtBeG8JeAg%3FH)](https://harddrop.com/fumen/?v115@sgB8IeA8EeilwwF8glAtxwF8BtAewwF8AtBeG8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhB8IeA8EeBtAewwF8AtBeG8JeAgH)](https://harddrop.com/fumen/?v115@AhB8IeA8EeBtAewwF8AtBeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40hghlIeglFeh0AeglFeg0BeB8Eeg0CeA8EeB8AeH8Be%3FG8JeAgHhghWFewhBegWFeQLgHAegWFeQLIeQLmeAAA)](https://harddrop.com/fumen/?v115@hghlIeglFeh0AeglFeg0BeB8Eeg0CeA8EeB8AeH8Be?G8JeAgHhghWFewhBegWFeQLgHAegWFeQLIeQLmeAAA)
+
+OverFuture is an STSD donation. By stacking it on different grounds, it leaves different holes and may lead to different continuations.
+
+*0101*
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeilAeF8glAtBeF8BtBeF8AtA8AeG8JeAg%3FH)](https://harddrop.com/fumen/?v115@sgB8IeA8EeilAeF8glAtBeF8BtBeF8AtA8AeG8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhB8IeA8EeBtAewwF8AtA8AeG8JeAgH)](https://harddrop.com/fumen/?v115@AhB8IeA8EeBtAewwF8AtA8AeG8JeAgH)
+
+*0011*
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeilAeF8glAtBeF8BtBeF8AtAeH8JeAgH)](https://harddrop.com/fumen/?v115@sgB8IeA8EeilAeF8glAtBeF8BtBeF8AtAeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhB8IeA8EeBtAewwF8AtAeH8JeAgH)](https://harddrop.com/fumen/?v115@AhB8IeA8EeBtAewwF8AtAeH8JeAgH)
+
+### Upgrade to TST with J
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeilAeF8glAtBeF8Btg0AeF8AtAei0E8Je%3FAgH)](https://harddrop.com/fumen/?v115@sgB8IeA8EeilAeF8glAtBeF8Btg0AeF8AtAei0E8Je?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8IeA8EeilwwF8glAtxwF8Btg0wwF8AtAei0E8Je%3FAgH)](https://harddrop.com/fumen/?v115@sgB8IeA8EeilwwF8glAtxwF8Btg0wwF8AtAei0E8Je?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8IeA8EeAtAei0E8JeAgH)](https://harddrop.com/fumen/?v115@KhB8IeA8EeAtAei0E8JeAgH)
+
+If you are able to do 180-spin, you can stack it on top of an overhang and spin the J piece in.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OgB8IeA8EeilAeF8glAtBeF8BtBeF8AtDeF8AeI8Be%3FH8AeH8JeVsmvhJ9Wf9bfVgftpBAAAWbf%2Blf%2BqfOqf2vB)](https://harddrop.com/fumen/?v115@OgB8IeA8EeilAeF8glAtBeF8BtBeF8AtDeF8AeI8Be?H8AeH8JeVsmvhJ9Wf9bfVgftpBAAAWbf+lf+qfOqf2vB)
+
+The final board is not that good as regular STSD. You can do a simple I spin to clear the overhang.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gRpHeRpIeB8EezhG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gRpHeRpIeB8EezhG8AeH8JeAgH)
+
