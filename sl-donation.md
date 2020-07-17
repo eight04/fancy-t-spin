@@ -130,6 +130,17 @@ Otherwise, you need a 4-height wall on the J side:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhzhBeA8EeF8CewwF8g0AeBtD8JeAgH)](https://harddrop.com/fumen/?v115@BhzhBeA8EeF8CewwF8g0AeBtD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpHeRpBeD8BeA8CeR4F8AeR4H8AeF8JeAgH)](https://harddrop.com/fumen/?v115@zgRpHeRpBeD8BeA8CeR4F8AeR4H8AeF8JeAgH)
 
+### Extension
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8h0R4CeC8g0R4BtAeD8g0CeBtD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8h0R4CeC8g0R4BtAeD8g0CeBtD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8h0R4CeC8g0R4RpAeD8g0BeRpAeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8h0R4CeC8g0R4RpAeD8g0BeRpAeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8h0R4CeC8g0T4AeD8g0AeR4BeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8h0R4CeC8g0T4AeD8g0AeR4BeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8h0BtCeC8g0DtAeD8g0AeBtBeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8h0BtCeC8g0DtAeD8g0AeBtBeD8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8zhCeC8ilBtAeD8glCeBtD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8zhCeC8ilBtAeD8glCeBtD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8zhCeC8ilRpAeD8glBeRpAeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8zhCeC8ilRpAeD8glBeRpAeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8zhCeC8ilR4AeD8glAeR4BeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8zhCeC8ilR4AeD8glAeR4BeD8JeAgH)
+
 SJ Donation
 -----------
 
