@@ -147,6 +147,10 @@ You need a `00110` ground to build this setup.
 
 > You can build it on `01100` ground which becomes a STSD.
 
+Note that you can also stack this shape using LI.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gB8IeE8zhAeE8ilBeE8glAeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@3gB8IeE8zhAeE8ilBeE8glAeB8AeE8JeAgH)
+
 ### Stack on top of a well
 
 Like shachiku train, you can build it on top of col 1 or col 2 well.
