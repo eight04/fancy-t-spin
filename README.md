@@ -10,6 +10,7 @@ Other pages:
 * [Donation](donation.md)
 * [Out of order](out-of-order.md)
 * [SL Donation](sl-donation.md)
+* [IL Donation](il-donation.md)
 
 Single
 -------
