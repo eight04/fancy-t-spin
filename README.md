@@ -220,6 +220,15 @@ Trinity / TSD-STSD Composition
 
 [![???](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgD8BeH8CeI8AeH8BeH8BeF8CeH8AeE8JeAgWJAl8N%3FSATJUABmAAAA)](https://harddrop.com/fumen/?v115@fgD8BeH8CeI8AeH8BeH8BeF8CeH8AeE8JeAgWJAl8N?SATJUABmAAAA)
 
+Double-Double-Triple
+--------------------
+
+[![STSDT](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgF8BehlF8CeglE8CewwglE8AeI8BeH8BexwH8Aeww%3FA8JeAg0FAz%2BT7B0AAAA)](https://harddrop.com/fumen/?v115@fgF8BehlF8CeglE8CewwglE8AeI8BeH8BexwH8Aeww?A8JeAg0FAz+T7B0AAAA)
+
+[![STSDT 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgF8BeRpE8CeRpE8AezhE8BeilE8BeglI8BeH8AeB8%3FJeAgWJAz%2BT7BUoo2ASAAAA)](https://harddrop.com/fumen/?v115@fgF8BeRpE8CeRpE8AezhE8BeilE8BeglI8BeH8AeB8?JeAgWJAz+T7BUoo2ASAAAA)
+
+[![STSDT 3](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8CeR4E8AezhE8Bei0E8BeR4g0G8AeI8BeH8%3FAeB8JeAgWJAz%2BT7BUoo2ATAAAAngRaQeCPGeQLQaglHegWe%3FeAAPAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8CeR4E8AezhE8Bei0E8BeR4g0G8AeI8BeH8?AeB8JeAgWJAz+T7BUoo2ATAAAAngRaQeCPGeQLQaglHegWe?eAAPAA)
+
 Double-Double-Double-Double
 -----------------------------
 
