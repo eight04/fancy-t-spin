@@ -69,3 +69,8 @@ Overhang cleanup
 [![Fin](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhE8BeH8DeF8CeB8JeAgWDAGOxCA3gR4BeRpCeR4Ce%3FRpEeglIeglIehlMeAAA)](https://harddrop.com/fumen/?v115@HhE8BeH8DeF8CeB8JeAgWDAGOxCA3gR4BeRpCeR4Ce?RpEeglIeglIehlMeAAA)
 [![Fin](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce%3FilFeg0Ieg0Heh0MeAAA)](https://harddrop.com/fumen/?v115@HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce?ilFeg0Ieg0Heh0MeAAA)
 [![Fin](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce%3FilFeAtHeBtHeAtNeAAA)](https://harddrop.com/fumen/?v115@HhE8BeH8DeF8CeB8JeAgWDAGOxCA2gR4DeglBeR4Ce?ilFeAtHeBtHeAtNeAAA)
+
+Hole or no hole?
+----------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB%2BPB%3FdnfFnBAAA%2FmB8YBCgBJfBdifFiBAAA)](https://harddrop.com/fumen/?v115@xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB+PB?dnfFnBAAA/mB8YBCgBJfBdifFiBAAA)
