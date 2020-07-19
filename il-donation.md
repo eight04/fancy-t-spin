@@ -34,18 +34,10 @@ Since it only leaves one block, you can actually use it anytime as long as it do
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8Beg0BeE8AeA8BeF8AeD8JeAgH)](https://harddrop.com/fumen/?v115@KhB8Beg0BeE8AeA8BeF8AeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8Beg0R4E8AeA8R4F8AeD8JeAgH)](https://harddrop.com/fumen/?v115@KhB8Beg0R4E8AeA8R4F8AeD8JeAgH)
 
-> Don't forget the alternative.  
-> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8Beg0BeD8Ceg0RpE8Aeh0RpE8AeA8BeF8AeD8Je%3FAgH)](https://harddrop.com/fumen/?v115@2gB8Beg0BeD8Ceg0RpE8Aeh0RpE8AeA8BeF8AeD8Je?AgH)
-
-One exception is the 3-wide hole. It often requires a lot of L/J, I, or T to balance the board.
-
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8EeD8FeE8EeE8AeA8CeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8EeD8FeE8EeE8AeA8CeE8AeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8DeglD8ywilE8wwzhE8AeA8CeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8DeglD8ywilE8wwzhE8AeA8CeE8AeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8DeglE8AeA8CeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@KhB8DeglE8AeA8CeE8AeD8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgwhIewhIewhFeB8AewhAewwF8AeA8ywE8AeD8JeAg%3FH)](https://harddrop.com/fumen/?v115@vgwhIewhIewhFeB8AewhAewwF8AeA8ywE8AeD8JeAg?H)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhQ4AeglDeB8AeR4glF8AeA8Q4hlE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@DhQ4AeglDeB8AeR4glF8AeA8Q4hlE8AeD8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40xghlIeglFeA8AeA8glCeB8AeI8AeI8AeD8JeAgH)](https://harddrop.com/fumen/?v115@xghlIeglFeA8AeA8glCeB8AeI8AeI8AeD8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgBtIeBtGeilFeA8glA8DeB8AeI8AeI8AeD8JeAgH)](https://harddrop.com/fumen/?v115@mgBtIeBtGeilFeA8glA8DeB8AeI8AeI8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405gR4GeR4FeB8i0AeF8AeA8g0BeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@5gR4GeR4FeB8i0AeF8AeA8g0BeE8AeD8JeAgH)
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8EeD8FeE8EeE8AeA8CeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8EeD8FeE8EeE8AeA8CeE8AeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8Beg0BeD8ywi0E8wwzhE8AeA8CeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8Beg0BeD8ywi0E8wwzhE8AeA8CeE8AeD8JeAgH)
@@ -53,6 +45,18 @@ One exception is the 3-wide hole. It often requires a lot of L/J, I, or T to bal
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%408gwhHeg0whCeB8BeA8g0whE8AeA8h0whE8AeD8JeAg%3FH)](https://harddrop.com/fumen/?v115@8gwhHeg0whCeB8BeA8g0whE8AeA8h0whE8AeD8JeAg?H)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8BeA8wwAeE8AeA8ywE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@KhB8BeA8wwAeE8AeA8ywE8AeD8JeAgH)
 
+Avoid this:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8EeD8FeE8EeE8AeA8AeG8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8EeD8FeE8EeE8AeA8AeG8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8Beg0BeD8ywi0E8wwzhE8AeA8AeG8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8Beg0BeD8ywi0E8wwzhE8AeA8AeG8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8Beg0BeE8AeA8AeG8AeD8JeAgH)](https://harddrop.com/fumen/?v115@KhB8Beg0BeE8AeA8AeG8AeD8JeAgH)
+
+If the block is beside the wall, it is possible to fix it with another donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8EeD8FeE8EeE8AeC8AeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8EeD8FeE8EeE8AeC8AeE8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8DeglD8ywilE8wwzhE8AeC8AeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@2gB8DeglD8ywilE8wwzhE8AeC8AeE8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8DeglE8AeC8AeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@KhB8DeglE8AeC8AeE8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40wgAtHeBtGeg0AtFeB8i0AeF8AeC8AeE8AeD8JeAgH)](https://harddrop.com/fumen/?v115@wgAtHeBtGeg0AtFeB8i0AeF8AeC8AeE8AeD8JeAgH)
 
 6-3 Stacking
 ------------
@@ -70,10 +74,29 @@ Build parapet using this shape.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8BeA8R4F8AeR4G8AeC8JeAgH)](https://harddrop.com/fumen/?v115@KhB8BeA8R4F8AeR4G8AeC8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40egwhIewhIewhEeh0BewhEeg0CeAtCeB8g0AeA8BtF8%3FBeAtG8AeC8JeAgH)](https://harddrop.com/fumen/?v115@egwhIewhIewhEeh0BewhEeg0CeAtCeB8g0AeA8BtF8?BeAtG8AeC8JeAgH)
 
+Avoid this unless you are going for a TST:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8EeD8FeE8EeF8BeH8AeC8JeAgH)](https://harddrop.com/fumen/?v115@2gB8EeD8FeE8EeF8BeH8AeC8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8Beg0BeD8ywi0E8wwzhF8BeH8AeC8JeAgH)](https://harddrop.com/fumen/?v115@2gB8Beg0BeD8ywi0E8wwzhF8BeH8AeC8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8Beg0BeF8BeH8AeC8JeAgH)](https://harddrop.com/fumen/?v115@KhB8Beg0BeF8BeH8AeC8JeAgH)
+
+Avoid this:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8EeD8FeE8EeF8AeB8AeF8AeC8JeAgH)](https://harddrop.com/fumen/?v115@2gB8EeD8FeE8EeF8AeB8AeF8AeC8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8DeglD8ywilE8wwzhF8AeB8AeF8AeC8JeAgH)](https://harddrop.com/fumen/?v115@2gB8DeglD8ywilE8wwzhF8AeB8AeF8AeC8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8DeglF8AeB8AeF8AeC8JeAgH)](https://harddrop.com/fumen/?v115@KhB8DeglF8AeB8AeF8AeC8JeAgH)
+
+???:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8EeD8FeE8EeF8DeF8DeF8CeA8JeAgH)](https://harddrop.com/fumen/?v115@sgB8EeD8FeE8EeF8DeF8DeF8CeA8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgB8Beg0BeD8ywi0E8wwzhF8Aeh0AeF8Aeg0BeF8Ae%3Fg0AeA8JeAgH)](https://harddrop.com/fumen/?v115@sgB8Beg0BeD8ywi0E8wwzhF8Aeh0AeF8Aeg0BeF8Ae?g0AeA8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhB8Beg0BeF8Aeh0AeF8Aeg0BeF8Aeg0AeA8JeAgH)](https://harddrop.com/fumen/?v115@AhB8Beg0BeF8Aeh0AeF8Aeg0BeF8Aeg0AeA8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhB8Beg0BeF8Aeh0AeF8Aeg0BeF8Aeg0AeA8JeMNJ)](https://harddrop.com/fumen/?v115@AhB8Beg0BeF8Aeh0AeF8Aeg0BeF8Aeg0AeA8JeMNJ)
+
 Create overhang
 ---------------
 
-That left one block can be used as the overhang. Some examples:
+Use the remain block as the overhang. Some examples:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@MhE8CeH8AeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gglBeBtCeilCeBtBezhAeE8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gglBeBtCeilCeBtBezhAeE8CeH8AeH8JeAgH)
