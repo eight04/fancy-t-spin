@@ -141,6 +141,44 @@ Otherwise, you need a 4-height wall on the J side:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8zhCeC8ilRpAeD8glBeRpAeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8zhCeC8ilRpAeD8glBeRpAeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8zhCeC8ilR4AeD8glAeR4BeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8zhCeC8ilR4AeD8glAeR4BeD8JeAgH)
 
+### High base
+
+In this setup, the first T-spin is one layer higher than normal shachiku train.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae%3FglAeD8JeAgH)](https://harddrop.com/fumen/?v115@zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae?glAeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gAtEeC8BtEeC8AtCehlAeC8RpAeR4glAeC8RpR4Ae%3FglAeC8JeAgH)](https://harddrop.com/fumen/?v115@0gAtEeC8BtEeC8AtCehlAeC8RpAeR4glAeC8RpR4Ae?glAeC8JeAgH)
+
+It also means it requires a line to complete the second T-spin.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae%3FglAeD8JeAgH)](https://harddrop.com/fumen/?v115@zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae?glAeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8DeE8ywhlF8wwB8glI8glG8AeA8AeD8JeAgH)](https://harddrop.com/fumen/?v115@zgB8DeE8ywhlF8wwB8glI8glG8AeA8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8DeG8AeA8AeD8JeAgH)](https://harddrop.com/fumen/?v115@RhB8DeG8AeA8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LhhlDeB8ywglG8wwA8glD8JeAgH)](https://harddrop.com/fumen/?v115@LhhlDeB8ywglG8wwA8glD8JeAgH)
+
+One special thing is that you can stack S after ZJL:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405gD8FeD8FeD8FeD8FeD8JeAgHvhGcpBOfBarB3bfXb%3FfvqfHqB)](https://harddrop.com/fumen/?v115@5gD8FeD8FeD8FeD8FeD8JeAgHvhGcpBOfBarB3bfXb?fvqfHqB)
+
+This can be an alternative setup if you don't want to build OverFuture when getting ZJL.
+
+### Partial setup
+
+Shachiku train without the top layer.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8EeE8ilAeF8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@BhF8EeE8ilAeF8glAeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhwwF8CexwE8ilwwF8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@AhwwF8CexwE8ilwwF8glAeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhwwF8CexwE8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@KhwwF8CexwE8glAeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gAtHeBtHeAtwwF80wE8glwwH8JeAgH)](https://harddrop.com/fumen/?v115@2gAtHeBtHeAtwwF80wE8glwwH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhAtHeBtHeAtwwF8JeAgH)](https://harddrop.com/fumen/?v115@KhAtHeBtHeAtwwF8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8ilCeD8glAeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@MhE8ilCeD8glAeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8ilywD8glAeB8wwE8JeAgH)](https://harddrop.com/fumen/?v115@MhE8ilywD8glAeB8wwE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WhE8glAeB8wwE8JeAgH)](https://harddrop.com/fumen/?v115@WhE8glAeB8wwE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhBtFeywBtE8glwwB8wwE8JeAgH)](https://harddrop.com/fumen/?v115@JhBtFeywBtE8glwwB8wwE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40dhBtPeAgH)](https://harddrop.com/fumen/?v115@dhBtPeAgH)
+
+The second setup is often used as an alternative of LS donation e.g. when two Ts come before S.
+
 SJ Donation
 -----------
 
@@ -459,21 +497,3 @@ The final board is not that good as regular STSD. You can do a simple I spin to 
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gRpHeRpIeB8EezhG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gRpHeRpIeB8EezhG8AeH8JeAgH)
 
-Partial shachiku train
-----------------------
-
-Shachiku train without the top layer.
-
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8EeE8ilAeF8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@BhF8EeE8ilAeF8glAeH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhwwF8CexwE8ilwwF8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@AhwwF8CexwE8ilwwF8glAeH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhwwF8CexwE8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@KhwwF8CexwE8glAeH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gAtHeBtHeAtwwF80wE8glwwH8JeAgH)](https://harddrop.com/fumen/?v115@2gAtHeBtHeAtwwF80wE8glwwH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhAtHeBtHeAtwwF8JeAgH)](https://harddrop.com/fumen/?v115@KhAtHeBtHeAtwwF8JeAgH)
-
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8ilCeD8glAeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@MhE8ilCeD8glAeB8AeE8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8ilywD8glAeB8wwE8JeAgH)](https://harddrop.com/fumen/?v115@MhE8ilywD8glAeB8wwE8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WhE8glAeB8wwE8JeAgH)](https://harddrop.com/fumen/?v115@WhE8glAeB8wwE8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhBtFeywBtE8glwwB8wwE8JeAgH)](https://harddrop.com/fumen/?v115@JhBtFeywBtE8glwwB8wwE8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40dhBtPeAgH)](https://harddrop.com/fumen/?v115@dhBtPeAgH)
-
-The second setup is often used as an alternative of LS donation e.g. when two Ts come before S.
