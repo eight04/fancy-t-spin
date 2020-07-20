@@ -8,6 +8,11 @@ Single
 
 [![Hamburger](https://fumen-svg-server--eight041.repl.co/?data=v115%402gB8IeF8DeF8DeF8AeA8BeF8JeAgWJAIyehDVsZrDS%3FBAAAvhD0kB2ffWgf%2BqB)](https://harddrop.com/fumen/?v115@2gB8IeF8DeF8DeF8AeA8BeF8JeAgWJAIyehDVsZrDS?BAAAvhD0kB2ffWgf+qB)
 
+Single Double
+-------------
+
+[![Partial Shachiku](https://fumen-svg-server--eight041.repl.co/?data=v115%402gA8FeD8FeC8GeD8AeB8BeH8AeB8JeAgWSAQCaeEpi%3FkTASIz0Dhl74DrACAAvhH6jB%2BifmifmnBNmfFmBAAAThB)](https://harddrop.com/fumen/?v115@2gA8FeD8FeC8GeD8AeB8BeH8AeB8JeAgWSAQCaeEpi?kTASIz0Dhl74DrACAAvhH6jB+ifmifmnBNmfFmBAAAThB)
+
 Double
 -------
 
