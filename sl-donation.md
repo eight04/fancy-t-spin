@@ -413,6 +413,14 @@ Like escalator, spot the L shape on the right side as the base of the setup.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8IeA8CeRpilAeD8RpglQ4BeE8BeR4AeE8CeQ4G8%3FAeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8IeA8CeRpilAeD8RpglQ4BeE8BeR4AeE8CeQ4G8?AeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8CeRpDeA8CeRpilAeD8BtglQ4BeE8BtR4AeE8Ce%3FQ4G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8CeRpDeA8CeRpilAeD8BtglQ4BeE8BtR4AeE8Ce?Q4G8AeG8JeAgH)
 
+### Different pieces setup
+
+Following is another common way to build JS donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8AeB8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@NhD8AeB8CeH8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gh0RpFeg0AeRpBeD8g0B8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@9gh0RpFeg0AeRpBeD8g0B8CeH8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgwhIewhIewhAeR4FewhR4GeD8FeA8AeB8BeG8CeH8%3FAeE8JeAgH)](https://harddrop.com/fumen/?v115@VgwhIewhIewhAeR4FewhR4GeD8FeA8AeB8BeG8CeH8?AeE8JeAgH)
+
 OverFuture
 -----------
 
