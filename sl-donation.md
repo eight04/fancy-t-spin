@@ -64,6 +64,12 @@ Since it leaves a `1011` shape after the first t-spin, you can stack it on TSD t
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhB8Deg0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhB8Deg0AeBtF8CeH8AeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG%3FeBtxDi0CeAtBewDBeg0qeAAA)](https://harddrop.com/fumen/?v115@rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG?eBtxDi0CeAtBewDBeg0qeAAA)
 
+### Empty field setup
+
+It can be used as a continuation after perfect clear.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%407gQ4AeD8DeR4D8h0CeQ4D8g0BtAeRpD8g0AeBtRpJe%3FAgH)](https://harddrop.com/fumen/?v115@7gQ4AeD8DeR4D8h0CeQ4D8g0BtAeRpD8g0AeBtRpJe?AgH)
+
 ### KGT Alternative
 
 KGT also uses a 2-height wall as the right side of the T-slot
@@ -81,11 +87,19 @@ An example from Cold Clear:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gB8FeC8GeD8FeD8EeF8AeD8JeAgHFhRpHeRpdeAAA%3FDhhlIeglIeglVeAAAMhR4GeR4XeAAAAhywHewwieAAAvhAA%3FAADhh0Heg0Gexhh0VeAAAAhBtIeBtheAAAzgglIeglIehll%3FeAAAOhywHewwUeAAAvhAAAA)](https://harddrop.com/fumen/?v115@1gB8FeC8GeD8FeD8EeF8AeD8JeAgHFhRpHeRpdeAAA?DhhlIeglIeglVeAAAMhR4GeR4XeAAAAhywHewwieAAAvhAA?AADhh0Heg0Gexhh0VeAAAAhBtIeBtheAAAzgglIeglIehll?eAAAOhywHewwUeAAAvhAAAA)
 
-### Empty field setup
+### Parapet alternative
 
-It can be used as a continuation after perfect clear.
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhBtAeD8DeBtD8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@AhBtAeD8DeBtD8CeH8AeH8JeAgH)
 
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%407gQ4AeD8DeR4D8h0CeQ4D8g0BtAeRpD8g0AeBtRpJe%3FAgH)](https://harddrop.com/fumen/?v115@7gQ4AeD8DeR4D8h0CeQ4D8g0BtAeRpD8g0AeBtRpJe?AgH)
+In this case, you would like to go for a parapet + ZS donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgR4EeBtR4FeglDtAeD8glCeBtD8hlAeH8AeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@sgR4EeBtR4FeglDtAeD8glCeBtD8hlAeH8AeH8JeAg?H)
+
+But if you run out of L, do a shachiku train instead:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gh0Heg0BtAeD8Beg0AeBtD8ywH8wwH8JeAgH)](https://harddrop.com/fumen/?v115@1gh0Heg0BtAeD8Beg0AeBtD8ywH8wwH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Jhh0Heg0BtAeD8Beg0AeBtD8JeAgH)](https://harddrop.com/fumen/?v115@Jhh0Heg0BtAeD8Beg0AeBtD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgQ4DewhDeR4i0whRpywQ4Btg0whRpB8ywBtwhRpC8%3FwwD8RpA8wwF8JeAgH)](https://harddrop.com/fumen/?v115@tgQ4DewhDeR4i0whRpywQ4Btg0whRpB8ywBtwhRpC8?wwD8RpA8wwF8JeAgH)
 
 ### JL version
 
@@ -101,6 +115,19 @@ It works well if the corner cell is filled, as an alternative of King Crimson:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8DeF8DeG8BeG8JeAgH)](https://harddrop.com/fumen/?v115@ChE8DeF8DeG8BeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gh0CeE8g0hlAeF8g0AeglAeG8AeglG8JeAgH)](https://harddrop.com/fumen/?v115@9gh0CeE8g0hlAeF8g0AeglAeG8AeglG8JeAgH)
+
+It also can be used to change the location of the well. In the following case, you usually want to stack an S to balance the left part:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LhF8CeH8BeG8JeAgH)](https://harddrop.com/fumen/?v115@LhF8CeH8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhQ4CeF8R4AeH8Q4AeG8JeAgH)](https://harddrop.com/fumen/?v115@HhQ4CeF8R4AeH8Q4AeG8JeAgH)
+
+However, it doesn't work well if you get a garbage hole at col 2:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgQ4CeF8R4AeH8Q4AeH8AeI8AeH8JeAgH)](https://harddrop.com/fumen/?v115@zgQ4CeF8R4AeH8Q4AeH8AeI8AeH8JeAgH)
+
+In this case, stack shachiku train instead:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgBtDeh0CeBtCeg0hlAeF8g0AeglH8AeglH8AeI8Ae%3FH8JeAgH)](https://harddrop.com/fumen/?v115@jgBtDeh0CeBtCeg0hlAeF8g0AeglH8AeglH8AeI8Ae?H8JeAgH)
 
 ### T-Spin Neo
 
@@ -148,7 +175,7 @@ In this setup, the first T-spin is one layer higher than normal shachiku train.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae%3FglAeD8JeAgH)](https://harddrop.com/fumen/?v115@zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae?glAeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gAtEeC8BtEeC8AtCehlAeC8RpAeR4glAeC8RpR4Ae%3FglAeC8JeAgH)](https://harddrop.com/fumen/?v115@0gAtEeC8BtEeC8AtCehlAeC8RpAeR4glAeC8RpR4Ae?glAeC8JeAgH)
 
-It also means it requires a line to complete the second T-spin.
+It also means it requires a line clear to complete the second T-spin.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae%3FglAeD8JeAgH)](https://harddrop.com/fumen/?v115@zgh0DeD8g0EeD8g0AtAehlAeD8BtR4glAeD8AtR4Ae?glAeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8DeE8ywhlF8wwB8glI8glG8AeA8AeD8JeAgH)](https://harddrop.com/fumen/?v115@zgB8DeE8ywhlF8wwB8glI8glG8AeA8AeD8JeAgH)
