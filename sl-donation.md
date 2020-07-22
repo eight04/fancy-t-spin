@@ -206,6 +206,26 @@ Shachiku train without the top layer.
 
 The second setup is often used as an alternative of LS donation e.g. when two Ts come before S.
 
+### Situational setups
+
+Stack shachiku train with different pieces.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VhG8DeE8JeAgH)](https://harddrop.com/fumen/?v115@VhG8DeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhRpHeRpg0AeG8Aei0E8JeAgH)](https://harddrop.com/fumen/?v115@HhRpHeRpg0AeG8Aei0E8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LhG8CeG8AeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@LhG8CeG8AeA8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gRpHeRpQ4AeG8AeR4G8AeA8Q4F8JeAgH)](https://harddrop.com/fumen/?v115@9gRpHeRpQ4AeG8AeR4G8AeA8Q4F8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8DeF8DeE8JeAgH)](https://harddrop.com/fumen/?v115@RhA8DeF8DeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhBtHeA8BtAeglF8AeilE8JeAgH)](https://harddrop.com/fumen/?v115@HhBtHeA8BtAeglF8AeilE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8DeF8BeG8JeAgH)](https://harddrop.com/fumen/?v115@RhA8DeF8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gg0Iei0GeA8ilAeF8glAeG8JeAgH)](https://harddrop.com/fumen/?v115@9gg0Iei0GeA8ilAeF8glAeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WhG8BeF8JeAgH)](https://harddrop.com/fumen/?v115@WhG8BeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhilGegli0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@HhilGegli0AeG8Aeg0F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhRpQ4GeRpR4AeG8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@HhRpQ4GeRpR4AeG8AeQ4F8JeAgH)
+
 SJ Donation
 -----------
 
