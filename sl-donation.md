@@ -471,6 +471,26 @@ You can also stack it on a kaidan which results in a STSD.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgB8HeA8IeA8AeR4FeA8R4CeE8i0AeF8Beg0G8BeG8%3FJeAgH)](https://harddrop.com/fumen/?v115@fgB8HeA8IeA8AeR4FeA8R4CeE8i0AeF8Beg0G8BeG8?JeAgH)
 
+The second T-spin doesn't have to be a triple:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gR4DeglRpR4CeB8glRpi0AeC8hlCeg0G8AeF8JeAg%3FH)](https://harddrop.com/fumen/?v115@3gR4DeglRpR4CeB8glRpi0AeC8hlCeg0G8AeF8JeAg?H)
+
+It is possible to donation the second T-spin:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgD8FeD8FeC8DeA8AeE8AeC8AeI8AeA8JeAgH)](https://harddrop.com/fumen/?v115@zgD8FeD8FeC8DeA8AeE8AeC8AeI8AeA8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40egwhIewhEeR4BewhD8R4CewhD8i0Aeh0C8Ceg0A8g0%3FE8AeC8g0I8AeA8JeAgH)](https://harddrop.com/fumen/?v115@egwhIewhEeR4BewhD8R4CewhD8i0Aeh0C8Ceg0A8g0?E8AeC8g0I8AeA8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ugR4CeD8R4CeAtD8i0AeBtC8Ceg0A8AtE8AeC8AeI8%3FAeA8JeAgH)](https://harddrop.com/fumen/?v115@ugR4CeD8R4CeAtD8i0AeBtC8Ceg0A8AtE8AeC8AeI8?AeA8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeE8EeD8FeE8AeC8AeI8KeAgH)](https://harddrop.com/fumen/?v115@zgE8EeE8EeD8FeE8AeC8AeI8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeE8EeD8Cei0E8AeC8g0I8KeAgH)](https://harddrop.com/fumen/?v115@zgE8EeE8EeD8Cei0E8AeC8g0I8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgR4BeE8R4CeE8i0AewwD8Ceg0xwE8AeC8wwI8KeAg%3FH)](https://harddrop.com/fumen/?v115@vgR4BeE8R4CeE8i0AewwD8Ceg0xwE8AeC8wwI8KeAg?H)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeE8EeD8FeE8AeB8BeI8KeAgH)](https://harddrop.com/fumen/?v115@zgE8EeE8EeD8FeE8AeB8BeI8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgR4BeE8R4CeE8i0AeAtD8Ceg0BtE8AeB8AtAeI8Ke%3FAgH)](https://harddrop.com/fumen/?v115@vgR4BeE8R4CeE8i0AeAtD8Ceg0BtE8AeB8AtAeI8Ke?AgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeE8EeD8FeE8EeI8KeAgH)](https://harddrop.com/fumen/?v115@zgE8EeE8EeD8FeE8EeI8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke%3FAgH)](https://harddrop.com/fumen/?v115@mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke?AgH)
+
 It is possible to stack it with the second setup:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgB8BeB8DeA8DeA8DeA8AeR4AeF8R4BeF8i0AeF8Be%3Fg0G8AeH8JeAgH)](https://harddrop.com/fumen/?v115@fgB8BeB8DeA8DeA8DeA8AeR4AeF8R4BeF8i0AeF8Be?g0G8AeH8JeAgH)
@@ -544,3 +564,6 @@ The final board is not that good as regular STSD. You can do a simple I spin to 
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gRpHeRpIeB8EezhG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gRpHeRpIeB8EezhG8AeH8JeAgH)
 
+Or stack an extended shachiku train:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4Eeh0R4CeC8g0BtB8AeD8g0AeBtG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@2gR4Eeh0R4CeC8g0BtB8AeD8g0AeBtG8AeH8JeAgH)
