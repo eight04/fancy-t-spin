@@ -226,6 +226,10 @@ Stack shachiku train with different pieces.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhilGegli0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@HhilGegli0AeG8Aeg0F8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhRpQ4GeRpR4AeG8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@HhRpQ4GeRpR4AeG8AeQ4F8JeAgH)
 
+### JZ vs. ZJ
+
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA%3FtPeAAA)](https://harddrop.com/fumen/?v115@BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA?tPeAAA)
+
 SJ Donation
 -----------
 
@@ -311,6 +315,16 @@ As long as the height of the wall at the J side is lower than two, you can use t
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgB8IeE8h0R4AeE8g0R4BeE8g0AeB8AeE8CeG8BeH8%3FJeAgH)](https://harddrop.com/fumen/?v115@jgB8IeE8h0R4AeE8g0R4BeE8g0AeB8AeE8CeG8BeH8?JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhBtB8GeG8BeH8JeAgH)](https://harddrop.com/fumen/?v115@JhBtB8GeG8BeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgRpHeRpHewhIewhAeD8DewhBeG8whAeH8JeAgH)](https://harddrop.com/fumen/?v115@pgRpHeRpHewhIewhAeD8DewhBeG8whAeH8JeAgH)
+
+Note that the entire setup is actually a DT2 but the overhang is built before the TST. However, you can also build the overhang before the first TSD. It also means you can build the entire setup with more different pieces.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8EeB8BeB8DeB8AeG8JeAgH)](https://harddrop.com/fumen/?v115@KhB8EeB8BeB8DeB8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8CewhEeD8whh0R4AeD8whg0R4BeD8whg0AeB8Ae%3FF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8CewhEeD8whh0R4AeD8whg0R4BeD8whg0AeB8Ae?F8BeH8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bgg0Iei0GeRpHeRpCeB8CewhEeD8whh0R4AeD8whg0%3FR4BeD8whg0AeB8AeF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@Bgg0Iei0GeRpHeRpCeB8CewhEeD8whh0R4AeD8whg0?R4BeD8whg0AeB8AeF8BeH8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bgg0Iei0GeRpHeRpCeB8Ceg0EeD8i0R4AeF8R4BeF8%3FAeB8AeF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@Bgg0Iei0GeRpHeRpCeB8Ceg0EeD8i0R4AeF8R4BeF8?AeB8AeF8BeH8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgilGeglAtHeBtCeB8CeAtEeD8ilR4AeD8glA8R4Be%3FF8AeB8AeF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgilGeglAtHeBtCeB8CeAtEeD8ilR4AeD8glA8R4Be?F8AeB8AeF8BeH8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DgAtHeBtHeAtHeh0CeB8Ceg0EeD8g0T4AeD8T4BeF8%3FAeB8AeF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@DgAtHeBtHeAtHeh0CeB8Ceg0EeD8g0T4AeD8T4BeF8?AeB8AeF8BeH8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MgR4GeR4Heh0CeB8Ceg0EeD8g0zhAeF8BtBeF8AeBt%3FAeF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@MgR4GeR4Heh0CeB8Ceg0EeD8g0zhAeF8BtBeF8AeBt?AeF8BeH8AeG8JeAgH)
 
 ### Stack on top of kaidan with an O
 
@@ -510,6 +524,11 @@ With the STSD variant, you can use another L and J to build a TST:
 
 Note that these examples only work when the overhang is two cells high.
 
+If the left side has more space, you can also go for DT2 like SJ donation.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgilGeglAtHeBtCeB8CeAtEeA8CeB8AeR4AeF8R4Be%3FF8i0AeF8Beg0G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgilGeglAtHeBtCeB8CeAtEeA8CeB8AeR4AeF8R4Be?F8i0AeF8Beg0G8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgilGeglAtHeBtCeB8CeAtEeA8CeB8ilAeF8glQ4Be%3FF8AeR4AeF8BeQ4G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgilGeglAtHeBtCeB8CeAtEeA8CeB8ilAeF8glQ4Be?F8AeR4AeF8BeQ4G8AeG8JeAgH)
+
 ### Stack on incomplete TSD
 
 Like escalator, spot the L shape on the right side as the base of the setup.
@@ -520,11 +539,27 @@ Like escalator, spot the L shape on the right side as the base of the setup.
 
 ### Different pieces setup
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8BeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8BeA8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BgR4GeR4CeE8ywAeF8AewwA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@+gR4GeR4CeE8ywAeF8AewwA8AeF8JeAgH)
+
 Following is another common way to build JS donation:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8AeB8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@NhD8AeB8CeH8AeE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gh0RpFeg0AeRpBeD8g0B8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@9gh0RpFeg0AeRpBeD8g0B8CeH8AeE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgwhIewhIewhAeR4FewhR4GeD8FeA8AeB8BeG8CeH8%3FAeE8JeAgH)](https://harddrop.com/fumen/?v115@VgwhIewhIewhAeR4FewhR4GeD8FeA8AeB8BeG8CeH8?AeE8JeAgH)
+
+A different location of the hole?
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OhE8AeA8CeH8AeD8JeAgH)](https://harddrop.com/fumen/?v115@OhE8AeA8CeH8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BghlRpGeglRpBeE8glA8CeH8AeD8JeAgH)](https://harddrop.com/fumen/?v115@+ghlRpGeglRpBeE8glA8CeH8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgR4Eeh0R4Feg0D8Eeg0AeC8BeG8CeH8AeD8JeAgH)](https://harddrop.com/fumen/?v115@sgR4Eeh0R4Feg0D8Eeg0AeC8BeG8CeH8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403fwhIewhIewhBeR4EewhAtR4FeBtilEeAtAeglB8Ee%3FD8FeE8EeA8AeC8BeG8CeH8AeD8JeAgH)](https://harddrop.com/fumen/?v115@3fwhIewhIewhBeR4EewhAtR4FeBtilEeAtAeglB8Ee?D8FeE8EeA8AeC8BeG8CeH8AeD8JeAgH)
+
+Another example
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgA8FeD8EeE8EeF8AeA8CeH8AeI8AeI8AeI8AeI8Ae%3FI8AeD8JeAgH)](https://harddrop.com/fumen/?v115@BgA8FeD8EeE8EeF8AeA8CeH8AeI8AeI8AeI8AeI8Ae?I8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgA8FeD8hlCeE8AeglCeF8glA8CeH8AeI8AeI8AeI8%3FAeI8AeI8AeD8JeAgH)](https://harddrop.com/fumen/?v115@BgA8FeD8hlCeE8AeglCeF8glA8CeH8AeI8AeI8AeI8?AeI8AeI8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vfg0AeAtGeg0BtEeA8h0AtCeF8RpAeE8AeA8RpAeH8%3FCeH8AeI8AeI8AeI8AeI8AeI8AeD8JeAgH)](https://harddrop.com/fumen/?v115@vfg0AeAtGeg0BtEeA8h0AtCeF8RpAeE8AeA8RpAeH8?CeH8AeI8AeI8AeI8AeI8AeI8AeD8JeAgH)
 
 OverFuture
 -----------
