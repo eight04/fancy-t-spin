@@ -355,6 +355,18 @@ If the left wall is too high, you can still try to stack it with a T or L as lon
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DewwDeE8xwR4AeE8wwR4BeF8AeRpAeF8AeRpG8%3FBeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@ZgB8DewwDeE8xwR4AeE8wwR4BeF8AeRpAeF8AeRpG8?BeH8AeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgglCeB8DeglDeE8hlR4AeF8R4BeF8AeRpAeF8AeRp%3FG8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@VgglCeB8DeglDeE8hlR4AeF8R4BeF8AeRpAeF8AeRp?G8BeH8AeH8JeAgH)
 
+### TD attack
+
+This can be used at 2-7 stacking when you don't have a good place to stack ZS.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gE8EeE8EeE8EeG8CeE8JeAgH)](https://harddrop.com/fumen/?v115@4gE8EeE8EeE8EeG8CeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgQ4IeR4HewhQ4HewhIewhCezhBewhDeE8h0R4AeE8%3Fg0R4BeE8g0AeBtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@BgQ4IeR4HewhQ4HewhIewhCezhBewhDeE8h0R4AeE8?g0R4BeE8g0AeBtAeG8AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgA8IeB8HeB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8Je%3FAgH)](https://harddrop.com/fumen/?v115@VgA8IeB8HeB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8Je?AgH)
+
+Setup with different pieces:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MgAtHeBtHeAtIeglCezhBeglDeE8hlR4AeE8glR4Be%3FE8glAeBtAeE8hlAeBtE8JeAgH)](https://harddrop.com/fumen/?v115@MgAtHeBtHeAtIeglCezhBeglDeE8hlR4AeE8glR4Be?E8glAeBtAeE8hlAeBtE8JeAgH)
+
 ### Similar method
 
 Instead of forming the T slot, you can also use it as a side-donation on 2-wide well with kaidan
@@ -433,6 +445,21 @@ If the left wall is too low, you can still try to stack it with T or JI as long 
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8IeE8BeR4AeE8wwR4BeE8xwRpAeE8wwAeRpG8Be%3FH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@ZgB8IeE8BeR4AeE8wwR4BeE8xwRpAeE8wwAeRpG8Be?H8AeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgwhCeB8DewhDeE8whAeR4AeE8whR4BeE8h0RpAeE8%3Fg0AeRpF8g0BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@VgwhCeB8DewhDeE8whAeR4AeE8whR4BeE8h0RpAeE8?g0AeRpF8g0BeH8AeH8JeAgH)
+
+### TD attack
+
+Like SJ donation but use L instead of J.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gE8EeE8EeE8EeG8CeE8JeAgH)](https://harddrop.com/fumen/?v115@4gE8EeE8EeE8EeG8CeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgQ4IeR4HewhQ4HewhIewhCezhBewhDeE8glAeR4Ae%3FE8glR4BeE8hlBtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@BgQ4IeR4HewhQ4HewhIewhCezhBewhDeE8glAeR4Ae?E8glR4BeE8hlBtAeG8AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgA8IeB8HeB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8Je%3FAgH)](https://harddrop.com/fumen/?v115@VgA8IeB8HeB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8Je?AgH)
+
+Setup with other pieces:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MgAtHeBtHeAtIewhCezhBewhDeE8whAeR4AeE8whR4%3FBeE8RpBtAeE8RpAeBtE8JeAgH)](https://harddrop.com/fumen/?v115@MgAtHeBtHeAtIewhCezhBewhDeE8whAeR4AeE8whR4?BeE8RpBtAeE8RpAeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgRpHeRpHewhIewhCezhBewhDeE8whAeR4AeE8S4Be%3FE8R4BtAeF8Q4AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@LgRpHeRpHewhIewhCezhBewhDeE8whAeR4AeE8S4Be?E8R4BtAeF8Q4AeBtE8JeAgH)
+
+> Don't forget you can spin the Z piece in.
 
 SJ donation STSD
 ----------------
@@ -551,7 +578,29 @@ It is possible to donation the second T-spin:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeE8EeD8FeE8EeI8KeAgH)](https://harddrop.com/fumen/?v115@zgE8EeE8EeD8FeE8EeI8KeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke%3FAgH)](https://harddrop.com/fumen/?v115@mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke?AgH)
 
+### TD attack
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%406gC8FeD8FeD8EeG8BeF8JeAgH)](https://harddrop.com/fumen/?v115@6gC8FeD8FeD8EeG8BeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0IewhFeC8whAeR4BeD8whR4CeD8whi0%3FAeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0IewhFeC8whAeR4BeD8whR4CeD8whi0?AeG8Aeg0F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgB8HeA8IeA8AeBtFeA8BeBtR4D8AeB8R4G8ywH8ww%3FG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@VgB8HeA8IeA8AeBtFeA8BeBtR4D8AeB8R4G8ywH8ww?G8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8HeA8IeA8AeI8BeH8AeJ8AeG8JeAgH)](https://harddrop.com/fumen/?v115@pgB8HeA8IeA8AeI8BeH8AeJ8AeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gE8EeE8EeE8EeG8BeF8JeAgH)](https://harddrop.com/fumen/?v115@4gE8EeE8EeE8EeG8BeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0CezhBewhDeE8whAeR4AeE8whR4BeE8%3Fwhi0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0CezhBewhDeE8whAeR4AeE8whR4BeE8?whi0AeG8Aeg0F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8JeAgH)](https://harddrop.com/fumen/?v115@pgB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gE8EeE8EeE8EeG8BeF8JeAgH)](https://harddrop.com/fumen/?v115@4gE8EeE8EeE8EeG8BeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0CezhBewhDeE8whilAeE8whglQ4BeE8%3FwhAeR4AeG8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0CezhBewhDeE8whilAeE8whglQ4BeE8?whAeR4AeG8AeQ4F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8JeAgH)](https://harddrop.com/fumen/?v115@pgB8HeA8IeA8AeBtG8BeBtF8AeJ8AeG8JeAgH)
+
+Setup with different pieces:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgRpHeRpHewhIewhIewhDeE8whAeR4AeE8glR4BeE8%3Fgli0AeE8hlAeg0F8JeAgH)](https://harddrop.com/fumen/?v115@LgRpHeRpHewhIewhIewhDeE8whAeR4AeE8glR4BeE8?gli0AeE8hlAeg0F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0IewhDeE8whAeR4AeE8whR4BeE8whil%3FAeF8glAeG8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0IewhDeE8whAeR4AeE8whR4BeE8whil?AeF8glAeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MgAtHeBtHeAtIewhIewhDeE8whAeR4AeE8whR4BeE8%3FzhAeG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@MgAtHeBtHeAtIewhIewhDeE8whAeR4AeE8whR4BeE8?zhAeG8AeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgRpHeRpHewhIewhIewhDeE8whilAeE8hlQ4BeE8gl%3FAeR4AeE8hlAeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@LgRpHeRpHewhIewhIewhDeE8whilAeE8hlQ4BeE8gl?AeR4AeE8hlAeQ4F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgQ4IeR4HewhQ4HewhIewhIewhDeE8zhAeE8h0Q4Be%3FE8g0AeR4AeE8g0A8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@BgQ4IeR4HewhQ4HewhIewhIewhDeE8zhAeE8h0Q4Be?E8g0AeR4AeE8g0A8AeQ4F8JeAgH)
 
 ### Different pieces setup
 
