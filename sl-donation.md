@@ -512,11 +512,12 @@ In this case, you can stack a JS donation or SL donation:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40EgB8IeF8AeR4AeF8R4BeF8i0AeF8AeA8g0G8AeI8Ae%3FI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@EgB8IeF8AeR4AeF8R4BeF8i0AeF8AeA8g0G8AeI8Ae?I8AeI8AeI8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40EgB8IeF8ilAeF8glQ4BeF8AeR4AeF8AeA8Q4G8AeI8%3FAeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@EgB8IeF8ilAeF8glQ4BeF8AeR4AeF8AeA8Q4G8AeI8?AeI8AeI8AeI8JeAgH)
 
-> The second form requires you to stack up four lines. Sometimes it is simpler to raise two lines and do a kaidan donation.
+> The second form requires you to stack up four lines. Sometimes it is simpler to raise two lines and do a kaidan donation or shachiku when you can't stack the first form.
 > 
 > [![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gA8AeG8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@0gA8AeG8AeI8AeI8AeI8AeI8JeAgH)
-> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igAtF8BeBtF8AeA8AtG8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@igAtF8BeBtF8AeA8AtG8AeI8AeI8AeI8AeI8JeAgH)
-> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OgBtEeQ4CeBtDeR4AeG8AeQ4H8AeI8AeI8AeI8AeI8%3FAeI8JeAgH)](https://harddrop.com/fumen/?v115@OgBtEeQ4CeBtDeR4AeG8AeQ4H8AeI8AeI8AeI8AeI8?AeI8JeAgH)
+> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgF8DeF8AeA8AeG8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@jgF8DeF8AeA8AeG8AeI8AeI8AeI8AeI8JeAgH)
+> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OgBtEeQ4CeBtDeR4AeAtF8AeQ4BtF8AeA8AtG8AeI8%3FAeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@OgBtEeQ4CeBtDeR4AeAtF8AeQ4BtF8AeA8AtG8AeI8?AeI8AeI8AeI8JeAgH)
+> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40PgBtDeh0CeBtCeg0hlAeF8g0AeglAeF8AeA8glG8Ae%3FI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@PgBtDeh0CeBtCeg0hlAeF8g0AeglAeF8AeA8glG8Ae?I8AeI8AeI8AeI8JeAgH)
 
 ### Escalator
 
