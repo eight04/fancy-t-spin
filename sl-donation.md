@@ -603,6 +603,31 @@ Setup with different pieces:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgRpHeRpHewhIewhIewhDeE8whilAeE8hlQ4BeE8gl%3FAeR4AeE8hlAeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@LgRpHeRpHewhIewhIewhDeE8whilAeE8hlQ4BeE8gl?AeR4AeE8hlAeQ4F8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgQ4IeR4HewhQ4HewhIewhIewhDeE8zhAeE8h0Q4Be%3FE8g0AeR4AeE8g0A8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@BgQ4IeR4HewhQ4HewhIewhIewhDeE8zhAeE8h0Q4Be?E8g0AeR4AeE8g0A8AeQ4F8JeAgH)
 
+### Create `00110` base for SJ/LS donation
+
+When doing a JS donation like this, you usually want to stack TD attack to clear the hole:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4FeA8R4CeE8i0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@/gR4FeA8R4CeE8i0AeG8Aeg0F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgRpHeRpHewhIewhAeBtF8whBeBtE8whAeB8wwH8xw%3FI8wwG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgRpHeRpHewhIewhAeBtF8whBeBtE8whAeB8wwH8xw?I8wwG8AeG8JeAgH)
+
+However, since the left side also forms a `00110` ground, we can also stack another SJ/LS donation on it that leads to TD attack:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4FeA8R4CeE8i0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@/gR4FeA8R4CeE8i0AeG8Aeg0F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgglAeR4FeglR4GehlB8FeC8ywH8wwG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@pgglAeR4FeglR4GehlB8FeC8ywH8wwG8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gglAeR4FeglR4GehlB8FeB8AeG8JeAgH)](https://harddrop.com/fumen/?v115@9gglAeR4FeglR4GehlB8FeB8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgB8IeA8DeA8AeB8wwH8xwI8wwG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@tgB8IeA8DeA8AeB8wwH8xwI8wwG8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhB8IeA8DeA8AeB8wwG8AeG8JeAgH)](https://harddrop.com/fumen/?v115@BhB8IeA8DeA8AeB8wwG8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgQ4IeR4HewhQ4HewhIewhAeBtF8whBeBtF8AeJ8Ae%3FG8JeAgH)](https://harddrop.com/fumen/?v115@VgQ4IeR4HewhQ4HewhIewhAeBtF8whBeBtF8AeJ8Ae?G8JeAgH)
+
+Usually, this is not the best choice. You need 4 Ts to consume the entire setup. You are likely to overstack the right part. Following is an example:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgA8FeE8BeI8AeI8AeI8AeI8AeF8JeAgHvhWzSBiWB%3F0MBTPBvOBlQBAAA%2BSB0MBZLB5KBK8A0OBzDBfKBtQBAAAWJ%3FBcKBXMB%2B%2FA58Ai%2BA)](https://harddrop.com/fumen/?v115@pgA8FeE8BeI8AeI8AeI8AeI8AeF8JeAgHvhWzSBiWB?0MBTPBvOBlQBAAA+SB0MBZLB5KBK8A0OBzDBfKBtQBAAAWJ?BcKBXMB+/A58Ai+A)
+
+Shadow blade and STMB cave are cleaner:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgilBeg0AeAtRpglQ4Ceg0BtRpA8R4Aeh0AtE8Q4Ae%3FI8AeI8AeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@VgilBeg0AeAtRpglQ4Ceg0BtRpA8R4Aeh0AtE8Q4Ae?I8AeI8AeI8AeI8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40PgQ4Beh0EeR4Aeg0RpBtCeQ4glg0RpA8BtAeilE8Be%3FI8AeI8AeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@PgQ4Beh0EeR4Aeg0RpBtCeQ4glg0RpA8BtAeilE8Be?I8AeI8AeI8AeI8AeF8JeAgH)
+
 ### Different pieces setup
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8BeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8BeA8AeF8JeAgH)
