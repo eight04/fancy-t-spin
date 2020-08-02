@@ -262,6 +262,8 @@ You need a `00110` ground to build this setup.
 
 > You can build it on `01100` ground which becomes a STSD.
 
+> You can build it on `00100` ground which becomes a DSTSD.
+
 Note that you can also stack this shape using LI.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gB8IeE8zhAeE8ilBeE8glAeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@3gB8IeE8zhAeE8ilBeE8glAeB8AeE8JeAgH)
@@ -376,6 +378,21 @@ Instead of forming the T slot, you can also use it as a side-donation on 2-wide 
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeC8DeA8AeD8CeG8BeH8BeH8BeB8JeAgH)](https://harddrop.com/fumen/?v115@rgB8IeC8DeA8AeD8CeG8BeH8BeH8BeB8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeC8h0R4A8AeD8g0R4G8g0AeH8BeH8BeB8JeAg%3FH)](https://harddrop.com/fumen/?v115@rgB8IeC8h0R4A8AeD8g0R4G8g0AeH8BeH8BeB8JeAg?H)
+
+Situational setup
+-----------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8EeF8DeF8DeE8JeAgH)](https://harddrop.com/fumen/?v115@ChE8EeF8DeF8DeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gzhGeE8zhAeF8BtBeF8AeBtAeE8JeAgH)](https://harddrop.com/fumen/?v115@3gzhGeE8zhAeF8BtBeF8AeBtAeE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8EeE8EeF8BeA8AeE8JeAgH)](https://harddrop.com/fumen/?v115@ChE8EeE8EeF8BeA8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gzhGeE8zhAeE8i0BeF8Aeg0A8AeE8JeAgH)](https://harddrop.com/fumen/?v115@3gzhGeE8zhAeE8i0BeF8Aeg0A8AeE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8AeA8CeG8CeF8BeA8AeE8JeAgH)](https://harddrop.com/fumen/?v115@ChE8AeA8CeG8CeF8BeA8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgwhIewhCezhBewhDeE8whA8h0AeG8g0BeF8Aeg0A8%3FAeE8JeAgH)](https://harddrop.com/fumen/?v115@pgwhIewhCezhBewhDeE8whA8h0AeG8g0BeF8Aeg0A8?AeE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gF8DeF8DeF8CeG8CeF8JeAgH)](https://harddrop.com/fumen/?v115@4gF8DeF8DeF8CeG8CeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgBtIeBtCezhAeF8hlBeF8Aeglg0AeF8Aeglg0G8Ae%3Fh0F8JeAgH)](https://harddrop.com/fumen/?v115@jgBtIeBtCezhAeF8hlBeF8Aeglg0AeF8Aeglg0G8Ae?h0F8JeAgH)
 
 LS Donation
 -----------
