@@ -33,15 +33,28 @@ It leaves a clean field when using as a donation on col 1 and col 2 well.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgF8h0CeE8g0BtAeF8g0AeBtF8AeI8AeI8AeI8AeI8%3FJeAgH)](https://harddrop.com/fumen/?v115@ZgF8h0CeE8g0BtAeF8g0AeBtF8AeI8AeI8AeI8AeI8?JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgQ4IeR4GeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@rgQ4IeR4GeI8AeI8AeI8AeI8JeAgH)
 
+When stacking on col 2 well, sometimes it is better to skip the 2nd T-spin and do a tetris.
+
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgF8h0CeE8g0BtAeF8g0AeBtG8AeI8AeI8AeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@jgF8h0CeE8g0BtAeF8g0AeBtG8AeI8AeI8AeH8JeAg?H)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gF8g0AeBtG8AeI8AeI8AeH8JeAgH)](https://harddrop.com/fumen/?v115@3gF8g0AeBtG8AeI8AeI8AeH8JeAgH)
 
-Since it adds 1 hieght to col 2 well, you can stack it on 3-height well to form a tetris.
+It also works on 2-wide well:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgF8h0CeE8g0BtAeF8g0AeBtF8BeH8BeH8BeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@jgF8h0CeE8g0BtAeF8g0AeBtF8BeH8BeH8BeH8JeAg?H)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gQ4IeR4HeH8BeH8BeH8JeAgH)](https://harddrop.com/fumen/?v115@1gQ4IeR4HeH8BeH8BeH8JeAgH)
 
-Notice how it leaves one block after the first t-spin on the 2-wide well. It can be used to build TST/STSD overhang.
+### Stack on incomplete TSD
+
+Since it leaves a `1011` shape after the first t-spin, you can stack it on a T slot to create fractal/imperial cross.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8DeF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhF8DeF8CeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgB8Deh0ywE8g0BtwwF8g0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@tgB8Deh0ywE8g0BtwwF8g0AeBtF8CeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhB8Deg0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhB8Deg0AeBtF8CeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG%3FeBtxDi0CeAtBewDBeg0qeAAA)](https://harddrop.com/fumen/?v115@rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG?eBtxDi0CeAtBewDBeg0qeAAA)
+
+### Double-Triple
+
+Since it leaves a `1011` shape after the first t-spin, we can stack it on 2-wide well and build TST/STSD overhang.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8DeG8BeH8AewhG8JeAgH)](https://harddrop.com/fumen/?v115@BhF8DeG8BeH8AewhG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgB8Deh0ywE8g0BtwwF8g0AeBtG8BeH8AewhG8JeAg%3FH)](https://harddrop.com/fumen/?v115@tgB8Deh0ywE8g0BtwwF8g0AeBtG8BeH8AewhG8JeAg?H)
@@ -55,14 +68,29 @@ Notice how it leaves one block after the first t-spin on the 2-wide well. It can
 
 In the second example, the wall on the J side must form a flat surface.
 
-### Stack on incomplete TSD
+Following are situational setups.
 
-Since it leaves a `1011` shape after the first t-spin, you can stack it on TSD to create fractal/imperial cross.
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhG8DeF8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhG8DeF8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgBtDeRpCeBtCeRpg0AeG8Aei0F8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@tgBtDeRpCeBtCeRpg0AeG8Aei0F8BeH8AeH8JeAgH)
 
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8DeF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhF8DeF8CeH8AeH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgB8Deh0ywE8g0BtwwF8g0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@tgB8Deh0ywE8g0BtwwF8g0AeBtF8CeH8AeH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhB8Deg0AeBtF8CeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhB8Deg0AeBtF8CeH8AeH8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG%3FeBtxDi0CeAtBewDBeg0qeAAA)](https://harddrop.com/fumen/?v115@rgQ4IeR4IeQ4B8DeA8AeH8CeH8AeH8JeAgHqgAtwDG?eBtxDi0CeAtBewDBeg0qeAAA)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhG8CeG8CeG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhG8CeG8CeG8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgBtDeRpCeBtCeRpQ4AeG8AeR4G8BeQ4G8AeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@tgBtDeRpCeBtCeRpQ4AeG8AeR4G8BeQ4G8AeH8JeAg?H)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gA8DeF8DeF8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@9gA8DeF8DeF8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgBtDeBtCeBtCeA8BtAeglF8AeilF8BeH8AeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@tgBtDeBtCeBtCeA8BtAeglF8AeilF8BeH8AeH8JeAg?H)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gA8DeF8BeI8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@9gA8DeF8BeI8BeH8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgg0DeBtCei0CeBtBeA8ilAeF8glAeI8BeH8AeG8Je%3FAgH)](https://harddrop.com/fumen/?v115@pgg0DeBtCei0CeBtBeA8ilAeF8glAeI8BeH8AeG8Je?AgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gA8DeF8CeG8BeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@9gA8DeF8CeG8BeI8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ugBtCehlQ4CeBtBeA8glR4AeF8glAeQ4G8BeI8AeG8%3FJeAgH)](https://harddrop.com/fumen/?v115@ugBtCehlQ4CeBtBeA8glR4AeF8glAeQ4G8BeI8AeG8?JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChG8BeG8BeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@ChG8BeG8BeI8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgilGegli0AeG8Aeg0G8BeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@zgilGegli0AeG8Aeg0G8BeI8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpQ4GeRpR4AeG8AeQ4G8BeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@zgRpQ4GeRpR4AeG8AeQ4G8BeI8AeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhG8BeH8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhG8BeH8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgglIeglCeBtDehlCeBtCei0AeG8Aeg0H8BeH8AeH8%3FJeAgH)](https://harddrop.com/fumen/?v115@fgglIeglCeBtDehlCeBtCei0AeG8Aeg0H8BeH8AeH8?JeAgH)
 
 ### Empty field setup
 
@@ -236,6 +264,9 @@ Stack shachiku train with different pieces.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8DeF8BeG8JeAgH)](https://harddrop.com/fumen/?v115@RhA8DeF8BeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gg0Iei0GeA8ilAeF8glAeG8JeAgH)](https://harddrop.com/fumen/?v115@9gg0Iei0GeA8ilAeF8glAeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8DeF8CeF8JeAgH)](https://harddrop.com/fumen/?v115@RhA8DeF8CeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhhlQ4GeA8glR4AeF8glAeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@HhhlQ4GeA8glR4AeF8glAeQ4F8JeAgH)
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WhG8BeF8JeAgH)](https://harddrop.com/fumen/?v115@WhG8BeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhilGegli0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@HhilGegli0AeG8Aeg0F8JeAgH)
