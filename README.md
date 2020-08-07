@@ -107,6 +107,8 @@ Single-Triple
 
 [![Single Triple 3](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgA8BeB8DeB8CeA8DeA8DeG8AeJ8BeI8AeE8JeAgWT%3FATOZyDs488AQuR5DQDVTASIrAA)](https://harddrop.com/fumen/?v115@qgA8BeB8DeB8CeA8DeA8DeG8AeJ8BeI8AeE8JeAgWT?ATOZyDs488AQuR5DQDVTASIrAA)
 
+[![Single Triple 4](https://fumen-svg-server--eight041.repl.co/?data=v115%403gH8CeH8AeG8BeI8AeG8JeAgWTATOZyDs488AQuR5D%3FQDVTASYtAA)](https://harddrop.com/fumen/?v115@3gH8CeH8AeG8BeI8AeG8JeAgWTATOZyDs488AQuR5D?QDVTASYtAA)
+
 Double
 ---------
 
