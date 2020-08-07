@@ -11,6 +11,7 @@ Other pages:
 * [Out of order](out-of-order.md)
 * [SL Donation](sl-donation.md)
 * [IL Donation](il-donation.md)
+* [Tetr.io 180 spins](tetrio-180.md)
 
 Single
 -------
