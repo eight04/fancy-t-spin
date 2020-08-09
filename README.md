@@ -75,6 +75,7 @@ Single-Double
 
 [![壺](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWGAlPxRBGyAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gC8CeF8EeF8CeG8CeD8JeAgWHAlUlkDVPdCAvhHXr%3FQAAtlfllf9lBAAA9rflrBAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8EeF8CeG8CeD8JeAgWHAlUlkDVPdCAvhHXr?QAAtlfllf9lBAAA9rflrBAAA)
+[![STMB](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gC8CeF8CeR4F8AeR4G8CeD8JeAgWEAzeW0BJhBtAe%3FxDFeAtwSwDXeAAA)](https://harddrop.com/fumen/?v115@9gC8CeF8CeR4F8AeR4G8CeD8JeAgWEAzeW0BJhBtAe?xDFeAtwSwDXeAAA)
 
 [![Parapet Kaidan](https://fumen-svg-server--eight041.repl.co/?data=v115%40NgB8FeC8DeG8CeH8BeH8BeG8CeH8AeJ8AeI8AeC8Je%3FAgWQAQCSeDwo2TASI5cDJ3jJE)](https://harddrop.com/fumen/?v115@NgB8FeC8DeG8CeH8BeH8BeG8CeH8AeJ8AeI8AeC8Je?AgWQAQCSeDwo2TASI5cDJ3jJE)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40NgB8FeC8DeG8CeH8BeH8BeG8CeH8AeJ8AeI8AeC8Je%3FAgWHAlUlkDVPdCAvhHthflhf9hBAAA8XBNSfFSBAAA)](https://harddrop.com/fumen/?v115@NgB8FeC8DeG8CeH8BeH8BeG8CeH8AeJ8AeI8AeC8Je?AgWHAlUlkDVPdCAvhHthflhf9hBAAA8XBNSfFSBAAA)
