@@ -260,6 +260,12 @@ All TSD-TSD-STSD Composition
 [![OverFuture-DT](https://fumen-svg-server--eight041.repl.co/?data=v115%40NgB8IeA8IeG8CeG8DeI8AeH8BeH8BeH8AeG8JeAg0N%3FAvRNXEGA3hEy4%2B5B0AAAA)](https://harddrop.com/fumen/?v115@NgB8IeA8IeG8CeG8DeI8AeH8BeH8BeH8AeG8JeAg0N?AvRNXEGA3hEy4+5B0AAAA)
 [![OverFuture-BT](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgB8HeA8IeA8AeI8BeH8CeI8AeH8BeH8BeG8AeH8Je%3FAgWNAvRNXEGA3hEy4OzB0AAAA)](https://harddrop.com/fumen/?v115@LgB8HeA8IeA8AeI8BeH8CeI8AeH8BeH8BeG8AeH8Je?AgWNAvRNXEGA3hEy4OzB0AAAA)
 
+Double-Double-Double-Triple
+---------------------------
+
+[![D-STSD-T](https://fumen-svg-server--eight041.repl.co/?data=v115%405fB8IeA8IeG8CeG8DeI8AeH8BeH8CeH8AeH8BeH8Ae%3FG8JeAgWIAEETxCzG%2BvC)](https://harddrop.com/fumen/?v115@5fB8IeA8IeG8CeG8DeI8AeH8BeH8CeH8AeH8BeH8Ae?G8JeAgWIAEETxCzG+vC)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%405fB8IeA8IeG8CeG8DeI8AeH8BeH8CeH8AeH8BeH8Ae%3FG8JeAgWHAlUlkDVPdCAvhSVRf9bf9gflgBAAAVbf9lBAAAO%3FfBNQf1VfdgfdlfFlBAAANaf1ffdqBAAA)](https://harddrop.com/fumen/?v115@5fB8IeA8IeG8CeG8DeI8AeH8BeH8CeH8AeH8BeH8Ae?G8JeAgWHAlUlkDVPdCAvhSVRf9bf9gflgBAAAVbf9lBAAAO?fBNQf1VfdgfdlfFlBAAANaf1ffdqBAAA)
+
 Double-Triple
 --------------
 
