@@ -218,6 +218,12 @@ One special thing is that you can stack S after ZJL:
 
 This can be an alternative setup if you don't want to build OverFuture when getting ZJL.
 
+> Sometimes it is better to stack a J shadowblade donation that doesn't require a line clear:
+>
+> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgD8h0BeQ4AeD8g0ywR4D8g0AtwwhlQ4D8BtBeglAe%3FD8AtCeglAeD8JeAgH)](https://harddrop.com/fumen/?v115@vgD8h0BeQ4AeD8g0ywR4D8g0AtwwhlQ4D8BtBeglAe?D8AtCeglAeD8JeAgH)
+> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8h0BeQ4AeD8BtBeglAeD8AtCeglAeD8JeAgH)](https://harddrop.com/fumen/?v115@DhD8h0BeQ4AeD8BtBeglAeD8AtCeglAeD8JeAgH)
+> [![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gR4GeR4CewhF8g0AeA8whF8g0AeA8whE8h0AeA8wh%3FD8JeAgH)](https://harddrop.com/fumen/?v115@0gR4GeR4CewhF8g0AeA8whF8g0AeA8whE8h0AeA8wh?D8JeAgH)
+
 ### Partial setup
 
 Shachiku train without the top layer.
