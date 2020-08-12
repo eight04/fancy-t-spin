@@ -697,6 +697,14 @@ More examples:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40wgC8GeC8FeD8CeA8CeH8AeI8AeD8JeAgl)](https://harddrop.com/fumen/?v115@wgC8GeC8FeD8CeA8CeH8AeI8AeD8JeAgl)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgR4BeC8h0R4CeC8g0zhAeD8g0BeA8CeH8AeI8AeD8%3FJeAgl)](https://harddrop.com/fumen/?v115@sgR4BeC8h0R4CeC8g0zhAeD8g0BeA8CeH8AeI8AeD8?JeAgl)
 
+It can be used as a continuation after JS donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhB8EeE8DeF8AeA8BeD8JeAgH)](https://harddrop.com/fumen/?v115@HhB8EeE8DeF8AeA8BeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhR4EeB8R4CeE8i0AeF8AeA8g0AeD8JeAgH)](https://harddrop.com/fumen/?v115@AhR4EeB8R4CeE8i0AeF8AeA8g0AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igR4Eeh0R4CeC8g0zhAeD8g0BeR4AeF8R4CeE8i0Ae%3FF8AeA8g0AeD8JeAgH)](https://harddrop.com/fumen/?v115@igR4Eeh0R4CeC8g0zhAeD8g0BeR4AeF8R4CeE8i0Ae?F8AeA8g0AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40EgR4Eeh0R4CeC8g0zhAeD8g0BeR4AeD8h0R4CeC8g0%3FzhAeD8g0BeR4AeF8R4CeE8i0AeF8AeA8g0AeD8JeAgH)](https://harddrop.com/fumen/?v115@EgR4Eeh0R4CeC8g0zhAeD8g0BeR4AeD8h0R4CeC8g0?zhAeD8g0BeR4AeF8R4CeE8i0AeF8AeA8g0AeD8JeAgH)
+
+
 ### Different pieces setup
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8BeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8BeA8AeF8JeAgH)
