@@ -682,6 +682,21 @@ Shadow blade and STMB cave are cleaner:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgilBeg0AeAtRpglQ4Ceg0BtRpA8R4Aeh0AtE8Q4Ae%3FI8AeI8AeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@VgilBeg0AeAtRpglQ4Ceg0BtRpA8R4Aeh0AtE8Q4Ae?I8AeI8AeI8AeI8AeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40PgQ4Beh0EeR4Aeg0RpBtCeQ4glg0RpA8BtAeilE8Be%3FI8AeI8AeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@PgQ4Beh0EeR4Aeg0RpBtCeQ4glg0RpA8BtAeilE8Be?I8AeI8AeI8AeI8AeF8JeAgH)
 
+### Extension
+
+Achieve the same effect with IJS:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OhC8FeD8DeA8AeD8JeAgl)](https://harddrop.com/fumen/?v115@OhC8FeD8DeA8AeD8JeAgl)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhR4Eeh0R4CeC8g0zhAeD8g0CeA8AeD8JeAgl)](https://harddrop.com/fumen/?v115@AhR4Eeh0R4CeC8g0zhAeD8g0CeA8AeD8JeAgl)
+
+More examples:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40EhC8FeD8DeH8AeG8JeAgl)](https://harddrop.com/fumen/?v115@EhC8FeD8DeH8AeG8JeAgl)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4Eeh0R4CeC8g0zhAeD8g0CeH8AeG8JeAgl)](https://harddrop.com/fumen/?v115@2gR4Eeh0R4CeC8g0zhAeD8g0CeH8AeG8JeAgl)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40wgC8GeC8FeD8CeA8CeH8AeI8AeD8JeAgl)](https://harddrop.com/fumen/?v115@wgC8GeC8FeD8CeA8CeH8AeI8AeD8JeAgl)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgR4BeC8h0R4CeC8g0zhAeD8g0BeA8CeH8AeI8AeD8%3FJeAgl)](https://harddrop.com/fumen/?v115@sgR4BeC8h0R4CeC8g0zhAeD8g0BeA8CeH8AeI8AeD8?JeAgl)
+
 ### Different pieces setup
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8BeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8BeA8AeF8JeAgH)
