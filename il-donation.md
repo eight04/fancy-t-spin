@@ -107,3 +107,17 @@ Use the remain block as the overhang. Some examples:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeG8CeG8CeG8CeG8MeAgH)](https://harddrop.com/fumen/?v115@zgE8EeG8CeG8CeG8CeG8MeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igR4DeglBeR4CeilE8AezhG8CeG8h0AeG8g0BeG8g0%3FLeAgH)](https://harddrop.com/fumen/?v115@igR4DeglBeR4CeilE8AezhG8CeG8h0AeG8g0BeG8g0?LeAgH)
+
+Find I by extending TST overhang
+-----------------------------
+
+A method to cleanup TST overhang.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8HeA8SeAgH)](https://harddrop.com/fumen/?v115@RhB8HeA8SeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8R4FeA8R4QeAgH)](https://harddrop.com/fumen/?v115@RhB8R4FeA8R4QeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gg0Iei0GeB8R4FeA8R4QeAgH)](https://harddrop.com/fumen/?v115@9gg0Iei0GeB8R4FeA8R4QeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gg0DeB8Cei0CeF8R4AeF8R4BeE8JeAgH)](https://harddrop.com/fumen/?v115@9gg0DeB8Cei0CeF8R4AeF8R4BeE8JeAgH)
+
+Spin the S in after stacking other parts:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChB8IeF8CeF8DeE8JeAgHvhE2kB3bfPrfnqfHqB)](https://harddrop.com/fumen/?v115@ChB8IeF8CeF8DeE8JeAgHvhE2kB3bfPrfnqfHqB)
