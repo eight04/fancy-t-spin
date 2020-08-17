@@ -64,6 +64,13 @@ Col 4
 
 [![TSD](https://fumen-svg-server--eight041.repl.co/?data=v115%40EhB8IeB8DeB8AeC8DeF8JeAgWDAUNSBA9gilGeglAt%3FHeBtHeAtSeAAPAABhglGeilGeR4GeR4QeAAA)](https://harddrop.com/fumen/?v115@EhB8IeB8DeB8AeC8DeF8JeAgWDAUNSBA9gilGeglAt?HeBtHeAtSeAAPAABhglGeilGeR4GeR4QeAAA)
 
+Others
+------
+
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40DhB8IeB8BeA8BeA8AeD8AeA8BeF8JeAgHHhilAtFeg%3FlAeBtHeAtQeAAA)](https://harddrop.com/fumen/?v115@DhB8IeB8BeA8BeA8AeD8AeA8BeF8JeAgHHhilAtFeg?lAeBtHeAtQeAAA)
+
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gC8GeB8HeB8BeB8DeA8CeB8NeAgHBhglBeB8CeilC%3FeB8BeR4CeC8AeR4DeC8JeAAA)](https://harddrop.com/fumen/?v115@9gC8GeB8HeB8BeB8DeA8CeB8NeAgHBhglBeB8CeilC?eB8BeR4CeC8AeR4DeC8JeAAA)
+
 Overhang cleanup
 ----------------
 
