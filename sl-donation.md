@@ -515,6 +515,29 @@ Setup with other pieces:
 
 > Don't forget you can spin the Z piece in.
 
+### Face to the wall
+
+Since the donation itself arleady includes the overhang, the right part can be a simple one-block:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhBtAeg0GeBtg0DeA8AeB8h0NeAgH)](https://harddrop.com/fumen/?v115@JhBtAeg0GeBtg0DeA8AeB8h0NeAgH)
+
+It can be handy in the following situation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8FeE8AeB8BeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@DhD8FeE8AeB8BeH8AeE8JeAgH)
+
+Compare to other choices:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gQ4IeR4BeD8CeQ4AeAtE8AeB8BtH8AtE8JeAgH)](https://harddrop.com/fumen/?v115@1gQ4IeR4BeD8CeQ4AeAtE8AeB8BtH8AtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gQ4IeR4BeD8CeQ4RpE8AeB8RpH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@1gQ4IeR4BeD8CeQ4RpE8AeB8RpH8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gQ4BewwBeD8R4ywAtE8Q4B8BtH8AtE8JeAgH)](https://harddrop.com/fumen/?v115@9gQ4BewwBeD8R4ywAtE8Q4B8BtH8AtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgQ4IeR4HewhQ4HewhIewhAeBthlD8whBeBtglE8Ae%3FB8AeglH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@VgQ4IeR4HewhQ4HewhIewhAeBthlD8whBeBtglE8Ae?B8AeglH8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gQ4BtAehlD8R4BtAeglE8Q4B8AeglH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@9gQ4BtAehlD8R4BtAeglE8Q4B8AeglH8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgQ4IeR4IeQ4EeBtAeg0D8CeBtg0E8AeB8h0H8AeE8%3FJeAgH)](https://harddrop.com/fumen/?v115@kgQ4IeR4IeQ4EeBtAeg0D8CeBtg0E8AeB8h0H8AeE8?JeAgH)
+
+The J piece can be stacked after ZS:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8FeE8AeB8BeH8AeE8JeAgHvhE0gBfYB2bfWcf%2Bm%3FB)](https://harddrop.com/fumen/?v115@DhD8FeE8AeB8BeH8AeE8JeAgHvhE0gBfYB2bfWcf+m?B)
+
 SJ donation STSD
 ----------------
 
