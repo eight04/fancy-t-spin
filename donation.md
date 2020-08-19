@@ -83,3 +83,8 @@ Hole or no hole?
 ----------------
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB%2BPB%3FdnfFnBAAA%2FmB8YBCgBJfBdifFiBAAA)](https://harddrop.com/fumen/?v115@xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB+PB?dnfFnBAAA/mB8YBCgBJfBdifFiBAAA)
+
+Z Top or Z Bottom?
+------------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40XgB8FeC8CeAtCeD8AeBtCeE8AtCeH8AeI8AeI8AeI8%3FAeB8JeAgHUgwhIewhCeywAeRpwhDewwBeRpwhFeywHewwpe%3FAAeUgQaIeQaGeRpwwGeBtwwFehlQLHeAPIewhIewhIewhLe%3FAAewgBPGewDAPQpyeAAA)](https://harddrop.com/fumen/?v115@XgB8FeC8CeAtCeD8AeBtCeE8AtCeH8AeI8AeI8AeI8?AeB8JeAgHUgwhIewhCeywAeRpwhDewwBeRpwhFeywHewwpe?AAeUgQaIeQaGeRpwwGeBtwwFehlQLHeAPIewhIewhIewhLe?AAewgBPGewDAPQpyeAAA)
