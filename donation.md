@@ -109,3 +109,15 @@ Tetris first?
 -------------
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40dgC8BeA8EeF8CeG8AeI8AeI8AeJ8AeF8AeF8JeAgHN%3Fgg0Ieg0Heh0AeBtywFeBtww9eAAAtfwhIewhHeg0whCeR4C%3Feg0whBtR4ywh0DtRpwwg0C8AtgWA8RpAeg0AeC8glB8whh0%3FGewhIewhIewhheAAA)](https://harddrop.com/fumen/?v115@dgC8BeA8EeF8CeG8AeI8AeI8AeJ8AeF8AeF8JeAgHN?gg0Ieg0Heh0AeBtywFeBtww9eAAAtfwhIewhHeg0whCeR4C?eg0whBtR4ywh0DtRpwwg0C8AtgWA8RpAeg0AeC8glB8whh0?GewhIewhIewhheAAA)
+
+Predict cleanup piece?
+----------------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ngB8GeD8FeH8AeH8BeI8AeG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@ngB8GeD8FeH8AeH8BeI8AeG8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgQ4BeB8EeR4D8EeQ4H8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@kgQ4BeB8EeR4D8EeQ4H8wwH8xwI8wwG8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgi0AeglQ4BeB8Btg0AeglR4D8BtAehlQ4H8wwH8xw%3FI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@fgi0AeglQ4BeB8Btg0AeglR4D8BtAehlQ4H8wwH8xw?I8wwG8AeF8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ngB8GeD8FeH8AeH8BeI8AeG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@ngB8GeD8FeH8AeH8BeI8AeG8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40lgR4B8EeR4D8FeH8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@lgR4B8EeR4D8FeH8wwH8xwI8wwG8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40CgR4GeR4HeRpglBezhAeRpglywR4B8BthlwwR4D8Bt%3FDeH8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@CgR4GeR4HeRpglBezhAeRpglywR4B8BthlwwR4D8Bt?DeH8wwH8xwI8wwG8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40CgR4GeR4HeRpglAeg0zhAeRpglywR4B8BthlwwR4D8%3FBtAei0H8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@CgR4GeR4HeRpglAeg0zhAeRpglywR4B8BthlwwR4D8?BtAei0H8wwH8xwI8wwG8AeF8JeAgH)
