@@ -46,6 +46,14 @@ Double-Single
 [![Tower](https://fumen-svg-server--eight041.repl.co/?data=v115%407fC8GeA8EeE8BeH8BeH8DeH8BeH8BeF8DeF8BeH8Be%3FH8AeD8JeAgWFAUn9rDSBAAA)](https://harddrop.com/fumen/?v115@7fC8GeA8EeE8BeH8BeH8DeH8BeH8BeF8DeF8BeH8Be?H8AeD8JeAgWFAUn9rDSBAAA)
 [![Tower 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40ofC8GeA8DeF8BeH8BeH8AeI8CeG8BeH8BeH8AeI8Ce%3FG8BeH8BeH8AeC8JeAgWJAUn9rDyoo2ASAAAA)](https://harddrop.com/fumen/?v115@ofC8GeA8DeF8BeH8BeH8AeI8CeG8BeH8BeH8AeI8Ce?G8BeH8BeH8AeC8JeAgWJAUn9rDyoo2ASAAAA)
 
+Double-Double
+-------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgH8BeF8DeG8AeH8BeH8CeH8AeB8JeAgH)](http://fumen.zui.jp/?v115@pgH8BeF8DeG8AeH8BeH8CeH8AeB8JeAgH)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgH8BeF8DeG8AeH8BeH8CeH8AeB8JeAgWHAlUlkDVP%3FdCAvhL9ZfVefldf9nf9sflsBAAA%2FjBAAA9nflnBAAA)](http://fumen.zui.jp/?v115@pgH8BeF8DeG8AeH8BeH8CeH8AeB8JeAgWHAlUlkDVP?dCAvhL9ZfVefldf9nf9sflsBAAA/jBAAA9nflnBAAA)
+
+> This is only applicable when S comes too late. Otherwise you can stack a normal fractal.
+
 Triple
 ------
 
@@ -66,6 +74,7 @@ Triple-Double
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgC8GeA8DeG8AeI8BeH8AeG8CeH8AeC8JeAgH)](https://harddrop.com/fumen/?v115@kgC8GeA8DeG8AeI8BeH8AeG8CeH8AeC8JeAgH)
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8HeA8DeF8AeI8BeH8AeH8CeH8AeC8JeAgH)](https://harddrop.com/fumen/?v115@kgB8HeA8DeF8AeI8BeH8AeH8CeH8AeC8JeAgH)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8HeA8DeF8AeI8BeH8AeH8CeH8AeC8JeAgWHAlUl%3FkDVPdCAvhJ1YfNiBAAAvdB9jfVoflnfVsfFsBAAA)](https://harddrop.com/fumen/?v115@kgB8HeA8DeF8AeI8BeH8AeH8CeH8AeC8JeAgWHAlUl?kDVPdCAvhJ1YfNiBAAAvdB9jfVoflnfVsfFsBAAA)
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40agC8GeA8DeG8AeH8BeI8AeI8BeH8BeH8AeB8JeAgH)](https://harddrop.com/fumen/?v115@agC8GeA8DeG8AeH8BeI8AeI8BeH8BeH8AeB8JeAgH)
 
