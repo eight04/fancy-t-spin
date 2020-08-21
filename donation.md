@@ -104,3 +104,8 @@ L or J?
 --------
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ugR4CeD8R4CeE8ilAeF8glA8CeH8AeI8AeB8JeAgHB%3FhCtGegWAeg0geAAA)](https://harddrop.com/fumen/?v115@ugR4CeD8R4CeE8ilAeF8glA8CeH8AeI8AeB8JeAgHB?hCtGegWAeg0geAAA)
+
+Tetris first?
+-------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40dgC8BeA8EeF8CeG8AeI8AeI8AeJ8AeF8AeF8JeAgHN%3Fgg0Ieg0Heh0AeBtywFeBtww9eAAAtfwhIewhHeg0whCeR4C%3Feg0whBtR4ywh0DtRpwwg0C8AtgWA8RpAeg0AeC8glB8whh0%3FGewhIewhIewhheAAA)](https://harddrop.com/fumen/?v115@dgC8BeA8EeF8CeG8AeI8AeI8AeJ8AeF8AeF8JeAgHN?gg0Ieg0Heh0AeBtywFeBtww9eAAAtfwhIewhHeg0whCeR4C?eg0whBtR4ywh0DtRpwwg0C8AtgWA8RpAeg0AeC8glB8whh0?GewhIewhIewhheAAA)
