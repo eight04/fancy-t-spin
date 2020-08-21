@@ -265,6 +265,9 @@ Stack shachiku train with different pieces.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LhG8CeG8AeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@LhG8CeG8AeA8AeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gRpHeRpQ4AeG8AeR4G8AeA8Q4F8JeAgH)](https://harddrop.com/fumen/?v115@9gRpHeRpQ4AeG8AeR4G8AeA8Q4F8JeAgH)
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LhG8CeG8CeF8JeAgH)](https://harddrop.com/fumen/?v115@LhG8CeG8CeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gRpHeRpglAeG8AeglAeG8AehlF8JeAgH)](https://harddrop.com/fumen/?v115@9gRpHeRpglAeG8AeglAeG8AehlF8JeAgH)
+
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8DeF8DeE8JeAgH)](https://harddrop.com/fumen/?v115@RhA8DeF8DeE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhBtHeA8BtAeglF8AeilE8JeAgH)](https://harddrop.com/fumen/?v115@HhBtHeA8BtAeglF8AeilE8JeAgH)
 
