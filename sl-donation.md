@@ -599,6 +599,15 @@ In this case, you can stack a JS donation or SL donation:
 > [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OgBtEeQ4CeBtDeR4AeAtF8AeQ4BtF8AeA8AtG8AeI8%3FAeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@OgBtEeQ4CeBtDeR4AeAtF8AeQ4BtF8AeA8AtG8AeI8?AeI8AeI8AeI8JeAgH)
 > [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40PgBtDeh0CeBtCeg0hlAeF8g0AeglAeF8AeA8glG8Ae%3FI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@PgBtDeh0CeBtCeg0hlAeF8g0AeglAeF8AeA8glG8Ae?I8AeI8AeI8AeI8JeAgH)
 
+### Upgrade to Fractal
+
+You can often upgrade it to fractal.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgE8DeF8AeA8AeG8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@kgE8DeF8AeA8AeG8AeI8AeI8AeI8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WgR4GeR4CeE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8%3FJeAgH)](https://harddrop.com/fumen/?v115@WgR4GeR4CeE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8?JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40yfAtHeBtEeAtBeAtg0DeBtCeg0DeAtR4Aeh0DeR4Ce%3FE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@yfAtHeBtEeAtBeAtg0DeBtCeg0DeAtR4Aeh0DeR4Ce?E8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409fQ4DeAtDeR4BeDtCeQ4BeAtR4BtAezhR4CeE8i0Ae%3FF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@9fQ4DeAtDeR4BeDtCeQ4BeAtR4BtAezhR4CeE8i0Ae?F8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)
+
 ### Escalator
 
 This is a double-triple template using JS donation:
