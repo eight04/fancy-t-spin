@@ -252,6 +252,9 @@ Trinity / TSD-STSD Composition
 Double-Double-Triple
 --------------------
 
+[![DDT](https://fumen-svg-server--eight041.repl.co/?data=v115%40MgB8GeB8HeB8AeH8CeH8AeI8BeG8CeH8AeI8AeG8Je%3FAgWDAk21BA)](https://harddrop.com/fumen/?v115@MgB8GeB8HeB8AeH8CeH8AeI8BeG8CeH8AeI8AeG8Je?AgWDAk21BA)
+[![Compare to DT](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40XgAtHeBtHeAtIeA8AeI8BeG8CeH8AeI8AeG8JeAgWR%3FADHvQEBMVTASYlNEFbE6B0AAAAMgR4GeR4APGeg0glAPBtE%3Feg0APBeBtzhg06eAAA)](https://harddrop.com/fumen/?v115@XgAtHeBtHeAtIeA8AeI8BeG8CeH8AeI8AeG8JeAgWR?ADHvQEBMVTASYlNEFbE6B0AAAAMgR4GeR4APGeg0glAPBtE?eg0APBeBtzhg06eAAA)
+
 [![STSDT](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgF8BehlF8CeglE8CewwglE8AeI8BeH8BexwH8Aeww%3FA8JeAg0FAz%2BT7B0AAAA)](https://harddrop.com/fumen/?v115@fgF8BehlF8CeglE8CewwglE8AeI8BeH8BexwH8Aeww?A8JeAg0FAz+T7B0AAAA)
 
 [![STSDT 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgF8BeRpE8CeRpE8AezhE8BeilE8BeglI8BeH8AeB8%3FJeAgWJAz%2BT7BUoo2ASAAAA)](https://harddrop.com/fumen/?v115@fgF8BeRpE8CeRpE8AezhE8BeilE8BeglI8BeH8AeB8?JeAgWJAz+T7BUoo2ASAAAA)
@@ -377,6 +380,10 @@ Double-Triple
 
 [![Escalator](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgB8HeA8IeA8AeB8FeC8CeH8AeF8BeH8AeH8JeAgWJ%3FAFtwdDsimNESBAAA)](https://harddrop.com/fumen/?v115@fgB8HeA8IeA8AeB8FeC8CeH8AeF8BeH8AeH8JeAgWJ?AFtwdDsimNESBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gA8EeE8DeF8CeG8AeH8JeAgWIAzOckDrOZyDfgh0H%3Feg0Ieg0AeR4GeR4Hei0Ieg0ZeAAAfghHHegHIegHAexDFeA%3FAxDHeglhHIegHAAYeAAALgQ4IeR4HewhQ4HewhIewhAeR4F%3FewhR4IeBtIeBtYeAAALgwDIexDHeQawDHeQaIeQaAexDFeQ%3FaxDGeBABtFeAABeBtYeAAAfgh0Heg0Ieg0AeR4FewwR4Gex%3FwHewwceAAA)](https://harddrop.com/fumen/?v115@9gA8EeE8DeF8CeG8AeH8JeAgWIAzOckDrOZyDfgh0H?eg0Ieg0AeR4GeR4Hei0Ieg0ZeAAAfghHHegHIegHAexDFeA?AxDHeglhHIegHAAYeAAALgQ4IeR4HewhQ4HewhIewhAeR4F?ewhR4IeBtIeBtYeAAALgwDIexDHeQawDHeQaIeQaAexDFeQ?axDGeBABtFeAABeBtYeAAAfgh0Heg0Ieg0AeR4FewwR4Gex?wHewwceAAA)
+
+[![S Cut Copy DT](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgB8IeB8HeB8HeD8CeH8AeM8AeB8JeAgWTAToo2ADA%3F3TASI3LEwW98AQ21BA)](https://harddrop.com/fumen/?v115@mgB8IeB8HeB8HeD8CeH8AeM8AeB8JeAgWTAToo2ADA?3TASI3LEwW98AQ21BA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgB8IeB8HeB8HeD8CeH8AeM8AeB8JeAgWHAlUlkDVP%3FdCAvhDncB9lfllBAAAHhE8EeD8ZeAAAvhCVif9sBAAA)](https://harddrop.com/fumen/?v115@mgB8IeB8HeB8HeD8CeH8AeM8AeB8JeAgWHAlUlkDVP?dCAvhDncB9lfllBAAAHhE8EeD8ZeAAAvhCVif9sBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40GhD8FeE8AeC8AeI8AeA8JeAg0IAzOckDrOZyDnghlI%3FeglFeR4AeglEeR4Iei0Ieg0UeAAenghWIegWFexDAegWEex%3FDIeiHFeCAgHUeAAenghlIeglEeilAeglEeglg0Ieg0RpFeh%3F0RpUeAAemgA8g0gWHeA8g0EeiWA8g0EegWgHAeA8CeAACeg%3FHwSwwDeAAAehHwSwwGeBAA8KeAAe4gR4GeR4IeR4AtFeR4B%3FtHeAtMeAAA4gxDGexDDeBACexDAPBeAACexDBPDeDAAPMeA%3FAA4gR4DeAtBeR4DeBtCei0BeAtCeglRpg0DeilRpMeAAAmg%3FBAIeBAEexDAeBAAeAPBexDBeAAAeBtCeiHAAAeAtAeAAAeg%3FWxwgHDeg0hWxwA8LeAAA3gBtIeBtEezhFei0Ieg0OeAAA)](https://harddrop.com/fumen/?v115@GhD8FeE8AeC8AeI8AeA8JeAg0IAzOckDrOZyDnghlI?eglFeR4AeglEeR4Iei0Ieg0UeAAenghWIegWFexDAegWEex?DIeiHFeCAgHUeAAenghlIeglEeilAeglEeglg0Ieg0RpFeh?0RpUeAAemgA8g0gWHeA8g0EeiWA8g0EegWgHAeA8CeAACeg?HwSwwDeAAAehHwSwwGeBAA8KeAAe4gR4GeR4IeR4AtFeR4B?tHeAtMeAAA4gxDGexDDeBACexDAPBeAACexDBPDeDAAPMeA?AA4gR4DeAtBeR4DeBtCei0BeAtCeglRpg0DeilRpMeAAAmg?BAIeBAEexDAeBAAeAPBexDBeAAAeBtCeiHAAAeAtAeAAAeg?WxwgHDeg0hWxwA8LeAAA3gBtIeBtEezhFei0Ieg0OeAAA)
 
 [![???](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgB8IeA8DeD8AeH8BeH8BeG8BeI8AeF8JeAg0JAl8N%3FSATJUABmAAAA)](https://harddrop.com/fumen/?v115@jgB8IeA8DeD8AeH8BeH8BeG8BeI8AeF8JeAg0JAl8N?SATJUABmAAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgB8IeA8DeD8AeH8BeH8BeG8BeI8AeF8JeAg0HAlUl%3FkDVPdCAvhG1WfdhBAAAsWBVgf9qBAAA)](https://harddrop.com/fumen/?v115@jgB8IeA8DeD8AeH8BeH8BeG8BeI8AeF8JeAg0HAlUl?kDVPdCAvhG1WfdhBAAAsWBVgf9qBAAA)
