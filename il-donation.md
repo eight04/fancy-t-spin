@@ -121,3 +121,18 @@ A method to cleanup TST overhang.
 Spin the S in after stacking other parts:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChB8IeF8CeF8DeE8JeAgHvhE2kB3bfPrfnqfHqB)](https://harddrop.com/fumen/?v115@ChB8IeF8CeF8DeE8JeAgHvhE2kB3bfPrfnqfHqB)
+
+IS and IO variants
+------------------
+
+These are also floating I donation.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8EeF8EeE8DeD8JeAgH)](https://harddrop.com/fumen/?v115@HhA8EeF8EeE8DeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhBtEeA8ywBtF8wwzhE8DeD8JeAgH)](https://harddrop.com/fumen/?v115@AhBtEeA8ywBtF8wwzhE8DeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40UhBtEeB8DeD8JeAgH)](https://harddrop.com/fumen/?v115@UhBtEeB8DeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40UhBtglDeB8AeilD8JeAgH)](https://harddrop.com/fumen/?v115@UhBtglDeB8AeilD8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8EeF8EeE8DeD8JeAgH)](https://harddrop.com/fumen/?v115@9gB8HeA8EeF8EeE8DeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8BeRpDeA8ywRpF8wwzhE8DeD8JeAgH)](https://harddrop.com/fumen/?v115@9gB8BeRpDeA8ywRpF8wwzhE8DeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8BeRpDeB8DeD8JeAgH)](https://harddrop.com/fumen/?v115@RhB8BeRpDeB8DeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8Aeg0RpDeB8Aei0D8JeAgH)](https://harddrop.com/fumen/?v115@RhB8Aeg0RpDeB8Aei0D8JeAgH)
