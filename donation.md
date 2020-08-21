@@ -91,6 +91,8 @@ Hole or no hole?
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB%2BPB%3FdnfFnBAAA%2FmB8YBCgBJfBdifFiBAAA)](https://harddrop.com/fumen/?v115@xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB+PB?dnfFnBAAA/mB8YBCgBJfBdifFiBAAA)
 
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40%2BgglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg%3FWaeAAA)](https://harddrop.com/fumen/?v115@+gglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg?WaeAAA)
+
 Z Top or Z Bottom?
 ------------------
 
