@@ -258,6 +258,13 @@ Double-Double-Triple
 
 [![STSDT 3](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgB8DeE8CeR4E8AezhE8Bei0E8BeR4g0G8AeI8BeH8%3FAeB8JeAgWJAz%2BT7BUoo2ATAAAAngRaQeCPGeQLQaglHegWe%3FeAAPAA)](https://harddrop.com/fumen/?v115@ZgB8DeE8CeR4E8AezhE8Bei0E8BeR4g0G8AeI8BeH8?AeB8JeAgWJAz+T7BUoo2ATAAAAngRaQeCPGeQLQaglHegWe?eAAPAA)
 
+Double-Double-Quad
+------------------
+
+[![???](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgF8DeF8DeG8CeF8CeG8BeH8BeA8AeF8BeH8CeH8Ae%3FB8JeAgWJAl8NSATJUABmAAAA)](https://harddrop.com/fumen/?v115@LgF8DeF8DeG8CeF8CeG8BeH8BeA8AeF8BeH8CeH8Ae?B8JeAgWJAl8NSATJUABmAAAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgF8DeF8DeG8CeF8CeG8BeH8BeA8AeF8BeH8CeH8Ae%3FB8JeAgWHAlUlkDVPdCAvhLtYflYf9Yf9sflsBAAAHefnifv%3FsBtifliBAAA5gCtGeCtHeBteeAAAvhBpjBAAA)](https://harddrop.com/fumen/?v115@LgF8DeF8DeG8CeF8CeG8BeH8BeA8AeF8BeH8CeH8Ae?B8JeAgWHAlUlkDVPdCAvhLtYflYf9Yf9sflsBAAAHefnifv?sBtifliBAAA5gCtGeCtHeBteeAAAvhBpjBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gF8DeF8BeH8CeH8AeB8JeAgWIAzOckDrOZyDkgh0H%3Feg0CeAtEeg0BeBtHeAtoeAAA)](https://harddrop.com/fumen/?v115@9gF8DeF8BeH8CeH8AeB8JeAgWIAzOckDrOZyDkgh0H?eg0CeAtEeg0BeBtHeAtoeAAA)
+
 Double-Double-Double-Double
 -----------------------------
 
