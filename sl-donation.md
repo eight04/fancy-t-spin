@@ -282,6 +282,10 @@ Stack shachiku train with different pieces.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhilGegli0AeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@HhilGegli0AeG8Aeg0F8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhRpQ4GeRpR4AeG8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@HhRpQ4GeRpR4AeG8AeQ4F8JeAgH)
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8CeG8CeE8JeAgH)](https://harddrop.com/fumen/?v115@RhB8CeG8CeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gg0Iei0GeB8BtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@9gg0Iei0GeB8BtAeG8AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhglGeilCeB8AeR4G8R4AeE8JeAgH)](https://harddrop.com/fumen/?v115@DhglGeilCeB8AeR4G8R4AeE8JeAgH)
+
 ### JZ vs. ZJ
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA%3FtPeAAA)](https://harddrop.com/fumen/?v115@BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA?tPeAAA)
