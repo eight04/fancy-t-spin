@@ -286,6 +286,26 @@ Stack shachiku train with different pieces.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gg0Iei0GeB8BtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@9gg0Iei0GeB8BtAeG8AeBtE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhglGeilCeB8AeR4G8R4AeE8JeAgH)](https://harddrop.com/fumen/?v115@DhglGeilCeB8AeR4G8R4AeE8JeAgH)
 
+### STMB Alternative
+
+As the last situational setup, it can be used as an alternative of STMB cave. In the following case:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40FhB8AeB8CeD8AeB8CeD8AeI8JeAgH)](https://harddrop.com/fumen/?v115@FhB8AeB8CeD8AeB8CeD8AeI8JeAgH)
+
+Instead of Z/L donation, you can put a J at left side and build a shachiku:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gh0FeB8g0B8CeD8g0B8CeD8AeI8JeAgH)](https://harddrop.com/fumen/?v115@9gh0FeB8g0B8CeD8g0B8CeD8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%406gglBeh0CeilB8g0B8AeR4D8g0B8R4AeD8AeI8JeAg%3FH)](https://harddrop.com/fumen/?v115@6gglBeh0CeilB8g0B8AeR4D8g0B8R4AeD8AeI8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgwwHeywDeglBeh0CeilB8g0B8AeR4D8g0B8R4AeD8%3FAeI8JeAgHpgg0QLHeyh4eAAApggHAeglGeCP4eAAA)](https://harddrop.com/fumen/?v115@qgwwHeywDeglBeh0CeilB8g0B8AeR4D8g0B8R4AeD8?AeI8JeAgHpgg0QLHeyh4eAAApggHAeglGeCP4eAAA)
+
+Compare to Z/L donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ggQ4IeR4HeAtQ4DeilBtCeR4glB8AtB8AeR4D8AeB8%3FCeD8AeI8JeAgH)](https://harddrop.com/fumen/?v115@ggQ4IeR4HeAtQ4DeilBtCeR4glB8AtB8AeR4D8AeB8?CeD8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgQ4DeAtDeR4BeDtCeQ4B8AtB8BtAeD8AeB8CeD8Ae%3FI8JeAgH)](https://harddrop.com/fumen/?v115@vgQ4DeAtDeR4BeDtCeQ4B8AtB8BtAeD8AeB8CeD8Ae?I8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgQ4IeR4BeilQ4CeQ4B8glB8R4AeD8AeB8AeQ4AeD8%3FAeI8JeAgH)](https://harddrop.com/fumen/?v115@vgQ4IeR4BeilQ4CeQ4B8glB8R4AeD8AeB8AeQ4AeD8?AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40vgQ4Dei0BeR4Beilg0CeQ4B8glB8RpAeD8AeB8RpAe%3FD8AeI8JeAgH)](https://harddrop.com/fumen/?v115@vgQ4Dei0BeR4Beilg0CeQ4B8glB8RpAeD8AeB8RpAe?D8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgh0AeQ4Feg0BeR4Beilg0CeQ4B8glB8RpAeD8AeB8%3FRpAeD8AeI8JeAgH)](https://harddrop.com/fumen/?v115@sgh0AeQ4Feg0BeR4Beilg0CeQ4B8glB8RpAeD8AeB8?RpAeD8AeI8JeAgH)
+
 ### JZ vs. ZJ
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA%3FtPeAAA)](https://harddrop.com/fumen/?v115@BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA?tPeAAA)
