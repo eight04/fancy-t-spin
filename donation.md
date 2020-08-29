@@ -121,3 +121,13 @@ Predict cleanup piece?
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40lgR4B8EeR4D8FeH8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@lgR4B8EeR4D8FeH8wwH8xwI8wwG8AeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40CgR4GeR4HeRpglBezhAeRpglywR4B8BthlwwR4D8Bt%3FDeH8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@CgR4GeR4HeRpglBezhAeRpglywR4B8BthlwwR4D8Bt?DeH8wwH8xwI8wwG8AeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40CgR4GeR4HeRpglAeg0zhAeRpglywR4B8BthlwwR4D8%3FBtAei0H8wwH8xwI8wwG8AeF8JeAgH)](https://harddrop.com/fumen/?v115@CgR4GeR4HeRpglAeg0zhAeRpglywR4B8BthlwwR4D8?BtAei0H8wwH8xwI8wwG8AeF8JeAgH)
+
+2-wide well
+-----------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8IeB8AeC8BeD8AeC8BeB8JeAgH)](https://harddrop.com/fumen/?v115@9gB8HeA8IeB8AeC8BeD8AeC8BeB8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8Cei0ilB8AeC8g0glD8AeC8BeB8JeAgH)](https://harddrop.com/fumen/?v115@9gB8HeA8Cei0ilB8AeC8g0glD8AeC8BeB8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%407ghlB8FeAtglA8Cei0BtglB8AeC8g0AtD8AeC8BeB8%3FJeAgH)](https://harddrop.com/fumen/?v115@7ghlB8FeAtglA8Cei0BtglB8AeC8g0AtD8AeC8BeB8?JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%407gglAeB8Beg0CeglAeA8Cei0AthlB8AeC8BtD8AeC8%3FAtAeB8JeAgH)](https://harddrop.com/fumen/?v115@7gglAeB8Beg0CeglAeA8Cei0AthlB8AeC8BtD8AeC8?AtAeB8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gh0DeB8Beg0DeglA8Ceg0BtilB8AeC8BtD8AeC8Be%3FB8JeAgH)](https://harddrop.com/fumen/?v115@3gh0DeB8Beg0DeglA8Ceg0BtilB8AeC8BtD8AeC8Be?B8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gAtDeB8BeBtDeA8CeAtklB8AeC8hlD8AeC8glAeB8%3FJeAgH)](https://harddrop.com/fumen/?v115@4gAtDeB8BeBtDeA8CeAtklB8AeC8hlD8AeC8glAeB8?JeAgH)
