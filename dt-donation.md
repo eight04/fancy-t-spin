@@ -60,6 +60,11 @@ Instead of hanging a Z as the overhang, you can do a DT:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igAtHeBtHeAtG8CeI8AeH8BeH8whAeG8JeAgH)](https://harddrop.com/fumen/?v115@igAtHeBtHeAtG8CeI8AeH8BeH8whAeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igBtEeQ4CeBtDeR4AeG8AeQ4AeI8AeH8BeH8whAeG8%3FJeAgH)](https://harddrop.com/fumen/?v115@igBtEeQ4CeBtDeR4AeG8AeQ4AeI8AeH8BeH8whAeG8?JeAgH)
 
+Be creative:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40agQ4IeR4CeilCeQ4CejlAeRpDeglCeRpCeB8AeH8Be%3FH8whAeG8JeAgH)](https://harddrop.com/fumen/?v115@agQ4IeR4CeilCeQ4CejlAeRpDeglCeRpCeB8AeH8Be?H8whAeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0AehlFeglBeglFeglBeglFehlAeH8Be%3FH8whAeG8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0AehlFeglBeglFeglBeglFehlAeH8Be?H8whAeG8JeAgH)
+
 DT 2
 -----
 
