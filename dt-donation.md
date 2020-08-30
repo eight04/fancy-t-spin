@@ -199,6 +199,36 @@ Sometimes it is used to cleanup back-to-wall overhang i.e. using the lucky hole 
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgRpBe1hRpCe0hilAe1hglBeg01hB8Aeg01hA8Aeh0%3FF8JeAgH)](https://harddrop.com/fumen/?v115@pgRpBe1hRpCe0hilAe1hglBeg01hB8Aeg01hA8Aeh0?F8JeAgH)
 
+Elevator 2
+----------
+
+The TSD slot is moved one cell away compared to regular elevator, result in extremely unbalanced parity:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8BeAtE8BtCeHtAeFtA8BeI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@zgB8BeAtE8BtCeHtAeFtA8BeI8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8CeE8CtCeHtAeEtA8BeI8AeG8JeAgH)](http://fumen.zui.jp/?v115@zgB8CeE8CtCeHtAeEtA8BeI8AeG8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtCeE8g0BtCeD8i0A8AeF8BeI8AeG8JeAgH)](http://fumen.zui.jp/?v115@zgBtCeE8g0BtCeD8i0A8AeF8BeI8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zghlCeE8whglQ4CeD8whglR4AeE8whBeQ4F8whA8Ae%3FG8JeAgH)](http://fumen.zui.jp/?v115@zghlCeE8whglQ4CeD8whglR4AeE8whBeQ4F8whA8Ae?G8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtCeE8whBtCeD8whi0AeE8whBeg0F8whA8AeG8Je%3FAgH)](http://fumen.zui.jp/?v115@zgBtCeE8whBtCeD8whi0AeE8whBeg0F8whA8AeG8Je?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpCeE8RpQ4CeD8h0R4AeE8g0BeQ4F8g0A8AeG8Je%3FAgH)](http://fumen.zui.jp/?v115@zgRpCeE8RpQ4CeD8h0R4AeE8g0BeQ4F8g0A8AeG8Je?AgH)
+
+To get rid of unbalanced parity, the TSD is often donated like:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtCeE8g0BtCeD8i0glAeF8BeglAeG8AehlE8JeAg%3FH)](http://fumen.zui.jp/?v115@zgBtCeE8g0BtCeD8i0glAeF8BeglAeG8AehlE8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtCeE8g0BtywD8i0glwwF8BeglAeG8AehlE8JeAg%3FH)](http://fumen.zui.jp/?v115@zgBtCeE8g0BtywD8i0glwwF8BeglAeG8AehlE8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhBtCeF8BeglAeG8AehlE8JeAgH)](https://harddrop.com/fumen/?v115@HhBtCeF8BeglAeG8AehlE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gi0HeQ4g0EeBtAeR4F8BeglQ4G8AehlE8JeAgH)](https://harddrop.com/fumen/?v115@1gi0HeQ4g0EeBtAeR4F8BeglQ4G8AehlE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401ghlIeglh0DeBtAeglg0F8Beglg0G8AehlE8JeAgH)](https://harddrop.com/fumen/?v115@1ghlIeglh0DeBtAeglg0F8Beglg0G8AehlE8JeAgH)
+
+The first form is T/S base:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgBtCeE8g0BtCeD8i0A8AeE8wwBeG8xwAeG8wwAeH8%3FJeAgH)](http://fumen.zui.jp/?v115@pgBtCeE8g0BtCeD8i0A8AeE8wwBeG8xwAeG8wwAeH8?JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgBtCeE8g0BtCeD8i0A8AeE8Q4BeG8R4AeG8glQ4Ae%3FG8glBeG8hlAeG8JeAgH)](http://fumen.zui.jp/?v115@VgBtCeE8g0BtCeD8i0A8AeE8Q4BeG8R4AeG8glQ4Ae?G8glBeG8hlAeG8JeAgH)
+
+Others are Z base:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VghlCeE8whglQ4CeD8whglR4AeE8whBeQ4F8whAtAe%3FG8BtAeG8AtBeI8AeG8JeAgH)](http://fumen.zui.jp/?v115@VghlCeE8whglQ4CeD8whglR4AeE8whBeQ4F8whAtAe?G8BtAeG8AtBeI8AeG8JeAgH)
+
 ZTS CC Cannon
 ------------
 
