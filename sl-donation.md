@@ -633,13 +633,56 @@ You can often upgrade it to fractal.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40yfAtHeBtEeAtBeAtg0DeBtCeg0DeAtR4Aeh0DeR4Ce%3FE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@yfAtHeBtEeAtBeAtg0DeBtCeg0DeAtR4Aeh0DeR4Ce?E8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409fQ4DeAtDeR4BeDtCeQ4BeAtR4BtAezhR4CeE8i0Ae%3FF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@9fQ4DeAtDeR4BeDtCeQ4BeAtR4BtAezhR4CeE8i0Ae?F8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)
 
-### Escalator
+### Create TST/TSD slot
 
-This is a double-triple template using JS donation:
+Instead of hanging J on `010` ground, you can stack it on a two-wide platform to create a TST slot:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40dhB8PeAgH)](https://harddrop.com/fumen/?v115@dhB8PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4GeR4Hei0Ieg0HeB8PeAgH)](https://harddrop.com/fumen/?v115@1gR4GeR4Hei0Ieg0HeB8PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4FewhR4ywD8whi0wwE8whBeg0AeE8whAeB8AeE8%3FJeAgH)](https://harddrop.com/fumen/?v115@1gR4FewhR4ywD8whi0wwE8whBeg0AeE8whAeB8AeE8?JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhR4FewhBeg0AeE8whAeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@JhR4FewhBeg0AeE8whAeB8AeE8JeAgH)
+
+Or TSD:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40bhB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@bhB8AeB8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4GeR4Hei0Ieg0EeB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@2gR4GeR4Hei0Ieg0EeB8AeB8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgwhIewhIewhBeR4EewhAtR4ywC8Bti0wwD8AtCeg0%3FAeF8AeB8AeD8JeAgH)](https://harddrop.com/fumen/?v115@fgwhIewhIewhBeR4EewhAtR4ywC8Bti0wwD8AtCeg0?AeF8AeB8AeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgwhIewhIewhBeR4EeAtCeg0AeF8AeB8AeD8JeAgH)](https://harddrop.com/fumen/?v115@zgwhIewhIewhBeR4EeAtCeg0AeF8AeB8AeD8JeAgH)
+
+For TSD, sometimes it is possible to replace the S with a Z:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhA8IeB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@RhA8IeB8AeB8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4EeRpR4FeRpi0EeA8Ceg0EeB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@2gR4EeRpR4FeRpi0EeA8Ceg0EeB8AeB8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgwhIewhCeAtEewhBeBtEewhR4AtFeR4i0EeA8Ceg0%3FEeB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@fgwhIewhCeAtEewhBeBtEewhR4AtFeR4i0EeA8Ceg0?EeB8AeB8OeAgH)
+
+To form the right part, you need a three-height wall. The gap under the T slot can also be filled since it's a two-height floating T spin:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ihi0AeA8Geg0AeA8FeB8AeA8NeAgH)](https://harddrop.com/fumen/?v115@Ihi0AeA8Geg0AeA8FeB8AeA8NeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ihi0AeA8Geg0AeA8FeD8NeAgH)](https://harddrop.com/fumen/?v115@Ihi0AeA8Geg0AeA8FeD8NeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ihi0AeA8Geg0B8FeD8NeAgH)](https://harddrop.com/fumen/?v115@Ihi0AeA8Geg0B8FeD8NeAgH)
+
+If the gap is filled, we can also use the triple setup:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VhA8GeC8OeAgH)](https://harddrop.com/fumen/?v115@VhA8GeC8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gilGeglQ4IeR4IeQ4A8GeC8OeAgH)](https://harddrop.com/fumen/?v115@0gilGeglQ4IeR4IeQ4A8GeC8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgh0BeB8Deg0DeA8Deg0ilwwE8whglQ4xwE8whAeR4%3FwwE8whBeQ4F8whAeH8JeAgH)](https://harddrop.com/fumen/?v115@fgh0BeB8Deg0DeA8Deg0ilwwE8whglQ4xwE8whAeR4?wwE8whBeQ4F8whAeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0BeB8Deg0DeA8DewhAeR4wwE8whBeQ4F8whAeH8%3FJeAgH)](https://harddrop.com/fumen/?v115@zgh0BeB8Deg0DeA8DewhAeR4wwE8whBeQ4F8whAeH8?JeAgH)    
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8IeA8DeA8DeB8AeC8NeAgH)](https://harddrop.com/fumen/?v115@HhA8IeA8DeA8DeB8AeC8NeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpilEeRpglQ4FeA8BeR4EeA8CeQ4A8DeB8AeC8Ne%3FAgH)](https://harddrop.com/fumen/?v115@zgRpilEeRpglQ4FeA8BeR4EeA8CeQ4A8DeB8AeC8Ne?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8IeA8CeRpilwwD8RpglQ4xwE8BeR4wwE8CeQ4G8%3FAeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8IeA8CeRpilwwD8RpglQ4xwE8BeR4wwE8CeQ4G8?AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gB8IeA8CeA8BeR4wwE8CeQ4G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@4gB8IeA8CeA8BeR4wwE8CeQ4G8AeG8JeAgH)
+
+Upgrade the first T-Spin to TST:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpilEeRpglQ4FeA8BeR4EeA8CeQ4A8DeB8AeC8Ne%3FAgH)](https://harddrop.com/fumen/?v115@zgRpilEeRpglQ4FeA8BeR4EeA8CeQ4A8DeB8AeC8Ne?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgRpHeRpilEeBtglQ4FeA8BtR4EeA8CeQ4A8DeB8Ae%3FC8NeAgH)](https://harddrop.com/fumen/?v115@pgRpHeRpilEeBtglQ4FeA8BtR4EeA8CeQ4A8DeB8Ae?C8NeAgH)
+
+#### Escalator
+
+This is a double-triple template using this technic:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgB8HeA8IeA8AeR4FeA8R4CeE8i0AeF8Beg0glF8Ae%3FilE8JeAgH)](https://harddrop.com/fumen/?v115@fgB8HeA8IeA8AeR4FeA8R4CeE8i0AeF8Beg0glF8Ae?ilE8JeAgH)
-
-You need a 3-height wall to form the right part of the T slot.
 
 You can also stack it on a kaidan which results in a STSD.
 
@@ -669,15 +712,9 @@ If the left side has more space, you can also go for DT2 like SJ donation.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgilGeglAtHeBtCeB8CeAtEeA8CeB8AeR4AeF8R4Be%3FF8i0AeF8Beg0G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgilGeglAtHeBtCeB8CeAtEeA8CeB8AeR4AeF8R4Be?F8i0AeF8Beg0G8AeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgilGeglAtHeBtCeB8CeAtEeA8CeB8ilAeF8glQ4Be%3FF8AeR4AeF8BeQ4G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgilGeglAtHeBtCeB8CeAtEeA8CeB8ilAeF8glQ4Be?F8AeR4AeF8BeQ4G8AeG8JeAgH)
 
-### Stack on incomplete TSD
+#### Advanced donation
 
-Like escalator but the second T-spin is not triple. Spot the L shape on the right side as the base of the setup.
-
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4EeRpR4CeC8Rpi0AeE8Ceg0G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@2gR4EeRpR4CeC8Rpi0AeE8Ceg0G8AeG8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8IeA8CeRpilAeD8RpglQ4BeE8BeR4AeE8CeQ4G8%3FAeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8IeA8CeRpilAeD8RpglQ4BeE8BeR4AeE8CeQ4G8?AeG8JeAgH)
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8CeRpDeA8CeRpilAeD8BtglQ4BeE8BtR4AeE8Ce%3FQ4G8AeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8CeRpDeA8CeRpilAeD8BtglQ4BeE8BtR4AeE8Ce?Q4G8AeG8JeAgH)
-
-It is possible to donation the second T-spin:
+It is possible to donate the second T-spin:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgD8FeD8FeC8DeA8AeE8AeC8AeI8AeA8JeAgH)](https://harddrop.com/fumen/?v115@zgD8FeD8FeC8DeA8AeE8AeC8AeI8AeA8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40egwhIewhEeR4BewhD8R4CewhD8i0Aeh0C8Ceg0A8g0%3FE8AeC8g0I8AeA8JeAgH)](https://harddrop.com/fumen/?v115@egwhIewhEeR4BewhD8R4CewhD8i0Aeh0C8Ceg0A8g0?E8AeC8g0I8AeA8JeAgH)
@@ -694,6 +731,8 @@ It is possible to donation the second T-spin:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke%3FAgH)](https://harddrop.com/fumen/?v115@mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke?AgH)
 
 ### TD attack
+
+If we hang the J on `100` ground, we get a hole to build TD attack.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%406gC8FeD8FeD8EeG8BeF8JeAgH)](https://harddrop.com/fumen/?v115@6gC8FeD8FeD8EeG8BeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0IewhFeC8whAeR4BeD8whR4CeD8whi0%3FAeG8Aeg0F8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0IewhFeC8whAeR4BeD8whR4CeD8whi0?AeG8Aeg0F8JeAgH)
@@ -769,6 +808,9 @@ It can be used as a continuation after JS donation:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8BeA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8BeA8AeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BgR4GeR4CeE8ywAeF8AewwA8AeF8JeAgH)](https://harddrop.com/fumen/?v115@+gR4GeR4CeE8ywAeF8AewwA8AeF8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8DeF8DeF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@ChE8DeF8DeF8AeB8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gR4GeR4CeE8ywAeF8AewwBeF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@0gR4GeR4CeE8ywAeF8AewwBeF8AeB8AeF8JeAgH)
 
 Following is another common way to build JS donation:
 
