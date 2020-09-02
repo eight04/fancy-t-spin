@@ -15,7 +15,7 @@ Shachiku Train
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgQ4IeR4FeywQ4G8wwH8JeAgH)](https://harddrop.com/fumen/?v115@/gQ4IeR4FeywQ4G8wwH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ThQ4IeR4PeAgH)](https://harddrop.com/fumen/?v115@ThQ4IeR4PeAgH)
 
-Shachiku train needs a two height wall to form the right side of the T slot.
+Shachiku train needs a 2-height wall to form the right side of the T slot.
 
 You need a flat ground to stack shachiku train.
 
@@ -24,7 +24,7 @@ After the first T-spin, the result will be another 4-wide flat ground. You can s
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VhF8g0AeBtF8JeAgH)]()
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gB8Deh0CeE8g0BtAeF8g0AeBtG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@3gB8Deh0CeE8g0BtAeF8g0AeBtG8AeH8JeAgH)
 
-After the second T-spin, it leaves an open 2-wide gap. Which means you can build it on top of any strcture that only requires a 2 wide well e.g. DT cannon.
+After the second T-spin, it leaves an open 2-wide gap. Which means you can build it on top of any strcture that only requires a 2-wide well e.g. DT cannon.
 
 ### Stack on top of a well
 
@@ -472,7 +472,7 @@ LS Donation
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhBtB8DeywBtF8wwH8JeAgH)](https://harddrop.com/fumen/?v115@JhBtB8DeywBtF8wwH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40dhBtB8NeAgH)](https://harddrop.com/fumen/?v115@dhBtB8NeAgH)
 
-The first setup requires one-height base at the right side to form the T slot.
+The first setup requires 1-height base at the right side to form the T slot.
 
 The second setup is identical to SJ donation.
 
@@ -635,12 +635,15 @@ You can often upgrade it to fractal.
 
 ### Create TST/TSD slot
 
-Instead of hanging J on `010` ground, you can stack it on a two-wide platform to create a TST slot:
+Instead of hanging J on `010` ground, you can stack it on a 2-wide platform to create a TST slot:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40dhB8PeAgH)](https://harddrop.com/fumen/?v115@dhB8PeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4GeR4Hei0Ieg0HeB8PeAgH)](https://harddrop.com/fumen/?v115@1gR4GeR4Hei0Ieg0HeB8PeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4FewhR4ywD8whi0wwE8whBeg0AeE8whAeB8AeE8%3FJeAgH)](https://harddrop.com/fumen/?v115@1gR4FewhR4ywD8whi0wwE8whBeg0AeE8whAeB8AeE8?JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhR4FewhBeg0AeE8whAeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@JhR4FewhBeg0AeE8whAeB8AeE8JeAgH)
+
+> Compare to SJ donation:  
+> [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%401gR4FewhR4CeD8whi0AeE8whBeg0AeE8whAeB8AeE8%3FJeAgltgQ4GexDR4DeQaxDBeQ4DewwAexhFewwR4gHFewwSe%3FAAA)](https://harddrop.com/fumen/?v115@1gR4FewhR4CeD8whi0AeE8whBeg0AeE8whAeB8AeE8?JeAgltgQ4GexDR4DeQaxDBeQ4DewwAexhFewwR4gHFewwSe?AAA)
 
 Or TSD:
 
@@ -655,7 +658,7 @@ For TSD, sometimes it is possible to replace the S with a Z:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4EeRpR4FeRpi0EeA8Ceg0EeB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@2gR4EeRpR4FeRpi0EeA8Ceg0EeB8AeB8OeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgwhIewhCeAtEewhBeBtEewhR4AtFeR4i0EeA8Ceg0%3FEeB8AeB8OeAgH)](https://harddrop.com/fumen/?v115@fgwhIewhCeAtEewhBeBtEewhR4AtFeR4i0EeA8Ceg0?EeB8AeB8OeAgH)
 
-To form the right part, you need a three-height wall. The gap under the T slot can also be filled since it's a two-height floating T spin:
+To form the right part, you need a 3-height wall. The gap under the T slot can also be filled since it's a floating T spin above the ground with 2 cells:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ihi0AeA8Geg0AeA8FeB8AeA8NeAgH)](https://harddrop.com/fumen/?v115@Ihi0AeA8Geg0AeA8FeB8AeA8NeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ihi0AeA8Geg0AeA8FeD8NeAgH)](https://harddrop.com/fumen/?v115@Ihi0AeA8Geg0AeA8FeD8NeAgH)
@@ -729,6 +732,16 @@ It is possible to donate the second T-spin:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgE8EeE8EeD8FeE8EeI8KeAgH)](https://harddrop.com/fumen/?v115@zgE8EeE8EeD8FeE8EeI8KeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke%3FAgH)](https://harddrop.com/fumen/?v115@mgAtHeBtBeE8g0AtCeE8i0AeglD8CeilE8AezhI8Ke?AgH)
+
+### Stack on kaidan with an O
+
+Like SJ/LS donation, use O as the 2-wide base:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8CeG8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@HhA8CeG8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40XgR4GeR4Hei0Ieg0HeRpFeA8AeRpG8BeH8AeH8JeAg%3FH)](https://harddrop.com/fumen/?v115@XgR4GeR4Hei0Ieg0HeRpFeA8AeRpG8BeH8AeH8JeAg?H)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bgh0Heg0Ieg0AeR4FewhR4CeD8whi0AeE8whBeg0F8%3FwhAeRpG8AeRpG8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@Bgh0Heg0Ieg0AeR4FewhR4CeD8whi0AeE8whBeg0F8?whAeRpG8AeRpG8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bgh0Heg0Ieg0AeR4FewhR4ywD8whi0wwE8whBeg0F8%3FwhAeRpG8AeRpG8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@Bgh0Heg0Ieg0AeR4FewhR4ywD8whi0wwE8whBeg0F8?whAeRpG8AeRpG8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Vgh0Heg0Ieg0AeR4FewhBeg0F8whAeRpG8AeRpG8Be%3FH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@Vgh0Heg0Ieg0AeR4FewhBeg0F8whAeRpG8AeRpG8Be?H8AeH8JeAgH)
 
 ### TD attack
 
