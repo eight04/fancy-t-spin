@@ -769,6 +769,15 @@ Setup with different pieces:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgRpHeRpHewhIewhIewhDeE8whilAeE8hlQ4BeE8gl%3FAeR4AeE8hlAeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@LgRpHeRpHewhIewhIewhDeE8whilAeE8hlQ4BeE8gl?AeR4AeE8hlAeQ4F8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgQ4IeR4HewhQ4HewhIewhIewhDeE8zhAeE8h0Q4Be%3FE8g0AeR4AeE8g0A8AeQ4F8JeAgH)](https://harddrop.com/fumen/?v115@BgQ4IeR4HewhQ4HewhIewhIewhDeE8zhAeE8h0Q4Be?E8g0AeR4AeE8g0A8AeQ4F8JeAgH)
 
+The Z technic for SJ/LS donation also works here:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405gD8EeE8EeE8EeG8CeE8JeAgH)](https://harddrop.com/fumen/?v115@5gD8EeE8EeE8EeG8CeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405gD8EeE8EeE8BeBtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@5gD8EeE8EeE8BeBtAeG8AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgR4FewhR4CeD8whi0AeE8whBeg0AeE8whAeBtAeG8%3FAeBtE8JeAgH)](https://harddrop.com/fumen/?v115@rgR4FewhR4CeD8whi0AeE8whBeg0AeE8whAeBtAeG8?AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgR4FewhR4ywD8whi0wwE8whBeg0AeE8whAeBtAeG8%3FAeBtE8JeAgH)](https://harddrop.com/fumen/?v115@rgR4FewhR4ywD8whi0wwE8whBeg0AeE8whAeBtAeG8?AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4FewhBeg0AeE8whAeBtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@/gR4FewhBeg0AeE8whAeBtAeG8AeBtE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgh0Heg0Ieg0AeR4h0DewhBeh0E8whAeBtg0G8AeBt%3FE8JeAgH)](https://harddrop.com/fumen/?v115@pgh0Heg0Ieg0AeR4h0DewhBeh0E8whAeBtg0G8AeBt?E8JeAgH)
+
 ### Create `00110` base for SJ/LS donation
 
 When doing a JS donation like this, you usually want to stack TD attack to clear the hole:
