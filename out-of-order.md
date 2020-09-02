@@ -71,6 +71,7 @@ Double Triple
 
 [![DT2](https://fumen-svg-server--eight041.repl.co/?data=v115%405gD8EeF8CeG8BeH8AeH8JeAgWDAkupAAvhExbBvffP%3FgfHgfngB)](https://harddrop.com/fumen/?v115@5gD8EeF8CeG8BeH8AeH8JeAgWDAkupAAvhExbBvffP?gfHgfngB)
 [![DT2](https://fumen-svg-server--eight041.repl.co/?data=v115%40igB8IeB8HeF8EeF8CeG8CeG8AeA8AeF8JeAgWDAkup%3FAAvhHnaBJQBuQfWWf%2BgfGlfGqfupf)](https://harddrop.com/fumen/?v115@igB8IeB8HeF8EeF8CeG8CeG8AeA8AeF8JeAgWDAkup?AAvhHnaBJQBuQfWWf+gfGlfGqfupf)
+[![DT2](https://fumen-svg-server--eight041.repl.co/?data=v115%40lgD8FeD8GeF8CeH8BeH8BeI8AeD8JeAgWDAkupAAvh%3FG3WBROBUNfccfchfUhBAAA)](https://harddrop.com/fumen/?v115@lgD8FeD8GeF8CeH8BeH8BeI8AeD8JeAgWDAkupAAvh?G3WBROBUNfccfchfUhBAAA)
 
 Triple
 ------
