@@ -35,3 +35,25 @@ T-Spins setups in different situations.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40NgQ4IeR4IeQ4Feh0AewhFeg0BewhFeg0AtAewhFeBt%3FAewhFeAtBeB8EeB8AeG8JeAgH)](https://harddrop.com/fumen/?v115@NgQ4IeR4IeQ4Feh0AewhFeg0BewhFeg0AtAewhFeBt?AewhFeAtBeB8EeB8AeG8JeAgH)
 
 </details>
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gA8IeB8HeA8IeB8AeB8BeC8JeAgH)](https://harddrop.com/fumen/?v115@9gA8IeB8HeA8IeB8AeB8BeC8JeAgH)
+
+<details>
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gBtEeA8CeBthlBeB8AeRph0glBeA8BeRpg0AeglBe%3FB8AeB8g0AeC8JeAgH)](https://harddrop.com/fumen/?v115@2gBtEeA8CeBthlBeB8AeRph0glBeA8BeRpg0AeglBe?B8AeB8g0AeC8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gBtEeA8CeBthlBeB8AeRpilBeA8BeRpAehlBeB8Ae%3FB8AeglC8JeAgH)](https://harddrop.com/fumen/?v115@2gBtEeA8CeBthlBeB8AeRpilBeA8BeRpAehlBeB8Ae?B8AeglC8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gBtEeA8CeBtR4BeB8AeRpR4AtBeA8BeRpAeBtBeB8%3FAeB8AeAtC8JeAgH)](https://harddrop.com/fumen/?v115@2gBtEeA8CeBtR4BeB8AeRpR4AtBeA8BeRpAeBtBeB8?AeB8AeAtC8JeAgH)
+
+</details>
+
+
+4-5
+----
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ugB8IeB8CeB8BeG8CeH8BeH8BeE8JeAgH)](https://harddrop.com/fumen/?v115@ugB8IeB8CeB8BeG8CeH8BeH8BeE8JeAgH)
+
+<details>
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ugB8CeilCeB8BeglB8whAeG8AewhAeH8whAeH8whAe%3FE8JeAgH)](https://harddrop.com/fumen/?v115@ugB8CeilCeB8BeglB8whAeG8AewhAeH8whAeH8whAe?E8JeAgH)
+
+</details>

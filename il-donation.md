@@ -122,6 +122,14 @@ Spin the S in after stacking other parts:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChB8IeF8CeF8DeE8JeAgHvhE2kB3bfPrfnqfHqB)](https://harddrop.com/fumen/?v115@ChB8IeF8CeF8DeE8JeAgHvhE2kB3bfPrfnqfHqB)
 
+Find I by doing a flat donation
+-------------------------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhD8FeE8AeC8AeI8KeAgH)](https://harddrop.com/fumen/?v115@HhD8FeE8AeC8AeI8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhBthlD8ywBtglE8wwC8glI8KeAgH)](https://harddrop.com/fumen/?v115@DhBthlD8ywBtglE8wwC8glI8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40XhBthlI8KeAgH)](https://harddrop.com/fumen/?v115@XhBthlI8KeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ehg0Iei0FeM8KeAgH)](https://harddrop.com/fumen/?v115@Ehg0Iei0FeM8KeAgH)
+
 IS and IO variants
 ------------------
 

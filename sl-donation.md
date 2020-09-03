@@ -313,6 +313,35 @@ Compare to Z/L donation:
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA%3FtPeAAA)](https://harddrop.com/fumen/?v115@BhB8DeBtCeE8g0BtAeF8i0AeF8JeAgHHhhlSegHgWA?tPeAAA)
 
+### Double to Shachiku
+
+After clearing two lines, this shape becomes shachiku train:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8HeC8GeD8FeD8FeA8AeB8PeAgH)](https://harddrop.com/fumen/?v115@zgB8HeC8GeD8FeD8FeA8AeB8PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8HeC8GeTtA8AeB8PeAgH)](https://harddrop.com/fumen/?v115@zgB8HeC8GeTtA8AeB8PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhB8HeC8GeA8AeB8PeAgH)](https://harddrop.com/fumen/?v115@HhB8HeC8GeA8AeB8PeAgH)
+
+Right part example:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgB8EeQ4hlC8DeR4glD8Q4CeQ4glD8R4AeD8AeB8Ae%3FQ4AeC8JeAgH)](https://harddrop.com/fumen/?v115@zgB8EeQ4hlC8DeR4glD8Q4CeQ4glD8R4AeD8AeB8Ae?Q4AeC8JeAgH)
+
+It is a shachiku train but raise up 2 lines:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpHeRpQ4Geh0R4Feg0BtQ4Feg0AeBtPeAgH)](https://harddrop.com/fumen/?v115@zgRpHeRpQ4Geh0R4Feg0BtQ4Feg0AeBtPeAgH)
+
+Which enables us to build it with different pieces:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtHewhBtGewhilFewhglRpFewhAeRpPeAgH)](https://harddrop.com/fumen/?v115@zgBtHewhBtGewhilFewhglRpFewhAeRpPeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtHewhBtGewhQ4hlFewhR4glFewhAeQ4glPeAgH)](https://harddrop.com/fumen/?v115@zgBtHewhBtGewhQ4hlFewhR4glFewhAeQ4glPeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtHewhBtGewhi0FewhBtg0FewhAeBtPeAgH)](https://harddrop.com/fumen/?v115@zgBtHewhBtGewhi0FewhBtg0FewhAeBtPeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zghlHewhglQ4GewhglR4FewhBtQ4FewhAeBtPeAgH)](https://harddrop.com/fumen/?v115@zghlHewhglQ4GewhglR4FewhBtQ4FewhAeBtPeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtHewhBtGewhRpg0FewhRpg0FewhAeh0PeAgH)](https://harddrop.com/fumen/?v115@zgBtHewhBtGewhRpg0FewhRpg0FewhAeh0PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0Heg0BtGeg0CtFeBtRpFeAtAeRpPeAgH)](https://harddrop.com/fumen/?v115@zgh0Heg0BtGeg0CtFeBtRpFeAtAeRpPeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0Heg0RpGeg0Rpg0Feilg0FeglAeh0PeAgH)](https://harddrop.com/fumen/?v115@zgh0Heg0RpGeg0Rpg0Feilg0FeglAeh0PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgBtHeg0BtGej0Feilg0FeglAeh0PeAgH)](https://harddrop.com/fumen/?v115@zgBtHeg0BtGej0Feilg0FeglAeh0PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgglQ4HeglR4GehlQ4g0Feilg0FeglAeh0PeAgH)](https://harddrop.com/fumen/?v115@zgglQ4HeglR4GehlQ4g0Feilg0FeglAeh0PeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpHeRpglGeilg0Feilg0FeglAeh0PeAgH)](https://harddrop.com/fumen/?v115@zgRpHeRpglGeilg0Feilg0FeglAeh0PeAgH)
+
 SJ Donation
 -----------
 
@@ -483,6 +512,10 @@ Like SJ donation, you need a `00110` ground. However, this setup requires a fill
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ThB8FeAtSeAgH)](https://harddrop.com/fumen/?v115@ThB8FeAtSeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ThB8GeAtReAgH)](https://harddrop.com/fumen/?v115@ThB8GeAtReAgH)
+
+You can remember this common shape that can be used with empty field and 4-5 stacking:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ThRpFeA8AeRpPeAgH)](https://harddrop.com/fumen/?v115@ThRpFeA8AeRpPeAgH)
 
 ### Stack on a well
 
@@ -855,11 +888,15 @@ It can be used as a continuation after JS donation:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8DeF8DeF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@ChE8DeF8DeF8AeB8AeF8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%400gR4GeR4CeE8ywAeF8AewwBeF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@0gR4GeR4CeE8ywAeF8AewwBeF8AeB8AeF8JeAgH)
 
-Following is another common way to build JS donation:
+Following are other common ways to build JS donation:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8AeB8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@NhD8AeB8CeH8AeE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gh0RpFeg0AeRpBeD8g0B8CeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@9gh0RpFeg0AeRpBeD8g0B8CeH8AeE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgwhIewhIewhAeR4FewhR4GeD8FeA8AeB8BeG8CeH8%3FAeE8JeAgH)](https://harddrop.com/fumen/?v115@VgwhIewhIewhAeR4FewhR4GeD8FeA8AeB8BeG8CeH8?AeE8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%406gC8FeD8FeG8CeH8BeD8JeAgH)](https://harddrop.com/fumen/?v115@6gC8FeD8FeG8CeH8BeD8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%406gC8RphlwhAeD8RpAeglwhAeG8glwhAeH8whAeD8Je%3FAgH)](https://harddrop.com/fumen/?v115@6gC8RphlwhAeD8RpAeglwhAeG8glwhAeH8whAeD8Je?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgRpAeR4EeRpR4CeH8AeF8AeB8AeI8AeI8AeD8JeAg%3FH)](https://harddrop.com/fumen/?v115@pgRpAeR4EeRpR4CeH8AeF8AeB8AeI8AeI8AeD8JeAg?H)
 
 A different location of the hole?
 

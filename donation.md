@@ -19,7 +19,12 @@ Col 1
 [![JS](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40wgB8DeB8CeB8CeC8AeC8BeH8BeH8BeH8JeAgWCAKNB%3FAArgR4Feg0R4Gei0ueAAA)](https://harddrop.com/fumen/?v115@wgB8DeB8CeB8CeC8AeC8BeH8BeH8BeH8JeAgWCAKNB?AArgR4Feg0R4Gei0ueAAA)
 [![JS](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%405gD8CeA8AeE8BeH8BeH8BeH8JeAgWCAKNBAArgR4Fe%3Fg0R4Gei0ueAAA)](https://harddrop.com/fumen/?v115@5gD8CeA8AeE8BeH8BeH8BeH8JeAgWCAKNBAArgR4Fe?g0R4Gei0ueAAA)
 
+[![JL](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40lgD8CeA8CeC8CeB8AeD8AeA8AeG8AeI8AeI8AeI8Je%3FAgWCAqCBAAhgglGeilGei0Ieg0ueAAA)](https://harddrop.com/fumen/?v115@lgD8CeA8CeC8CeB8AeD8AeA8AeG8AeI8AeI8AeI8Je?AgWCAqCBAAhgglGeilGei0Ieg0ueAAA)
+[![TZ](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40lgD8CeA8CeC8CeB8AeD8AeA8AeG8AeI8AeI8AeI8Je%3FAgWCA0XBAAggAtHeBtwwGeAtxwIewwueAAPAA)](https://harddrop.com/fumen/?v115@lgD8CeA8CeC8CeB8AeD8AeA8AeG8AeI8AeI8AeI8Je?AgWCA0XBAAggAtHeBtwwGeAtxwIewwueAAPAA)
+
 [![SSL](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%404gE8BeA8AeF8AeI8AeI8AeI8JeAgWDATNkBAggilFe%3FQ4glQ4GeT4GeQ4AeQ4teAAA)](https://harddrop.com/fumen/?v115@4gE8BeA8AeF8AeI8AeI8AeI8JeAgWDATNkBAggilFe?Q4glQ4GeT4GeQ4AeQ4teAAA)
+[![SSL](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%404gE8BeA8BeE8AeI8AeI8AeI8JeAgWDATNkBAggilFe%3FQ4glQ4GeT4GeQ4AeQ4teAAA)](https://harddrop.com/fumen/?v115@4gE8BeA8BeE8AeI8AeI8AeI8JeAgWDATNkBAggilFe?Q4glQ4GeT4GeQ4AeQ4teAAA)
+[![ZSL](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%404gE8BeA8BeE8AeI8AeI8AeI8JeAgWDAaNkBAWgglIe%3FglHeQ4hlGeR4BtGeQ4AeBtseAAPAA)](https://harddrop.com/fumen/?v115@4gE8BeA8BeE8AeI8AeI8AeI8JeAgWDAaNkBAWgglIe?glHeQ4hlGeR4BtGeQ4AeBtseAAPAA)
 
 [![S Kaidan](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%402gE8DeG8BeI8AeI8AeI8JeAgWKAToo2ALyFoDB2BAA%3FigBtEeQ4CeBtBeRpR4FeRpAeQ4veAAPAA)](https://harddrop.com/fumen/?v115@2gE8DeG8BeI8AeI8AeI8JeAgWKAToo2ALyFoDB2BAA?igBtEeQ4CeBtBeRpR4FeRpAeQ4veAAPAA)
 
@@ -95,6 +100,10 @@ Hole or no hole?
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40%2BgglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg%3FWaeAAA)](https://harddrop.com/fumen/?v115@+gglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg?WaeAAA)
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgA8EeE8EeF8AeI8AeI8AeI8AeI8AeC8JeAgHvhIcM%3FBfUB6UBFYBAAADVB2QBkGBvXB)](https://harddrop.com/fumen/?v115@jgA8EeE8EeF8AeI8AeI8AeI8AeI8AeC8JeAgHvhIcM?BfUB6UBFYBAAADVB2QBkGBvXB)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WgA8HeB8BeA8AeC8AeA8CeH8AeI8AeI8AeI8AeI8Ae%3FG8JeAgHvhGjIBFWBAAAOQBsWBqTBvUB)](https://harddrop.com/fumen/?v115@WgA8HeB8BeA8AeC8AeA8CeH8AeI8AeI8AeI8AeI8Ae?G8JeAgHvhGjIBFWBAAAOQBsWBqTBvUB)
+
 Z Top or Z Bottom?
 ------------------
 
@@ -133,3 +142,7 @@ Predict cleanup piece?
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%407gglAeB8Beg0CeglAeA8Cei0AthlB8AeC8BtD8AeC8%3FAtAeB8JeAgH)](https://harddrop.com/fumen/?v115@7gglAeB8Beg0CeglAeA8Cei0AthlB8AeC8BtD8AeC8?AtAeB8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gh0DeB8Beg0DeglA8Ceg0BtilB8AeC8BtD8AeC8Be%3FB8JeAgH)](https://harddrop.com/fumen/?v115@3gh0DeB8Beg0DeglA8Ceg0BtilB8AeC8BtD8AeC8Be?B8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%404gAtDeB8BeBtDeA8CeAtklB8AeC8hlD8AeC8glAeB8%3FJeAgH)](https://harddrop.com/fumen/?v115@4gAtDeB8BeBtDeA8CeAtklB8AeC8hlD8AeC8glAeB8?JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gh0BehlB8Beg0Q4BeAtglA8Ceg0R4BtglB8AeC8Q4%3FAtD8AeC8BeB8JeAgH)](https://harddrop.com/fumen/?v115@3gh0BehlB8Beg0Q4BeAtglA8Ceg0R4BtglB8AeC8Q4?AtD8AeC8BeB8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgB8CeQ4EeB8BeR4AeA8AeC8CeQ4AeA8AeC8AeD8Je%3FAgH)](https://harddrop.com/fumen/?v115@/gB8CeQ4EeB8BeR4AeA8AeC8CeQ4AeA8AeC8AeD8Je?AgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405gh0DeB8Beg0Q4hlCeB8h0R4glA8AeC8i0Q4glA8Ae%3FC8AeD8JeAgH)](https://harddrop.com/fumen/?v115@5gh0DeB8Beg0Q4hlCeB8h0R4glA8AeC8i0Q4glA8Ae?C8AeD8JeAgH)
