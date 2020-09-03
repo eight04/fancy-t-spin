@@ -70,6 +70,9 @@ In the second example, the wall on the J side must form a flat surface.
 
 Following are situational setups.
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhF8DeG8CeG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhF8DeG8CeG8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgh0BeQ4Eeg0CeR4Deg0AtCeQ4DeBtQ4AeF8AtAeR4%3FG8BeQ4G8AeH8JeAgH)](https://harddrop.com/fumen/?v115@fgh0BeQ4Eeg0CeR4Deg0AtCeQ4DeBtQ4AeF8AtAeR4?G8BeQ4G8AeH8JeAgH)
+
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BhG8DeF8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@BhG8DeF8BeH8AeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgBtDeRpCeBtCeRpg0AeG8Aei0F8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@tgBtDeRpCeBtCeRpg0AeG8Aei0F8BeH8AeH8JeAgH)
 
