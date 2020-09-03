@@ -781,6 +781,24 @@ The Z technic for SJ/LS donation also works here:
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4FewhBeg0AeE8whAeBtAeG8AeBtE8JeAgH)](https://harddrop.com/fumen/?v115@/gR4FewhBeg0AeE8whAeBtAeG8AeBtE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgh0Heg0Ieg0AeR4h0DewhBeh0E8whAeBtg0G8AeBt%3FE8JeAgH)](https://harddrop.com/fumen/?v115@pgh0Heg0Ieg0AeR4h0DewhBeh0E8whAeBtg0G8AeBt?E8JeAgH)
 
+### Fractal TD
+
+TD attack after upgrading to fractal:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeG8BeG8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeG8BeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BgR4GeR4ywE8i0wwG8Aeg0G8JeAgH)](https://harddrop.com/fumen/?v115@+gR4GeR4ywE8i0wwG8Aeg0G8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ShR4GeA8Aeg0G8JeAgH)](https://harddrop.com/fumen/?v115@ShR4GeA8Aeg0G8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BgAtBexhDeBtyw0hAtB8ww1hA8AeH8JeAgH)](https://harddrop.com/fumen/?v115@+gAtBexhDeBtyw0hAtB8ww1hA8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ShAtBexhDeA8AeH8JeAgH)](https://harddrop.com/fumen/?v115@ShAtBexhDeA8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgxhIe2hh0Ae2hg0Be2hg0A8Ae2hA8AeH8JeAgH)](https://harddrop.com/fumen/?v115@rgxhIe2hh0Ae2hg0Be2hg0A8Ae2hA8AeH8JeAgH)
+
+This can be used when there is no space to stack overhang i.e. J sticks to the wall.
+
+You have more chance to setup this shape using LS so you don't need multiple J.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8BeH8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8BeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BgR4GeR4CeE8ilAeF8glAeH8JeAgH)](https://harddrop.com/fumen/?v115@+gR4GeR4CeE8ilAeF8glAeH8JeAgH)
+
 ### Create `00110` base for SJ/LS donation
 
 When doing a JS donation like this, you usually want to stack TD attack to clear the hole:
