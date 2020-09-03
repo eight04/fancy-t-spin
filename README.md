@@ -19,9 +19,14 @@ Single
 
 [![Hamburger](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhG8DeH8AeG8AeI8JeAgWJAIyehDVsZrDSBAAA)](https://harddrop.com/fumen/?v115@AhG8DeH8AeG8AeI8JeAgWJAIyehDVsZrDSBAAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhG8DeH8AeG8AeI8JeAgWHAlUlkDVPdCAvhCdlfFlB%3FAAA)](https://harddrop.com/fumen/?v115@AhG8DeH8AeG8AeI8JeAgWHAlUlkDVPdCAvhCdlfFlB?AAA)
+[![Execute 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhG8DeH8AeG8AeI8JeAgWLAlUlkDVPVTAS4oAAvhDd%3FlfFlfNlBAAA)](https://harddrop.com/fumen/?v115@AhG8DeH8AeG8AeI8JeAgWLAlUlkDVPVTAS4oAAvhDd?lfFlfNlBAAA)
 [![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40UhG8CeG8JeAgWIAzOckDrOZyD2gQ4IeR4IeQ4EeBtI%3FeBtQeAAA2gwDIexDHeA8whE8BPA8HeAPAtQeAAAsgQ4IeR4%3FIeQ4EehlIeglIeglReAAA)](https://harddrop.com/fumen/?v115@UhG8CeG8JeAgWIAzOckDrOZyD2gQ4IeR4IeQ4EeBtI?eBtQeAAA2gwDIexDHeA8whE8BPA8HeAPAtQeAAAsgQ4IeR4?IeQ4EehlIeglIeglReAAA)
 [![Loop](https://fumen-svg-server--eight041.repl.co/?data=v115%40UhG8CeG8JeAgWEAMnzQEvhAkpQAA2gG8CeG8DeF8de%3FAAAvhDdlfFlBAAA0fBigG8CeG8DeF8xeAAAvhDdbfFbBAAA%3FZkB)](https://harddrop.com/fumen/?v115@UhG8CeG8JeAgWEAMnzQEvhAkpQAA2gG8CeG8DeF8de?AAAvhDdlfFlBAAA0fBigG8CeG8DeF8xeAAAvhDdbfFbBAAA?ZkB)
+[![Loop 2](https://fumen-svg-server--eight041.repl.co/?data=v115%40SfG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8Ce%3FG8DeF8CeG8BeH8BeH8JeAgWIAMnzQEFbU9AvhH6pBNgBAAA%3F6fBNWBAAAJkBAAA)](https://harddrop.com/fumen/?v115@SfG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8Ce?G8DeF8CeG8BeH8BeH8JeAgWIAMnzQEFbU9AvhH6pBNgBAAA?6fBNWBAAAJkBAAA)
 
+[![Parapet](https://fumen-svg-server--eight041.repl.co/?data=v115%402gG8DeH8AeH8AeI8AeH8JeAgWHAQCSeDwo%2BCA)](https://harddrop.com/fumen/?v115@2gG8DeH8AeH8AeI8AeH8JeAgWHAQCSeDwo+CA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%402gG8DeH8AeH8AeI8AeH8JeAgWHAlUlkDVPdCAvhDdg%3FfFgfNgBAAA)](https://harddrop.com/fumen/?v115@2gG8DeH8AeH8AeI8AeH8JeAgWHAlUlkDVPdCAvhDdg?fFgfNgBAAA)
+[![Loop](https://fumen-svg-server--eight041.repl.co/?data=v115%40wfG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8Be%3FH8BeH8JeAgWEAMnzQEvhHOpBNgBAAAOfBNWBAAApkBAAA)](https://harddrop.com/fumen/?v115@wfG8CeG8DeF8CeG8CeG8DeF8CeG8CeG8DeF8CeG8Be?H8BeH8JeAgWEAMnzQEvhHOpBNgBAAAOfBNWBAAApkBAAA)
 
 Single-Double
 --------------
