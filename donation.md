@@ -97,12 +97,11 @@ Hole or no hole?
 ----------------
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB%2BPB%3FdnfFnBAAA%2FmB8YBCgBJfBdifFiBAAA)](https://harddrop.com/fumen/?v115@xgB8GeC8DeA8BeH8CeH8AeI8AeC8JeAgHvhLXbB+PB?dnfFnBAAA/mB8YBCgBJfBdifFiBAAA)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgA8EeE8EeF8AeI8AeI8AeI8AeI8AeC8JeAgHvhIcM%3FBfUB6UBFYBAAADVB2QBkGBvXB)](https://harddrop.com/fumen/?v115@jgA8EeE8EeF8AeI8AeI8AeI8AeI8AeC8JeAgHvhIcM?BfUB6UBFYBAAADVB2QBkGBvXB)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WgA8HeB8BeA8AeC8AeA8CeH8AeI8AeI8AeI8AeI8Ae%3FG8JeAgHvhGjIBFWBAAAOQBsWBqTBvUB)](https://harddrop.com/fumen/?v115@WgA8HeB8BeA8AeC8AeA8CeH8AeI8AeI8AeI8AeI8Ae?G8JeAgHvhGjIBFWBAAAOQBsWBqTBvUB)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgC8GeC8EeF8AeB8AeF8AeI8AeI8AeE8JeAgHvhIvd%3FBEUBGRBFcBAAAGZBscBJQBHRB)](https://harddrop.com/fumen/?v115@pgC8GeC8EeF8AeB8AeF8AeI8AeI8AeE8JeAgHvhIvd?BEUBGRBFcBAAAGZBscBJQBHRB)
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40%2BgglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg%3FWaeAAA)](https://harddrop.com/fumen/?v115@+gglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg?WaeAAA)
-
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgA8EeE8EeF8AeI8AeI8AeI8AeI8AeC8JeAgHvhIcM%3FBfUB6UBFYBAAADVB2QBkGBvXB)](https://harddrop.com/fumen/?v115@jgA8EeE8EeF8AeI8AeI8AeI8AeI8AeC8JeAgHvhIcM?BfUB6UBFYBAAADVB2QBkGBvXB)
-
-[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WgA8HeB8BeA8AeC8AeA8CeH8AeI8AeI8AeI8AeI8Ae%3FG8JeAgHvhGjIBFWBAAAOQBsWBqTBvUB)](https://harddrop.com/fumen/?v115@WgA8HeB8BeA8AeC8AeA8CeH8AeI8AeI8AeI8AeI8Ae?G8JeAgHvhGjIBFWBAAAOQBsWBqTBvUB)
 
 Z Top or Z Bottom?
 ------------------
