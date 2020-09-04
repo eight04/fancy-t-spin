@@ -47,6 +47,29 @@ T-Spins setups in different situations.
 </details>
 
 
+3-6
+----
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405gA8IeD8AeA8BeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@5gA8IeD8AeA8BeI8AeI8AeF8JeAgH)
+
+<details>
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ggAtHeBtBeQ4EeAtCeR4A8Ceilh0Q4D8glA8Aeg0I8%3Fg0I8AeF8JeAgH)](https://harddrop.com/fumen/?v115@ggAtHeBtBeQ4EeAtCeR4A8Ceilh0Q4D8glA8Aeg0I8?g0I8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40lgQ4DeAtDeR4BeBtCeglA8Q4Bei0ilD8AtA8g0AeI8%3FAeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@lgQ4DeAtDeR4BeBtCeglA8Q4Bei0ilD8AtA8g0AeI8?AeI8AeF8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgR4Beg0BtBeR4Ceg0A8BtAeilAeh0D8glA8BeI8Ae%3FI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@qgR4Beg0BtBeR4Ceg0A8BtAeilAeh0D8glA8BeI8Ae?I8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40agAtHeBtQ4CeRpBeAtg0R4BeRpCeg0A8Q4BeilAeh0%3FD8glA8BeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@agAtHeBtQ4CeRpBeAtg0R4BeRpCeg0A8Q4BeilAeh0?D8glA8BeI8AeI8AeF8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40VgilBewhDeglR4BewhQ4CeR4CewhR4Rph0AeBtwhA8%3FQ4Rpg0CeBtD8g0A8BeI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@VgilBewhDeglR4BewhQ4CeR4CewhR4Rph0AeBtwhA8?Q4Rpg0CeBtD8g0A8BeI8AeI8AeF8JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igQ4IeR4g0HeQ4g0A8CeilAeh0D8glA8BeI8AeI8Ae%3FF8JeAgH)](https://harddrop.com/fumen/?v115@igQ4IeR4g0HeQ4g0A8CeilAeh0D8glA8BeI8AeI8Ae?F8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgR4GeR4g0Ieg0A8CeilAeh0D8glA8BeI8AeI8AeF8%3FJeAgH)](https://harddrop.com/fumen/?v115@jgR4GeR4g0Ieg0A8CeilAeh0D8glA8BeI8AeI8AeF8?JeAgH)
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ggg0CeR4BewwAei0R4BtxwAeQ4hlRpA8BtwwAeR4gl%3FRpD8AeA8Q4glI8AeI8AeF8JeAgH)](https://harddrop.com/fumen/?v115@ggg0CeR4BewwAei0R4BtxwAeQ4hlRpA8BtwwAeR4gl?RpD8AeA8Q4glI8AeI8AeF8JeAgH)
+
+</details>
+
+
 4-5
 ----
 
