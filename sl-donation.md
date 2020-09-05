@@ -5,6 +5,7 @@ You can create a donation T slot with S/Z and J/L.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Sfh0Heg0BtGeg0AeBtPeh0R4Feg0R4Geg0AeB8Pegl%3FAeR4FeglR4GehlB80eAgH)](https://harddrop.com/fumen/?v115@Sfh0Heg0BtGeg0AeBtPeh0R4Feg0R4Geg0AeB8Pegl?AeR4FeglR4GehlB80eAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BeilGeglQ4IeR4HeA8Q4A8QeR4GeR4Hei0HeA8g0A8%3FPeilGeglAtHeBtHeAtBeA8qeAgH)](https://harddrop.com/fumen/?v115@+eilGeglQ4IeR4HeA8Q4A8QeR4GeR4Hei0HeA8g0A8?PeilGeglAtHeBtHeAtBeA8qeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ffAtHeBtGeg0AtHei0ReR4Feg0R4Gei0A8IfAgH)](https://harddrop.com/fumen/?v115@ffAtHeBtGeg0AtHei0ReR4Feg0R4Gei0A8IfAgH)
 
 Shachiku Train
 --------------
@@ -434,7 +435,11 @@ As long as the height of the wall at the J side is lower than two, you can use t
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhBtB8GeG8BeH8JeAgH)](https://harddrop.com/fumen/?v115@JhBtB8GeG8BeH8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgRpHeRpHewhIewhAeD8DewhBeG8whAeH8JeAgH)](https://harddrop.com/fumen/?v115@pgRpHeRpHewhIewhAeD8DewhBeG8whAeH8JeAgH)
 
-Note that the entire setup is actually a DT2 but the overhang is built before the TST. However, you can also build the overhang before the first TSD. It also means you can build the entire setup with more different pieces.
+Note that the entire setup is actually a DT2 but the overhang is built after consuming TSD.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40BgRpHeRpHewhIewhAeBtB8GeBtE8h0R4AeE8g0R4Be%3FE8g0AeB8AeE8whBeG8whAeH8JeAgH)](https://harddrop.com/fumen/?v115@BgRpHeRpHewhIewhAeBtB8GeBtE8h0R4AeE8g0R4Be?E8g0AeB8AeE8whBeG8whAeH8JeAgH)
+
+However, you can also build the overhang before the first TSD if there are more space at the left. It also means you can build the entire setup with more different pieces.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40KhB8EeB8BeB8DeB8AeG8JeAgH)](https://harddrop.com/fumen/?v115@KhB8EeB8BeB8DeB8AeG8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgB8CewhEeD8whh0R4AeD8whg0R4BeD8whg0AeB8Ae%3FF8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@kgB8CewhEeD8whh0R4AeD8whg0R4BeD8whg0AeB8Ae?F8BeH8AeG8JeAgH)
@@ -961,3 +966,76 @@ The final board is not that good as regular STSD. You can do a simple I spin to 
 Or stack an extended shachiku train:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gR4Eeh0R4CeC8g0BtB8AeD8g0AeBtG8AeH8JeAgH)](https://harddrop.com/fumen/?v115@2gR4Eeh0R4CeC8g0BtB8AeD8g0AeBtG8AeH8JeAgH)
+
+Flat JZ
+--------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40MhE8DeF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@MhE8DeF8AeB8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gAtHeBtGeg0AtCeE8i0AeF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@1gAtHeBtGeg0AtCeE8i0AeF8AeB8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gAtHeBtGeg0AtywE8i0wwF8AeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@1gAtHeBtGeg0AtywE8i0wwF8AeB8AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhAtHeBtHeB8AeF8JeAgH)](https://harddrop.com/fumen/?v115@JhAtHeBtHeB8AeF8JeAgH)
+
+A column 1 TSD donation.
+
+### LSO Stacking
+
+A prophecy donation stacking method:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgAtHeBtGeg0AtCeE8i0AeF8JeAgH)](https://harddrop.com/fumen/?v115@/gAtHeBtGeg0AtCeE8i0AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ggRpHeRpGeRpCeE8RpAtAeF8AeBtBeE8g0AtCeE8i0%3FAeF8JeAgH)](https://harddrop.com/fumen/?v115@ggRpHeRpGeRpCeE8RpAtAeF8AeBtBeE8g0AtCeE8i0?AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bgi0HeAtg0GeBtCeE8AtRpAeF8AeRpBeE8RpCeE8Rp%3FAtAeF8AeBtBeE8g0AtCeE8i0AeF8JeAgH)](https://harddrop.com/fumen/?v115@Bgi0HeAtg0GeBtCeE8AtRpAeF8AeRpBeE8RpCeE8Rp?AtAeF8AeBtBeE8g0AtCeE8i0AeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tfwhR4GeR4CeE8i0AeF8whAtg0BeE8BtCeE8AtRpAe%3FF8whRpBeE8RpCeE8RpAtAeF8whBtBeE8g0AtCeE8i0AeF8J%3FeAgH)](https://harddrop.com/fumen/?v115@tfwhR4GeR4CeE8i0AeF8whAtg0BeE8BtCeE8AtRpAe?F8whRpBeE8RpCeE8RpAtAeF8whBtBeE8g0AtCeE8i0AeF8J?eAgH)
+
+Since it's a loop, you can start from any point and pre-build the donation. For example the common Z donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2BgAtHeBtCeE8AtB8AeF8AeI8JeAgH)](https://harddrop.com/fumen/?v115@+gAtHeBtCeE8AtB8AeF8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ggR4GeR4Hei0HeAtg0GeBtCeE8AtB8AeF8AeI8JeAg%3FH)](https://harddrop.com/fumen/?v115@ggR4GeR4Hei0HeAtg0GeBtCeE8AtB8AeF8AeI8JeAg?H)
+
+Flat JS
+--------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8CeA8AeE8BeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@NhD8CeA8AeE8BeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4Feg0R4CeD8i0A8AeE8BeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@/gR4Feg0R4CeD8i0A8AeE8BeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4Feg0R4ywD8i0A8wwE8BeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@/gR4Feg0R4ywD8i0A8wwE8BeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ThR4HeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@ThR4HeB8AeE8JeAgH)
+
+This setup requires one block next to J:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Hhg0Iei0AtZeAgH)](https://harddrop.com/fumen/?v115@Hhg0Iei0AtZeAgH)
+
+It is useful when you use Z overhang and run out of O:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40AhAtHeBtFeB8AtCeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@AhAtHeBtFeB8AtCeH8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgR4Feg0R4Gei0AtHeBtFeB8AtCeH8AeE8JeAgH)](https://harddrop.com/fumen/?v115@rgR4Feg0R4Gei0AtHeBtFeB8AtCeH8AeE8JeAgH)
+
+### Upgrade to fractal
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4Feg0R4CeD8i0A8AeE8BeB8AeE8JeAgH)]()
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40igAtHeBtFeRpAtCeD8RpB8AeH8CeH8AeE8BeB8AeE8%3FJeAgH)](https://harddrop.com/fumen/?v115@igAtHeBtFeRpAtCeD8RpB8AeH8CeH8AeE8BeB8AeE8?JeAgH)
+
+You can also put the O and consume the TSD first:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40%2FgR4Feg0R4CeD8i0A8AeE8BeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@/gR4Feg0R4CeD8i0A8AeE8BeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgRpHeRpR4Feg0R4ywD8i0A8wwE8BeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@zgRpHeRpR4Feg0R4ywD8i0A8wwE8BeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhRpHeRpR4HeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@HhRpHeRpR4HeB8AeE8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gAtHeBtFeB8AtCeH8AeE8BeB8AeE8JeAgH)](https://harddrop.com/fumen/?v115@2gAtHeBtFeB8AtCeH8AeE8BeB8AeE8JeAgH)
+
+With col-2 well, you can stack LS on it:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4Feg0R4CeD8i0A8AeF8AeI8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gR4Feg0R4CeD8i0A8AeF8AeI8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgglAeR4FeglR4CeD8hlB8AeH8CeH8AeF8AeI8AeH8%3FJeAgH)](https://harddrop.com/fumen/?v115@fgglAeR4FeglR4CeD8hlB8AeH8CeH8AeF8AeI8AeH8?JeAgH)
+
+### Double-Triple
+
+Similar to JS donation:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8CeA8AeF8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@DhD8CeA8AeF8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4Feg0R4CeD8i0A8AeF8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gR4Feg0R4CeD8i0A8AeF8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%401gR4Feg0R4ywD8i0A8wwF8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@1gR4Feg0R4ywD8i0A8wwF8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40JhR4FeA8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@JhR4FeA8BeH8AeH8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgh0Heg0Ieg0AeB8FeA8BeH8AeH8JeAgH)](https://harddrop.com/fumen/?v115@zgh0Heg0Ieg0AeB8FeA8BeH8AeH8JeAgH)
+
+This setup may use a lot of J:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8EeF8CeG8CeF8JeAgH)](https://harddrop.com/fumen/?v115@DhD8EeF8CeG8CeF8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40fgh0Heg0Ieg0AeR4Feg0R4CeD8j0AeF8Beg0G8Aeh0%3FF8JeAgH)](https://harddrop.com/fumen/?v115@fgh0Heg0Ieg0AeR4Feg0R4CeD8j0AeF8Beg0G8Aeh0?F8JeAgH)
