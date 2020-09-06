@@ -82,3 +82,8 @@ Triple-Triple
 -------------
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40agC8GeA8DeG8AeH8BeI8AeI8AeI8BeH8AeB8JeAgH)](https://harddrop.com/fumen/?v115@agC8GeA8DeG8AeH8BeI8AeI8AeI8BeH8AeB8JeAgH)
+
+J-Spin
+------
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40IhD8IeI8AeF8JeAgHvhDOkf2pfGqBAAA)](https://harddrop.com/fumen/?v115@IhD8IeI8AeF8JeAgHvhDOkf2pfGqBAAA)
