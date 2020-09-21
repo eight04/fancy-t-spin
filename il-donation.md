@@ -144,3 +144,18 @@ These are also floating I donation.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8BeRpDeA8ywRpF8wwzhE8DeD8JeAgH)](https://harddrop.com/fumen/?v115@9gB8BeRpDeA8ywRpF8wwzhE8DeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8BeRpDeB8DeD8JeAgH)](https://harddrop.com/fumen/?v115@RhB8BeRpDeB8DeD8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhB8Aeg0RpDeB8Aei0D8JeAgH)](https://harddrop.com/fumen/?v115@RhB8Aeg0RpDeB8Aei0D8JeAgH)
+
+T-spin Fin
+----------
+
+The block left by L creates a perfect situation for the STMB cave.
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gE8EeE8EeE8EeE8OeAgH)](https://harddrop.com/fumen/?v115@9gE8EeE8EeE8EeE8OeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgg0Iei0CeE8EeE8DeglE8BeilE8AezhJeAgH)](https://harddrop.com/fumen/?v115@tgg0Iei0CeE8EeE8DeglE8BeilE8AezhJeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40tgg0Iei0CeE8EeE8wwCeglE8xwilE8wwzhJeAgH)](https://harddrop.com/fumen/?v115@tgg0Iei0CeE8EeE8wwCeglE8xwilE8wwzhJeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bhg0Iei0CeE8EeE8wwCeglJeAgH)](https://harddrop.com/fumen/?v115@Bhg0Iei0CeE8EeE8wwCeglJeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Bhj0Fej0BeE8BtCeE8wwBtAeglJeAgH)](https://harddrop.com/fumen/?v115@Bhj0Fej0BeE8BtCeE8wwBtAeglJeAgH)
+
+If the width is wider, you can also build this:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40sgg0Iei0DeD8EeAtD8DeBtD8BeR4AtglD8AeR4ilJe%3FAgH)](https://harddrop.com/fumen/?v115@sgg0Iei0DeD8EeAtD8DeBtD8BeR4AtglD8AeR4ilJe?AgH)
