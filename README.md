@@ -606,3 +606,4 @@ References
 * [kazu ris](https://www.youtube.com/channel/UC4ldIp7QXgOObJ7QcvfIJpg)
 * [Garbo](https://www.youtube.com/c/GarboTetris)
 * [iccrem](https://www.bilibili.com/video/BV1T54y1B7kU)
+* [電気穿孔法](https://www.youtube.com/watch?v=Xr66MSi_PJQ&feature=youtu.be)
