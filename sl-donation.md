@@ -485,8 +485,7 @@ Instead of forming the T slot, you can also use it as a side-donation on 2-wide 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeC8DeA8AeD8CeG8BeH8BeH8BeB8JeAgH)](https://harddrop.com/fumen/?v115@rgB8IeC8DeA8AeD8CeG8BeH8BeH8BeB8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40rgB8IeC8h0R4A8AeD8g0R4G8g0AeH8BeH8BeB8JeAg%3FH)](https://harddrop.com/fumen/?v115@rgB8IeC8h0R4A8AeD8g0R4G8g0AeH8BeH8BeB8JeAg?H)
 
-Situational setup
------------------
+### Situational setup
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ChE8EeF8DeF8DeE8JeAgH)](https://harddrop.com/fumen/?v115@ChE8EeF8DeF8DeE8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%403gzhGeE8zhAeF8BtBeF8AeBtAeE8JeAgH)](https://harddrop.com/fumen/?v115@3gzhGeE8zhAeF8BtBeF8AeBtAeE8JeAgH)
@@ -677,6 +676,14 @@ You can often upgrade it to fractal.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WgR4GeR4CeE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8%3FJeAgH)](https://harddrop.com/fumen/?v115@WgR4GeR4CeE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8?JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40yfAtHeBtEeAtBeAtg0DeBtCeg0DeAtR4Aeh0DeR4Ce%3FE8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@yfAtHeBtEeAtBeAtg0DeBtCeg0DeAtR4Aeh0DeR4Ce?E8i0AeF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%409fQ4DeAtDeR4BeDtCeQ4BeAtR4BtAezhR4CeE8i0Ae%3FF8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@9fQ4DeAtDeR4BeDtCeQ4BeAtR4BtAezhR4CeE8i0Ae?F8AeA8g0G8AeI8AeI8AeI8AeI8JeAgH)
+
+### Upgrade to DT
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40kgE8DeF8AeA8BeF8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@kgE8DeF8AeA8BeF8AeI8AeI8AeI8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40WgR4GeR4CeE8i0AeF8AeA8g0AeF8AeI8AeI8AeI8Ae%3FI8JeAgH)](https://harddrop.com/fumen/?v115@WgR4GeR4CeE8i0AeF8AeA8g0AeF8AeI8AeI8AeI8Ae?I8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%405fh0Heg0Ieg0AeBtEeB8BeBtCeB8ywH8wwF8AeB8Ae%3FF8AeI8AeI8AeI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@5fh0Heg0Ieg0AeBtEeB8BeBtCeB8ywH8wwF8AeB8Ae?F8AeI8AeI8AeI8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40Ngh0Heg0Ieg0AeBtEeB8BeBtDeB8AeF8AeI8AeI8Ae%3FI8AeI8JeAgH)](https://harddrop.com/fumen/?v115@Ngh0Heg0Ieg0AeBtEeB8BeBtDeB8AeF8AeI8AeI8Ae?I8AeI8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40NgB8HeA8Geh0A8AeB8Deg0B8BeB8Ceg0B8AeF8AeI8%3FAeI8AeI8AeI8JeAgHWgAtHehWHegWIegH6eAAA)](https://harddrop.com/fumen/?v115@NgB8HeA8Geh0A8AeB8Deg0B8BeB8Ceg0B8AeF8AeI8?AeI8AeI8AeI8JeAgHWgAtHehWHegWIegH6eAAA)
 
 ### Create TST/TSD slot
 
