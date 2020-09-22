@@ -610,6 +610,11 @@ The J piece can be stacked after ZS:
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%40DhD8FeE8AeB8BeH8AeE8JeAgHvhE0gBfYB2bfWcf%2Bm%3FB)](https://harddrop.com/fumen/?v115@DhD8FeE8AeB8BeH8AeE8JeAgHvhE0gBfYB2bfWcf+m?B)
 
+Similar method:
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40OhD8FeE8EeC8JeAgHvhFHrBqgBkdBOcf2hfesf)](https://harddrop.com/fumen/?v115@OhD8FeE8EeC8JeAgHvhFHrBqgBkdBOcf2hfesf)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LhF8DeF8AeA8BeF8JeAgHvhDkkBPcBWgf%2BqB)](https://harddrop.com/fumen/?v115@LhF8DeF8AeA8BeF8JeAgHvhDkkBPcBWgf+qB)
+
 SJ donation STSD
 ----------------
 
