@@ -26,6 +26,8 @@ Double
 [![ZS](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhA8BeH8BeI8AeG8JeAgWCAaNBAAvhEcaB3bfXgffq%3FBAAA)](https://harddrop.com/fumen/?v115@HhA8BeH8BeI8AeG8JeAgWCAaNBAAvhEcaB3bfXgffq?BAAA)
 [![JIS](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8FeD8AeC8AeE8JeAgWDAKuzBAvhEOpBxfB%2FmfHm%3FfHlB)](https://harddrop.com/fumen/?v115@NhD8FeD8AeC8AeE8JeAgWDAKuzBAvhEOpBxfB/mfHm?fHlB)
 [![JJ](https://fumen-svg-server--eight041.repl.co/?data=v115%40NhD8AeA8CeH8AeF8JeAgWCAq%2FAAAvhMKhQAAOkBTVB%3FqLBtWflWf9Wf9qflqBAAAecf%2BqfeqB)](https://harddrop.com/fumen/?v115@NhD8AeA8CeH8AeF8JeAgWCAq/AAAvhMKhQAAOkBTVB?qLBtWflWf9Wf9qflqBAAAecf+qfeqB)
+[![LZ](https://fumen-svg-server--eight041.repl.co/?data=v115%40OhD8FeE8AeA8CeC8JeAgWCAsXBAAvhFHiQAAqlfKrf%3FywBMhfEmB)](https://harddrop.com/fumen/?v115@OhD8FeE8AeA8CeC8JeAgWCAsXBAAvhFHiQAAqlfKrf?ywBMhfEmB)
+[![JI](https://fumen-svg-server--eight041.repl.co/?data=v115%409gA8IeB8AeA8AeG8AeA8AeG8AeA8AeE8JeAgWCAK%2BA%3FAAvhDGcQAAZbfBgfJmB)](https://harddrop.com/fumen/?v115@9gA8IeB8AeA8AeG8AeA8AeG8AeA8AeE8JeAgWCAK+A?AAvhDGcQAAZbfBgfJmB)
 
 [![JL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA%3FvhDmmBKqfiqfCrB)](https://harddrop.com/fumen/?v115@9gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA?vhDmmBKqfiqfCrB)
 [![IL Base](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8EeA8BeA8DeG8AeI8AeG8JeAgWJApS88AQDbaEF%3FBAAAvhDxcBKgfigfihQAA)](https://harddrop.com/fumen/?v115@9gB8EeA8BeA8DeG8AeI8AeG8JeAgWJApS88AQDbaEF?BAAAvhDxcBKgfigfihQAA)
