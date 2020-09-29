@@ -123,8 +123,9 @@ Single-Triple
 [![Lucky hole](https://fumen-svg-server--eight041.repl.co/?data=v115%40zgD8BeG8DeG8AeJ8AeJ8AeC8JeAgWMAMwg%2FD5oo2Ao%3F3krD)](https://harddrop.com/fumen/?v115@zgD8BeG8DeG8AeJ8AeJ8AeC8JeAgWMAMwg/D5oo2Ao?3krD)
 [![Compare to Chidori](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%409gD8BeG8DeG8AeJ8AeD8JeAgWWADHvQEBMVTASYlNE%3FFbs2BouCNEyuBAADhAAIeA8geAAPAA)](https://harddrop.com/fumen/?v115@9gD8BeG8DeG8AeJ8AeD8JeAgWWADHvQEBMVTASYlNE?Fbs2BouCNEyuBAADhAAIeA8geAAPAA)
 
-[![Single Triple 2](https://fumen-svg-server--eight041.repl.co/?data=v115%409gD8BeH8CeF8CeH8AeE8JeAgWTATOZyDs488AQuR5D%3FQDVTAS4oAA)](https://harddrop.com/fumen/?v115@9gD8BeH8CeF8CeH8AeE8JeAgWTATOZyDs488AQuR5D?QDVTAS4oAA)
-[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gD8BeH8CeF8CeH8AeE8JeAgWHAlUlkDVPdCAvhHNr%3FfFrfdrBAAAOhBViftrBAAA)](https://harddrop.com/fumen/?v115@9gD8BeH8CeF8CeH8AeE8JeAgWHAlUlkDVPdCAvhHNr?fFrfdrBAAAOhBViftrBAAA)
+[![Single Triple 2](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8BeG8CeH8CeH8AeF8JeAgWTATOZyDs488AQuR5D%3FQDVTAS4oAA)](https://harddrop.com/fumen/?v115@9gB8BeG8CeH8CeH8AeF8JeAgWTATOZyDs488AQuR5D?QDVTAS4oAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8BeG8CeH8CeH8AeF8JeAgWHAlUlkDVPdCAvhI9q%3FflqftqBAAA6gBNaf1ffdqBAAA)](https://harddrop.com/fumen/?v115@9gB8BeG8CeH8CeH8AeF8JeAgWHAlUlkDVPdCAvhI9q?flqftqBAAA6gBNaf1ffdqBAAA)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40ThA8AeF8BeH8JeAgWIAzOckDrOZyDzgh0BeQ4Eeg0C%3FeR4Deg0AtCeQ4DeBtHeAtSeAAA)](https://harddrop.com/fumen/?v115@ThA8AeF8BeH8JeAgWIAzOckDrOZyDzgh0BeQ4Eeg0C?eR4Deg0AtCeQ4DeBtHeAtSeAAA)
 
 [![Single Triple 3](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8BeG8CeG8DeH8AeG8BeH8AeH8JeAgWTATOZyDs4%3F88AQuR5DQDVTASIrAA)](https://harddrop.com/fumen/?v115@pgB8BeG8CeG8DeH8AeG8BeH8AeH8JeAgWTATOZyDs4?88AQuR5DQDVTASIrAA)
 [![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgB8BeG8CeG8DeH8AeG8BeH8AeH8JeAgWHAlUlkDVP%3FdCAvhG9gflgBAAA9bfVgftpBAAA)](https://harddrop.com/fumen/?v115@pgB8BeG8CeG8DeH8AeG8BeH8AeH8JeAgWHAlUlkDVP?dCAvhG9gflgBAAA9bfVgftpBAAA)
