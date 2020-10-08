@@ -102,6 +102,13 @@ It can be used as a continuation after perfect clear.
 
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%407gQ4AeD8DeR4D8h0CeQ4D8g0BtAeRpD8g0AeBtRpJe%3FAgH)](https://harddrop.com/fumen/?v115@7gQ4AeD8DeR4D8h0CeQ4D8g0BtAeRpD8g0AeBtRpJe?AgH)
 
+### 7-2 stacking continuation
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40FhQ4IeR4F8CeQ4G8AeB8JeAgH)](https://harddrop.com/fumen/?v115@FhQ4IeR4F8CeQ4G8AeB8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40FhQ4IeR4F8ywQ4G8wwB8JeAgH)](https://harddrop.com/fumen/?v115@FhQ4IeR4F8ywQ4G8wwB8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZhQ4IeR4JeAgH)](https://harddrop.com/fumen/?v115@ZhQ4IeR4JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gD8DehlD8h0CeglD8g0BtAeQ4glD8g0AeBtR4JeAg%3FH)](https://harddrop.com/fumen/?v115@9gD8DehlD8h0CeglD8g0BtAeQ4glD8g0AeBtR4JeAg?H)
+
 ### KGT Alternative
 
 KGT also uses a 2-height wall as the right side of the T-slot
