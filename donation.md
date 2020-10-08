@@ -103,12 +103,17 @@ Hole or no hole?
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40%2BgglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg%3FWaeAAA)](https://harddrop.com/fumen/?v115@+gglQ4CeE8glR4AeF8hlQ4AeI8AeE8JeAgH9gglUeg?WaeAAA)
 
-Z Top or Z Bottom?
+Z Top or Bottom?
 ------------------
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40XgB8FeC8CeAtCeD8AeBtCeE8AtCeH8AeI8AeI8AeI8%3FAeB8JeAgHUgwhIewhCeywAeRpwhDewwBeRpwhFeywHewwpe%3FAAeUgQaIeQaGeRpwwGeBtwwFehlQLHeAPIewhIewhIewhLe%3FAAewgBPGewDAPQpyeAAA)](https://harddrop.com/fumen/?v115@XgB8FeC8CeAtCeD8AeBtCeE8AtCeH8AeI8AeI8AeI8?AeB8JeAgHUgwhIewhCeywAeRpwhDewwBeRpwhFeywHewwpe?AAeUgQaIeQaGeRpwwGeBtwwFehlQLHeAPIewhIewhIewhLe?AAewgBPGewDAPQpyeAAA)
 
 [![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40fgC8GeD8BeR4BeD8AeR4CeH8AeI8AeI8AeI8AeA8Je%3FAgHkgAtHeBtHeAtBeywHewwoeAAebgR4EeBtQpQ4ywHewwg%3FlDeAPBeySHeAPIewhIewhIewhKeAAA)](https://harddrop.com/fumen/?v115@fgC8GeD8BeR4BeD8AeR4CeH8AeI8AeI8AeI8AeA8Je?AgHkgAtHeBtHeAtBeywHewwoeAAebgR4EeBtQpQ4ywHewwg?lDeAPBeySHeAPIewhIewhIewhKeAAA)
+
+S Vertical or Horizontal?
+---------------------------
+
+[![](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%40xgB8HeB8HeC8CeAtCeD8AeBtBeE8AeAtB8AeC8JeAg%3FHMhQ4IeR4IeQ4MeAAAAhi0IeQaR4RewDMeAAApgglBeBtEe%3FglCeBtRpBehlDeRppeAAA)](https://harddrop.com/fumen/?v115@xgB8HeB8HeC8CeAtCeD8AeBtBeE8AeAtB8AeC8JeAg?HMhQ4IeR4IeQ4MeAAAAhi0IeQaR4RewDMeAAApgglBeBtEe?glCeBtRpBehlDeRppeAAA)
 
 L or J?
 --------
