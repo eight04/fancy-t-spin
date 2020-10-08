@@ -56,6 +56,17 @@ T-Spins setups in different situations.
 [![](https://fumen-svg-server--eight041.repl.co/?data=v115%402gzhCeQ4CeF8R4AeG8AeQ4BeF8AeA8AeG8JeAgl)](https://harddrop.com/fumen/?v115@2gzhCeQ4CeF8R4AeG8AeQ4BeF8AeA8AeG8JeAgl)
 </details>
 
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40pgglFeC8glCeF8hlBeG8ywH8wwI8AeG8JeAgH)](https://harddrop.com/fumen/?v115@pgglFeC8glCeF8hlBeG8ywH8wwI8AeG8JeAgH)
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%409gA8FeD8CeH8BeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@9gA8FeD8CeH8BeH8AeG8JeAgH)
+
+<details>
+
+[![](https://fumen-svg-server--eight041.repl.co/?data=v115%40LgwhIewhBehlEewhCeglEewhR4AeglEeR4BeBtDeA8%3FQ4CeBtD8R4AeH8Q4AeH8AeG8JeAgH)](https://harddrop.com/fumen/?v115@LgwhIewhBehlEewhCeglEewhR4AeglEeR4BeBtDeA8?Q4CeBtD8R4AeH8Q4AeH8AeG8JeAgH)
+</details>
+
+
+
+
 3-6
 ----
 
