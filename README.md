@@ -495,6 +495,13 @@ Double-Triple-Double-Double
 
 [![Reverse Crimson](https://fumen-svg-server--eight041.repl.co/?data=v115%40ZgF8DeF8AeA8BeH8BeG8CeH8AeH8BeH8BeG8JeAgWR%3FASI7rDyNVTASI%2FVEpkkNEOBAAA)](https://harddrop.com/fumen/?v115@ZgF8DeF8AeA8BeH8BeG8CeH8AeH8BeH8BeG8JeAgWR?ASI7rDyNVTASI/VEpkkNEOBAAA)
 
+Double-Triple-Triple
+--------------------
+
+[![LSS Donation](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgA8HeD8CeH8AeF8AeH8BeI8AeG8JeAgWOAM9rSASY%3F5LEuiW5DP2BAA)](https://harddrop.com/fumen/?v115@qgA8HeD8CeH8AeF8AeH8BeI8AeG8JeAgWOAM9rSASY?5LEuiW5DP2BAA)
+[![Execute](https://fumen-svg-server--eight041.repl.co/?data=v115%40qgA8HeD8CeH8AeF8AeH8BeI8AeG8JeAgWHAlUlkDVP%3FdCAvhFzRBtcflcBAAAOaB6RB)](https://harddrop.com/fumen/?v115@qgA8HeD8CeH8AeF8AeH8BeI8AeG8JeAgWHAlUlkDVP?dCAvhFzRBtcflcBAAAOaB6RB)
+[![Stacking](https://fumen-svg-server--eight041.repl.co/?delay=1500&data=v115%402gA8CeC8CeB8AeD8CeG8CeG8CeG8JeAgWIAzOckDrO%3FZyDqgQ4HeS4GeS4GeglQ4HeglIehlReAAAqgwDHewhxDAAF%3FexhwDAAFeg0whAeAAFeg0BeAAFeh0ReAAAigRpFeQ4AeRpF%3FeR4whHeQ4whIewhIewhZeAAAigxSFewDAexSEeAAxDQaFeB%3FAwDQ4IeQ4IeQ4ZeAAAqgAtHeBtR4FeAtR4ueAAAqgAPHeBP%3FxDAeB8CeAPxDAAAeA8DeBAleAAAqgAtHeBtHeAtR4GeR4le%3FAAA)](https://harddrop.com/fumen/?v115@2gA8CeC8CeB8AeD8CeG8CeG8CeG8JeAgWIAzOckDrO?ZyDqgQ4HeS4GeS4GeglQ4HeglIehlReAAAqgwDHewhxDAAF?exhwDAAFeg0whAeAAFeg0BeAAFeh0ReAAAigRpFeQ4AeRpF?eR4whHeQ4whIewhIewhZeAAAigxSFewDAexSEeAAxDQaFeB?AwDQ4IeQ4IeQ4ZeAAAqgAtHeBtR4FeAtR4ueAAAqgAPHeBP?xDAeB8CeAPxDAAAeA8DeBAleAAAqgAtHeBtHeAtR4GeR4le?AAA)
+
 Triple
 ---------
 
