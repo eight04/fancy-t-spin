@@ -52,6 +52,7 @@ Double
 
 [![ZS Donation](https://fumen-svg-server--eight041.repl.co/?data=v115%403gB8GeB8HeC8AeC8CeH8AeH8JeAgWNAad88AQmCKEB%3FPONEOBAAAvhDMbB%2FkuRABOyTASIbMEGP98AQWhNEQBAAAfl%3FQFASeh1DUBAAAZfQDAFbkAA)](https://harddrop.com/fumen/?v115@3gB8GeB8HeC8AeC8CeH8AeH8JeAgWNAad88AQmCKEB?PONEOBAAAvhDMbB/kuRABOyTASIbMEGP98AQWhNEQBAAAfl?QFASeh1DUBAAAZfQDAFbkAA)
 > S must not touch the ground
+[![LJ Donation](https://fumen-svg-server--eight041.repl.co/?data=v115%40RhC8AeA8EeF8NeAgWNAsP88AQmCKEBPONEOBAAAvhE%3F3fQAA8mBatfisBGoB)](https://harddrop.com/fumen/?v115@RhC8AeA8EeF8NeAgWNAsP88AQmCKEBPONEOBAAAvhE?3fQAA8mBatfisBGoB)
 
 [![STMB Cave](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhB8DeE8EeF8CeE8JeAgWLAzeW0BFbs2BBSdCAvhE8%3FhBOhBvqfnqfHrB)](https://harddrop.com/fumen/?v115@HhB8DeE8EeF8CeE8JeAgWLAzeW0BFbs2BBSdCAvhE8?hBOhBvqfnqfHrB)
 [![Crush](https://fumen-svg-server--eight041.repl.co/?data=v115%409gB8DeE8EeG8BeG8AeG8JeAgWFAjLJbEIBAAAvhF8c%3FQAAOcBvlfPmfHmBAAA)](https://harddrop.com/fumen/?v115@9gB8DeE8EeG8BeG8AeG8JeAgWFAjLJbEIBAAAvhF8c?QAAOcBvlfPmfHmBAAA)
