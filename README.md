@@ -13,6 +13,7 @@ Other pages:
 * [IL Donation](il-donation.md)
 * [DT Donation](dt-donation.md)
 * [Tetr.io 180 spins](tetrio-180.md)
+* [PC Tables](pc-table/README.md)
 
 Single
 -------

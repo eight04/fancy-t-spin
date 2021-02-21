@@ -59,7 +59,7 @@ Third bag
 
 ### 1
 
-You have [97.58% (4918/5040) chance to achieve a perfect clear](ikcco-o-based-pc-table.md).
+You have [97.58% (4918/5040) chance to achieve a perfect clear](pc-table/ikcco-o-based.md).
 
 Most of the time, you can stack like this using T + Z/S:
 
