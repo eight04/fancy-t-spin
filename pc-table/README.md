@@ -31,9 +31,27 @@ IKcco
 Regular:
 
 * [IKcco](ikcco.md)
+* [6 lines PC](ikcco-6-lines.md) - also known as [Viper](https://four.lol/openers/viper)
 * [10 lines PC](ikcco-10-lines.md)
 * [10 lines PC (hold I)](ikcco-10-lines-i-top.md)
 
 O-based:
 
 * [IKcco O-based](ikcco-o-based.md)
+
+DPC
+----
+
+I:
+
+* [LI](dpc-i-li.md)
+* [OL](dpc-i-ol.md)
+
+O:
+
+* [JO](dpc-o-jo.md)
+* [OJ](dpc-o-oj.md)
+
+S:
+
+* [SO](dpc-s-so.md)
