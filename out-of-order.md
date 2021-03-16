@@ -91,3 +91,9 @@ Triple-Triple
 -------------
 
 [![TST Tower](https://fumen-svg-server--eight041.repl.co/?data=v115%40jgF8DeF8DeF8DeF8DeF8DeF8DeF8JeAgWLAUNuSASY%3FdME3I6CAvhI2uBcfBiVBRNB0LfUMfcbfclf8kB)](https://harddrop.com/fumen/?v115@jgF8DeF8DeF8DeF8DeF8DeF8DeF8JeAgWLAUNuSASY?dME3I6CAvhI2uBcfBiVBRNB0LfUMfcbfclf8kB)
+
+180 Spins
+---------
+
+[![SL](https://fumen-svg-server--eight041.repl.co/?data=v115%40HhF8CeH8BeH8BeA8JeAgWCAzCBAAvhEXdQAA6efSjf%3Fqsf6sf)](https://harddrop.com/fumen/?v115@HhF8CeH8BeH8BeA8JeAgWCAzCBAAvhEXdQAA6efSjf?qsf6sf)
+
