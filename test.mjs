@@ -1,4 +1,4 @@
-import {readFile, writeFile} from "fs";
+import {readFile, writeFile} from "fs/promises";
 
 let content = await readFile("README.md", "utf8");
 content = content.replace(/\[!\[(.*?)]\((.*?)\)]\((.*?)\)/g, (match, alt, img, url) => {
