@@ -100,5 +100,8 @@ heading + :global(ul) {
     color: var(--bg);
     background: var(--primary);
   }
+  heading {
+    margin: 0 .8rem .8rem;
+  }
 }
 </style>

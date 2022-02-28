@@ -18,6 +18,7 @@ const list = [
     {path: "/donation/il/"},
     {path: "/donation/double-triple/"}
 	]},
+  {path: "/continuous-t-spin/"},
   {path: "/out-of-order/"},
   {path: "/tetrio-180/"},
   {path: "/pc-table/"}
