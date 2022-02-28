@@ -1,3 +1,4 @@
+/* eslint-env browser */
 import {writable} from "svelte/store";
 
 export const hashValue = process.env.componentType === "server" ? writable("") : createWritable();

@@ -1,3 +1,4 @@
+/* eslint-env browser */
 const xo = {
   _xo: null,
   storage: new Map,

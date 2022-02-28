@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "main": "./src/build.js",
   "scripts": {
+    "test": "npm run eslint",
     "start": "npm run dev",
     "build": "node ./src/cleanPublic.js && npm run build:rollup && npm run build:html",
     "build:rollup": "rollup -c",
@@ -48,12 +49,9 @@
     "autoprefixer": "^10.4.2",
     "cross-env": "^7.0.3",
     "eslint": "^8.9.0",
-    "eslint-config-prettier": "^8.4.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-svelte3": "^3.4.1",
     "nodemon": "^2.0.15",
     "postcss": "^8.4.7",
-    "prettier": "^2.5.1",
-    "prettier-plugin-svelte": "^2.6.0",
     "rollup": "^2.68.0",
     "typescript": "^4.5.5"
   },

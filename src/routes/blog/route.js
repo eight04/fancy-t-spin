@@ -13,7 +13,7 @@ module.exports = {
 
   data: {},
   all: () => [],
-  permalink: ({request}) => {
+  permalink: ({ request }) => {
     return `/${request.slug}`;
   },
 };

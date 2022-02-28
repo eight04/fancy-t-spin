@@ -2,7 +2,7 @@
 import Nav from './Nav.svelte';
 import ToC from "./ToC.svelte";
 
-import style from '../../assets/style.css';
+import '../../assets/style.css';
 
 export let templateHtml, data, request;
 

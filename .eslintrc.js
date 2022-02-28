@@ -3,13 +3,26 @@ module.exports = {
   env: {
     node: true,
     commonjs: false,
-    es2020: true,
+    es6: true
   },
-  plugins: ['prettier'],
-  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
+  plugins: ["svelte3"],
+  extends: ['eslint:recommended'],
+  parserOptions: {
+    sourceType: "module",
+    ecmaVersion: 2022
+  },
+
+  overrides: [
+    {
+      files: ["*.svelte"],
+      processor: "svelte3/svelte3",
+      env: {
+        browser: true
+      }
+    }
+  ],
 
   rules: {
-    'prettier/prettier': 'error',
     semi: ['error', 'always'],
     'no-var': ['error'],
     'no-console': ['off'],
