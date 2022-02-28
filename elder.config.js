@@ -26,10 +26,9 @@ module.exports = {
     '@elderjs/plugin-markdown': {
       routes: ['blog'],
       slugFormatter: file => {
-        let p = path.relative("./src/routes/blog", file);
-        p = p.replace(/\\/g, "/").replace(/\.\w+$/, "");
-        p = p.replace(/\/index$|^index$/, "");
-        return p;
+        file = file.replace(/\\/g, "/").replace(/\.\w+$/, "");
+        file = file.replace(/\/index$|^index$/, "");
+        return file;
       },
       useTableOfContents: true
     },
