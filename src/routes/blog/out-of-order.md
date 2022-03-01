@@ -16,6 +16,8 @@ Single Double
 Double
 -------
 
+### Basic handle
+
 {{fumen data="v115@bhH8AeA8JeAgWNA6P88Awm6rDS9jJEHBAAAvhCumQA?A8nfcnB" /}}
 {{fumen data="v115@bhH8AeA8JeAgWNAad88Awm6rDS9jJEHBAAAvhCcmQA?A3nfXnB" /}}
 {{fumen data="v115@HhF8DeF8DeH8AeA8JeAgWNAzn88Awm6rDS9jJEHBAA?AvhEXdBctfUof0nfMnB" /}}
@@ -29,6 +31,8 @@ Double
 {{fumen data="v115@OhD8FeE8AeA8CeC8JeAgWCAsXBAAvhFHiQAAqlfKrf?ywBMhfEmB" /}}
 {{fumen data="v115@9gA8IeB8AeA8AeG8AeA8AeG8AeA8AeE8JeAgWCAK+A?AAvhDGcQAAZbfBgfJmB" /}}
 
+### Basic base
+
 {{fumen data="v115@9gB8HeA8FeE8EeE8BeF8JeAgWJAqS88AQDbaEFBAAA?vhDmmBKqfiqfCrB" /}}
 {{fumen data="v115@9gB8EeA8BeA8DeG8AeI8AeG8JeAgWJApS88AQDbaEF?BAAAvhDxcBKgfigfihQAA" /}}
 {{fumen data="v115@9gB8HeA8GeD8DeF8AeA8BeD8JeAgWJApP88AQDbaEF?BAAAvhChmBulfGrB" /}}
@@ -41,17 +45,24 @@ Double
 {{fumen data="v115@DhB8IeC8AeB8CeF8DeD8JeAgWJAMd88AQDbaEFBAAA?vhEckQAAKgBvrfHrfnqB" /}}
 {{fumen data="v115@DhB8IeC8AeB8CeF8DeD8JeAgWJAzS88AQDbaEFBAAA?vhEckQAA/lB6rfSwfyvB" /}}
 
+### Crush
+
 {{fumen data="v115@HhG8CeG8CeG8BeA8JeAgWJAMoo2AjLJbEIBAAAvhDT?dQAA6ofCtBAAA" /}}
 {{fumen data="v115@HhG8CeG8CeH8LeAgWJAKoo2AjLJbEIBAAAvhDTdB+t?fGtBAAA" /}}
 {{fumen data="v115@9gG8CeG8CeI8AeH8AeA8JeAgWJAKoo2AjLJbEIBAAA?vhDTYB+jfGoBAAA" /}}
 {{fumen data="v115@9gE8EeF8CeI8AeI8AeA8JeAgWWAKoo2AjLJbEooo2A?Fb+sCUkFSAylAAAvhEXdB+efejfmnBAAA" /}}
 {{fumen data="v115@8gE8EeF8CeI8AeI8AeB8JeAgWWAKoo2AjLJbEooo2A?Fb+sCUkFSAylAAAvhEcZBTcB+ifGnBAAA" /}}
 {{fumen data="v115@zgF8CeG8BeH8BeH8AeJ8AeB8JeAgWWAKoo2AjLJbEo?oo2AFb+sCUkFSAylAAAvhDzSBuifOnBAAA" /}}
+{{fumen data="v115@zgD8EeF8CeG8AeI8AeI8AeD8JeAgWNAKoo2AEnVKET?PckDLBAAAvhE/UBzRB8dBumBAAA"/}}
+
+### Other
 
 {{fumen data="v115@NhD8EeF8AeA8BeE8JeAgWNAMd88AQmCKEBPONEOBAA?AvhDKkQAAXgBsqfkqB" /}}
 
 {{fumen data="v115@3gB8GeB8HeC8AeC8CeH8AeH8JeAgWNAad88AQmCKEB?PONEOBAAAvhDMbB/kuRABOyTASIbMEGP98AQWhNEQBAAAfl?QFASeh1DUBAAAZfQDAFbkAA" /}}
+
 > S must not touch the ground
+
 {{fumen data="v115@RhC8AeA8EeF8NeAgWNAsP88AQmCKEBPONEOBAAAvhE?3fQAA8mBatfisBGoB" /}}
 
 {{fumen data="v115@HhB8DeE8EeF8CeE8JeAgWLAzeW0BFbs2BBSdCAvhE8?hBOhBvqfnqfHrB" /}}

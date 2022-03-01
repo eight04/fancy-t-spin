@@ -43,9 +43,7 @@ function unload() {
 <style>
 .fumen {
   display: inline-block;
-  /* contain: strict; */
-  /* width: var(--width); */
-  /* height: var(--height); */
+  contain: strict;
 }
 .fumen :global(img) {
   opacity: 0;
