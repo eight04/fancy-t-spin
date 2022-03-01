@@ -1,12 +1,12 @@
 require('dotenv').config();
+const dev = process.env.NODE_ENV === "development";
 module.exports = {
   lang: 'en',
   srcDir: 'src',
   distDir: 'docs',
   rootDir: process.cwd(),
   build: {},
-  prefix: '', // If you want your site to be built within a sub folder within your `distDir` you can use this.
-  server: {},
+  prefix: dev ? '' : 'fancy-t-spin',
   props: {
     hydration: 'hybrid',
     compress: false,
@@ -37,5 +37,5 @@ module.exports = {
       reload: true, // if you are having issues with reloading not working, change to true.
     },
   },
-  shortcodes: { closePattern: '}}', openPattern: '{{' },
+  shortcodes: { closePattern: '}}', openPattern: '{{' }
 };
