@@ -1,26 +1,22 @@
 <script>
-import urel from "urel";
+/* import urel from "urel"; */
+import {request} from "./env.mjs";
 
 export let nameMap;
 export let path;
 export let subs = [];
-export let request;
 
 function isLinkActive() {
-  return path === request.permalink;
-}
-
-function relateUrl(a, b) {
-  return urel(a, b);
+  return path === $request.permalink;
 }
 </script>
 
 <li class:active={isLinkActive()}>
-  <a href={relateUrl(request.permalink, path)}>{nameMap.get(path)}</a>
+  <a href={path}>{nameMap.get(path)}</a>
   {#if subs.length}
     <ul>
       {#each subs as item}
-        <svelte:self {...item} {nameMap} {request}/>
+        <svelte:self {...item} {nameMap}/>
       {/each}
     </ul>
   {/if}

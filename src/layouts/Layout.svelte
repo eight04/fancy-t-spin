@@ -3,8 +3,12 @@ import Nav from './Nav.svelte';
 import ToC from "./ToC.svelte";
 
 import '../../assets/style.css';
+import {settings as s, data as d, request as r} from "./env.mjs";
 
-export let templateHtml, data, request;
+export let templateHtml, data, request, settings;
+$s = settings;
+$d = data;
+$r = request;
 
 function getTitle() {
   let title = data.frontmatter?.title;
@@ -21,7 +25,7 @@ function getTitle() {
 
 <div class="container">
   <header>
-    <Nav {data} {request} />
+    <Nav/>
   </header>
 
   <main>

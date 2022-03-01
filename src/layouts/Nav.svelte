@@ -1,12 +1,10 @@
 <script>
 import ListItem from "./ListItem.svelte";
-
-export let data;
-export let request;
+import {settings, data} from "./env.mjs";
 
 const nameMap = new Map;
-for (const item of data.markdown.blog) {
-  nameMap.set(item.slug ? `/${item.slug}/` : "/", item.frontmatter?.title);
+for (const item of $data.markdown.blog) {
+  nameMap.set(item.slug ? `${$settings.prefix}/${item.slug}/` : `${$settings.prefix}/`, item.frontmatter?.title);
 }
 
 const list = [
@@ -23,12 +21,21 @@ const list = [
   {path: "/tetrio-180/"},
   {path: "/pc-table/"}
 ];
+processList(list);
+function processList(list) {
+  for (const i of list) {
+    i.path = `${$settings.prefix}${i.path}`;
+    if (i.subs) {
+      processList(i.subs);
+    }
+  }
+}
 </script>
 
 <nav>
   <ul>
     {#each list as item}
-      <ListItem {...item} {nameMap} {request} />
+      <ListItem {...item} {nameMap}/>
     {/each}
   </ul>
 </nav>
