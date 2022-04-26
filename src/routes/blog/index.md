@@ -744,7 +744,7 @@ Triple
 
 <p>
   {{fumen delay="1500" data="v115@RhA8IeA8AeH8JeAgWIAzOckDrOZyDzgh0Heg0Ieg0A?eBtIeBtYeAAPAAzghHHegHIeglAeBPIeBtE8TeAAAqgAtHe?BtHeAtKezhheAAAqgAPHeBPHeAPKeSaQ4D8deAAAqgAtBeQ?4EeBtBeR4DeAtCeglQ4FeilieAAAqgAPBewDEeBPBexDDeA?PCegWwDFeiWEADeAAYeAAAqgAtHeBtHeAtKei0Ieg0YeAAA?qgAPHeBPHeAPKeiHHeAAglHeAAPeAAAqgAtHeBtHeAtKehl?IeglIeglPeAAAqgAPHeBPDeD8APEeD8BehWBeD8CegWAAGe?AAgWPeAAAqgAtHeBtHeAtKezhGeR4GeR4PeAAAqgAPHeBPD?eDAAPEeDABeTaDAAeA8AewDwhFeA8wDwhPeAAApgBtHeQ4B?tGeR4IeQ4AezhgeAAA" /}}
-  {{fumen delay="1500" data="v115@HhA8BeH8BeH8AeH8JeAg0NAnLeGEFbMECy3eeEPBAA?Apgh0Heg0Ieg0AeR4GeR4keAAtAApghHHegHIegHAexDFeA?AxDkeAAtPAz8zCEsn9TASIIWEBSdCApgh0Heg0Ieg0AeglG?eilkeAAtAApghHHegHIegHAegWAeF8h0gWAAjeAAtNAv+br?Dyoo2AjLJbEIBAAApgh0Heg0Ieg0AeRpHeRpjeAAepghlHe?glIeglAexSGeAAxSIeAAHeBAPeAAe/ghlIeglGeBtglHeBt?PeAAepgBAHeAAIeAAAehWFeAABegWGeBPgWHeBtPeAAeggA?tHeBtHeAtIeg0AehlFei0glIeglZeAAeggAPHeBPHeAPIeg?HAeh0FehHglg0FeAABeg0ZeAAeggAtHeBtHeAtIeh0Heg0I?eg0ceAAtAAggAPHeBPHeAPIehHHegHAeAAGegHAeA8aeAAA?ggAtHeBtHeAtIeglIeglIehlbeAAA" /}}
+  {{fumen delay="1500" data="v115@HhA8BeH8BeH8AeH8JeAg0NAnLeGEFbMECy3eeEPBAA?Apgh0Heg0Ieg0AeR4GeR4keAAtAApghHHegHIegHAexDFeA?AxDkeAAtPAz8zCEsn9TASIIWEBSdCApgh0Heg0Ieg0AeglG?eilkeAAtAApghHHegHA8HeglA8gWGeg0hWAAGeA8AeAAGeA?8AAQeAAeggRpHeRpTeglGeiljeAAAqgxSHexSHeAABeF8Ce?gWF8AeAAAeA8GeAAA8QeAAtNAv+brDyoo2AjLJbEIBAAApg?h0Heg0Ieg0AeRpHeRpjeAAepghlHeglIeglAexSGeAAxSIe?AAHeBAPeAAe/ghlIeglGeBtglHeBtPeAAepgBAHeAAIeAAA?ehWFeAABegWGeBPgWHeBtPeAAeggAtHeBtHeAtIeg0AehlF?ei0glIeglZeAAeggAPHeBPHeAPIegHAeh0FehHglg0FeAAB?eg0ZeAAeggAtHeBtHeAtIeh0Heg0Ieg0ceAAtAAggAPHeBP?HeAPIehHHegHAeAAGegHAeA8aeAAAggAtHeBtHeAtIeglIe?glIehlbeAAA" /}}
   {{fumen delay="1500" data="v115@BhF8CeG8DeH8AeG8JeAgWRAv+brDyoo2AjLJbEooo2?ASAAAAqgR4GeR4HejlFehlHehlbeAAPAA0gxDGexDBeF8hW?HehWbeAAAqgR4GeR4HezhFeRpHeRpbeAAeqgxDGexDHeTaA?AEewwwSAeBAEexwbeAAAqgR4GeR4HeBtAeRpFeBtRpieAAA?" /}}
   {{fumen delay="1500" data="v115@9gB8BeA8EeB8BeG8DeH8AeF8JeAgWRAv+brDyoo2Aj?LJbEooo2ATAAAArgh0Heg0Ieg0IeR4GeR4aeAAtAArghHHe?gHGeBAgHBeA8FexDAAFewhwDAeA8FeBAQeAAeigAtHeBtHe?AtGei0Ieg0IeR4GeR4QeAAeigAPHeBPHeAPGehlgHAeBAD8?AeAAgHBeAAFewhwDAAFexhQeAAeigAtHeBtHeAtIeR4RpEe?R4AeRpheAAAsgAPHeBPHeAPAeB8DeAAxDAewSwwDeCAAeA8?YeAAArgh0Heg0GeglAeg0GeglBtGehlBtZeAAA" /}}
   {{fumen delay="1500" data="v115@UhG8BeH8JeAgWGALyFoDB2BAAggRpHeRpHewwHexwA?eBtEeQ4wwBeBtDeR4IeQ4ReAAeggxSHexSHeQLHeRLAeBPE?ewDQLBeBPDexDIewDAAQeAAeggRpHeRpHewwHexwAeBtEeQ?4wwBeBtDeR4IeQ4ReAAAggxSHexSHeQLHeRLAeBPEewDQLA?eA8BtD8xDA8HewhA8QeAAAWgRpHeRpHewwHexwAeBtEeQ4w?wBeBtDeR4IeQ4beAAAWgxSHexSHeQLHeRLAeBPEewDQLBeB?PDexDIewDIeAAReAAAXgAtHeBtHeAtHeh0AeBtEeg0whBeB?tDeg0whIewhIewhReAAAXgAPHeBPHeAPHehHAeBPEegHQaB?eBPDegHQaAeGAAeQaAAHeQ4ReAAAqgh0Heg0HeQ4g0AeBtE?eR4BeBtEeQ4beAAAqghHHegHHewDgHAeBPEexDBeBPEewDb?eAAAqgh0Heg0Ieg0AeBtEeRpBeBtDeRpbeAAA" /}}
@@ -798,7 +798,7 @@ Triple
   {{fumen data="v115@rgB8IeA8FeB8AeH8CeG8CeG8BeG8JeAgWHAlUlkDVP?dCAvhD2afelfGlBAAA" /}}
   {{fumen delay="1500" data="v115@BhF8DeF8DeG8BeG8JeAgWIAzOckDrOZyDigR4GeR4A?tHeBtEeh0AeAtFeg0Ieg0ceAAA" /}}
 </p>
-  
+
 <p>
   {{fumen data="v115@sgB8IeA8EeB8AeH8CeG8CeI8AeF8JeAgWeAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFdAAA" /}}
   {{fumen data="v115@sgB8IeA8EeB8AeH8CeG8CeI8AeF8JeAgWHAlUlkDVP?dCAvhCUWf8kBAAA" /}}
@@ -820,7 +820,7 @@ Triple
   {{fumen data="v115@sgB8IeA8EeB8BeG8BeH8CeH8BeF8JeAgWpAlvs2Alr?DfET4M3Alvs2AF2DfET4p9BlPR6BFt78AQr78AwM+tCkAAA?A" /}}
   {{fumen data="v115@sgB8IeA8EeB8BeG8BeH8CeH8BeF8JeAgWHAlUlkDVP?dCAvhF0VfUbfcgfElfskBAAA" /}}
 </p>
-  
+
 Triple-Double
 -------------
 

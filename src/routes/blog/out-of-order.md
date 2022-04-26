@@ -98,6 +98,12 @@ Triple
 
 {{fumen data="v115@KhG8DeI8AeF8JeAgWKAqn88AwUxhETtBAAvhHOkBac?B0VfUbfcgfElfskBAAA" /}}
 
+{{fumen data="v115@LhH8BeH8AeG8JeAgWPAz8zCEsn9TASIIWEBSdCAvhD?cfB6lfSlBAAA"/}}
+{{fumen data="v115@9gB8HeA8CeH8BeH8AeG8JeAgWPAz8zCEsn9TASIIWE?BSdCAvhG3VB+cBaXfybfKlfSlBAAA"/}}
+
+{{fumen data="v115@BhH8BeH8BeH8AeG8JeAgWPAz8zCEsn9TASIIWEBSdC?AvhDcaB+gfGgBAAA"/}}
+{{fumen data="v115@9gA8CeH8BeH8BeH8AeG8JeAgWPAz8zCEsn9TASIIWE?BSdCAvhF3VBeXf+bf+gfGgBAAA"/}}
+
 Triple-Triple
 -------------
 
