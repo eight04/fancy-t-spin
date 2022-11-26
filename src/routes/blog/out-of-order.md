@@ -53,6 +53,7 @@ Double
 {{fumen data="v115@9gE8EeF8CeI8AeI8AeA8JeAgWWAKoo2AjLJbEooo2A?Fb+sCUkFSAylAAAvhEXdB+efejfmnBAAA" /}}
 {{fumen data="v115@8gE8EeF8CeI8AeI8AeB8JeAgWWAKoo2AjLJbEooo2A?Fb+sCUkFSAylAAAvhEcZBTcB+ifGnBAAA" /}}
 {{fumen data="v115@zgF8CeG8BeH8BeH8AeJ8AeB8JeAgWWAKoo2AjLJbEo?oo2AFb+sCUkFSAylAAAvhDzSBuifOnBAAA" /}}
+{{fumen data="v115@9gF8DeF8CeH8BeI8AeA8JeAgWJAToo2AjLJbEIBAAA?vhEOiB/efHjfPtBAAA"/}}
 {{fumen data="v115@zgD8EeF8CeG8AeI8AeI8AeD8JeAgWNAKoo2AEnVKET?PckDLBAAAvhE/UBzRB8dBumBAAA"/}}
 
 ### Other
@@ -79,6 +80,7 @@ Double Double
 {{fumen data="v115@3gB8IeE8DeF8DeG8BeG8JeAgWQAz8bkDoeihEFbEwC?yy1JEvhEOkQAA6lfClfCqfaqB" /}}
 {{fumen data="v115@RhB8FeG8AeA8AeB8JeAgWHAmLckD0isCAvhGUjBpZB?3lBsbBqmfSsf6sB" /}}
 {{fumen data="v115@9gE8EeD8FeE8DeG8CeA8JeAgWQAj8FoDPMeTASIAME?1974DvhEFoBUeB8mfEnfksf" /}}
+{{fumen data="v115@SgC8GeC8FeF8DeG8AeA8AeG8AeI8AeI8AeI8AeF8Je?AgWQAj8FoDPMeTASIAME1974DvhFcLB3NByIBORfuRfGXf" /}}
 
 Double Triple
 -------------
