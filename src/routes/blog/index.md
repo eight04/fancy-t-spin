@@ -245,7 +245,7 @@ Double-Single-Double
 Double-Double
 --------------
 
-<p>
+<p title="stsd">
   {{fumen data="v115@2gB8HeA8FeD8AeI8BeH8BeD8JeAgWEAz+T7B" /}}
   {{fumen delay="1500" data="v115@3gF8DeF8DeG8CeG8CeF8JeAgWIAzOckDrOZyDzgh0H?eg0Ieg0AehlIeglIeglPeAAPAAzghHBeFAgHCeFAgHAehWG?ABegWBAEeA8AegWPeAAA0gR4GeR4HeRpAeBtEeRpBeBtXeA?Ae0gRaGeQLQaHeQaQpHeRabeAAAugE8AehHBeE8gWgHCeE8?gWgHAeBPE8hWBeAPAtDeBABeAAOeAAepgh0Heg0Ieg0AeBt?FeglBeBtEeglBeRpEehlAeRpOeAAepghlCeEAglIeglAeBP?Feg0BeBPEeg0BewSwwEeh0AewSwwOeAAejgRpHeRpHeglGe?ilHeh0Heg0Ieg0PeAAejgxSDeBABexSDeAACeg0EeAAAehW?g0EeAABegHglEeAABegHFeBAA8glPeAAesgzhMeilGeglAt?HeBtHeAtSeAAesgTaGeAAEeiWAeAAEegWAPBeAAEeBPBeAA?EeAPAeAAQeAAejgRpHeRpNezhFeilGeglR4GeR4ReAAAjgx?SHexSIeEATaA8EeiWGegWxDGexDAeBAOeAAArgR4Feg0R4G?ei0GeilGeglBtIeBtPeAAArgRaFewSAPQaGexSveAAA" /}}
   {{fumen delay="1500" data="v115@BhG8BeH8BeH8BeG8JeAgWDADA/CApgh0Heg0Ieg0Ae?R4GeR4keAAAzghHHegHBeG8gHAewDwhjeAAApgh0Heg0Ieg?0AeglGeilkeAAAzghHHegHBeG8glAegWkeAAAggAtHeBtHe?AtIei0Ieg0keAAA" /}}
@@ -256,7 +256,7 @@ Double-Double
   {{fumen data="v115@rgRpHeRpIeI8AeH8BeH8BeG8JeAgWWAUNuSASYdME3?IyTASYlWEBmMvDF8BAAvhGNaf1ffdqBAAAJfBOQBkWB" /}}
 </p>
 
-<p>
+<p title="cross">
   {{fumen data="v115@2gB8HeA8FeD8AeH8CeH8AeE8JeAgWQAJ0trDy+zCEF?bs2BynEbE" /}}
   {{fumen data="v115@2gB8BeG8CeG8AeH8CeH8AeE8JeAg0HAlUlkDVPdCAv?hIddf1hfNrfFrfdrBAAAdnflrBAAA" /}}
   {{fumen data="v115@igQ4IeR4EeD8Q4BeG8CeG8AeH8CeH8AeE8JeAgWLAl?UlkDVPVTAS4oAAvhGddf1hfNrBAAAenf+mBDXBzgC8DeF8D?eC8neAAAvhBJiBAAA" /}}
@@ -266,7 +266,7 @@ Double-Double
   {{fumen data="v115@rgH8CeI8AeH8CeH8AeI8AeG8JeAgWNA0G88AQuReDu?dXrDSBAAAvhHNVf1afdlfFlfNlBAAAJaBvQB" /}}
 </p>
 
-<p>
+<p title="chidori">
   {{fumen data="v115@0gB8GeB8CeH8CeH8AeH8AeF8JeAg0QAj8FoDPMeTAS?IAME1974D" /}}
   {{fumen data="v115@0gB8GeB8CeH8CeH8AeH8AeF8JeAg0HAlUlkDVPdCAv?hFdmfFmBAAAtqflqBAAA" /}}
   {{fumen delay="1500" data="v115@ChF8EeF8CeH8AeF8JeAgWIAzOckDrOZyD0gR4GeR4I?eBtIeBtZeAAPAA0gxDGewhwDIeBPIeBPZeAAArgAtHeBtHe?AtIeBtIeBtZeAAergAPHeBPGeAAAPCeFABPCeDAAeAABPHe?AAQeAAergAtHeBtBeQ4Deg0AtCeR4Cei0CeQ4DeywHewwQe?AAergAPHeBPBewDDegHAPCexDCeiHCewDDeSLGeAAQpQeAA?ergAtHeBtBeQ4Deg0AtCeR4Cei0CeQ4DeilGeglReAAergA?PHeBPBewDDegHAPCexDCeglhHCewDC8AeiWA8Feg0AAAeAA?OeAAeugRpEeAtBeRpDeBtCeR4CeAtCeR4DeBtIeBtPeAAeu?gxSEeAPBexSDeBPCexDB8AeAPCewDwhDeAtAPAeAAGeAtAP?PeAAeggi0GeAtglg0BeQ4CeBtglCeR4BeAtQ4hlCeQ4CeR4?h0GeQ4g0Ieg0PeAAe" /}}
@@ -278,21 +278,21 @@ Double-Double
   {{fumen delay="1500" data="v115@Cgh0Heg0Ieg0AeBtEeB8BeBtDeA8CeH8AeI8AeI8Ae?I8BeH8AeG8JeAg0TAke+vCze88AwkqGEQsrGEpNdCACghHH?egHIegHAeAPAeAtHeAPAeAtYewhIewhIewhIewhQeAAe" /}}
 </p>
 
-<p>
+<p title="fractal">
   {{fumen data="v115@1gB8FeC8CeH8AeH8CeH8AeE8JeAgWHAmLckD0isCA" /}}
   {{fumen data="v115@1gB8FeC8CeH8AeH8CeH8AeE8JeAgWHAlUlkDVPdCAv?hFNhuAAFhBAAANrfFrBAAA" /}}
   {{fumen delay="1500" data="v115@EhC8DeF8AeA8CeH8AeF8JeAg0IAzOckDrOZyD0gR4B?eRpCeR4CeRpCeilGeglceAAe0gxDBexSCexDCexSCAiWAeF?Ag0AABeA8GeAAA8PeAAtDAMN2BAfgQ4IeR4HeglQ4Beg0Ee?glCeg0EehlAeh0ieAAefgwDIexDHegWwDBegHEegWCeglE8?hWAegHglE8deAAefgRpHeRpBeRpDeglCeRpDegli0FehlAe?g0jeAAPJAMNuSASIHgEUBAAApgxSHexSBexSDegWCewSwwD?8g0gWAegHAAIeAAYeAAtDADA/CAfgRpHeRpHeQ4CeR4DeR4?AeR4FeQ4i0Ieg0YeAAetgg0IeQawDGeRaseAAApgxSHexSB?eglE8wDBeA8glE8xDAehlIeglYeAAApgh0Heg0Ieg0R4GeR?4leAAA" /}}
   {{fumen data="v115@pgD8FeC8CeH8AeI8BeG8CeH8AeE8JeAgWLAmLckD0i?kTAS4oAAvhFNcuAAFcBAAANrfFrBAAA" /}}
 </p>
 
-<p>
+<p title="cut copy">
   {{fumen data="v115@3gB8DeE8EeE8AeI8BeH8DeA8JeAgWFAEN+tCkAAAA" /}}
   {{fumen data="v115@3gB8DeE8EeE8AeI8BeH8BeA8AeA8JeAgWJAEN+tCEo?o2ASAAAA" /}}
   {{fumen data="v115@3gB8DeE8EeE8AeI8BeH8BeA8LeAgWJAEN+tCEoo2AT?AAAA" /}}
   {{fumen data="v115@3gB8DeE8EeE8AeI8BeH8BeB8KeAgWJAEN+tCEoo2AU?AAAA" /}}
 </p>
 
-<p>
+<p title="s cut copy">
   {{fumen data="v115@qgB8BeB8CeB8CeH8AeI8CeH8AeI8AeE8JeAgWKADA3?TASI3LEwGCAA" /}}
   {{fumen data="v115@qgB8BeB8CeB8CeH8AeI8CeH8AeI8AeE8JeAgWHAlUl?kDVPdCAvhFtbflbBAAAtgfFmBAAA" /}}
   {{fumen delay="1500" data="v115@6gF8DeF8DeG8AeI8AeE8JeAgWIAzOckDrOZyDqgR4B?eRpCeR4CeRpGei0Ieg0geAAtAAqgxDBexSCexDCexSAAFei?HAAHegHAAfeAAeagwhIewhEeR4BewhDeR4CewhhlFei0glH?eg0glfeAAAagQaIeQaEexDBeQaDexDCeQahWBeBABeiHgWH?egHg0feAAPRAFb+sCUkFSASIncD2488AZAAAAfgwhDeRpCe?whh0BeRpCewhg0CeR4AtBewhg0BeR4BtHeAtgeAAAfgQaDe?xSCeQahHBexSCeQaglCexDAPBAQ4glAAAexDBtHeAtgeAAA?egwhh0Gewhg0CeR4AtRpwhg0BeR4BtRpwhEeAtreAAAegQa?hHGeQagHCexDAPxSQagHAAAexDBPxSQaEeAPreAAPDAFbkA?AYgwhFeglRpwhDeQ4AeglRpwhBeBtR4hlg0whCeBtQ4Bei0?seAAA" /}}
@@ -301,14 +301,14 @@ Double-Double
   {{fumen delay="1500" data="v115@qgAtHeBtBeRpDeAtCeRpF8AeI8CeH8AeF8JeAgWUAD?HvQEBMVTASYlNEFbs2BynEbEfgilBeRpCeglDeRpi0CeAtw?hgWyhg0DexhreAAPAA" /}}
 </p>
 
-<p>
+<p title="s cut copy 2">
   {{fumen data="v115@GhC8CeH8AeM8AeB8JeAgWOAToo2ADA3TASI3LEwGCA?A" /}}
   {{fumen data="v115@GhC8CeH8AeM8AeB8JeAgWHAlUlkDVPdCAvhD3cB9lf?llBAAARhD8ZeAAAvhCtsflsBAAA" /}}
   {{fumen delay="1500" data="v115@vhAAgWIAzOckDrOZyDHhglQ4CeRpi0glR4Aeg0RpBt?g0hlQ4Aei0AeBtJeAAeBhBtCeglAtQaCexhCPAtBPAewhBt?QpQawSAtwhAPQ4yhAeRaJeAAeBhBPCeiWCeRpCtAexhCeRL?QaQpAeRpyDQLAexSJeAAAHhBPCexDjHBPAexDiWgHilCegW?MeAAA9gglHewhglCeAtg0Q4hlwhhlAeBtg0R4glwhCeAth0?AeQ4glwhJeAAA9ggWGeA8Q4gWAeB8AtgHwDgWg0Q4hWA8Bt?glwDwhg0Q4AABeAthlAewhg0Q4JeAAArgBtIeBtEezhCeAt?Beh0DeBtBeg0EeAtCeg0SeAAArgBPIeBPEeTaCeAPBAhlAe?BAAeBPBAglA8BeAAAeAtCAglEeA8AeBAJeAAA5gR4GeR4Ie?zhGei0Ieg0JeAAA" /}}
   {{fumen delay="1500" data="v115@3gB8GeB8CeC8CeH8AeM8AeC8JeAgWXADHvQEBMVTAS?YlNEFbssCoSY1DpBBDA3gAAAeA8CeB8AeBAAeB8ZeAAAeA8?MeAAA" /}}
 </p>
 
-<p>
+<p title="s cut copy 2 donation">
   {{fumen data="v115@/gA8CeD8BeB8AeE8CeH8AeH8JeAgWSAToo2ADA3TAS?I3LEwW98AQbAAA" /}}
   {{fumen data="v115@/gA8CeD8BeB8AeE8CeH8AeH8JeAgWHAlUlkDVPdCAv?hH9pflpBAAATpBSnBdrfFrBAAA" /}}
   {{fumen delay="1500" data="v115@DhD8EeE8EeF8DeE8JeAgWIAzOckDrOZyD/gQ4IeR4I?eQ4glGeilOeAAA/gwDIexDIewDgWGei0OeAAAfgwhIewhDe?RpCewhDeRpCewhR4GeR4BtIeBtYeAAAfgQaIeQaDexSCeQa?DexSCeQaxDCeAACewhwDBPAeAADeA8BeBPAAEeA8AAQeAAA?2gR4EeBtR4GeDtIeBtXeAAA2gxDBeC8BPxDBeA8DeDPFeA8?AeA8BtDeAASeAAelgRpCeAtDeRpBeBtR4FeAtR4BtIeBthe?AAeqgglHehlRaFeglRaueAAelgxSCegHDexSBejHCeCAiHB?PAeAACeAACeBPEeAAAeCADeA8SeAAA2gR4EeRpR4FeRpAeB?tIeBtXeAAA2gxDBeC8xSxDBeA8CewwwSAeAPAtA8EeA8AeA?8BtDeAASeAAAjgAtHeBtEeRpg0AtFeRpi0seAAA" /}}
@@ -320,7 +320,7 @@ Double-Double
   {{fumen delay="1500" data="v115@wgC8FeD8EeE8CeG8AeI8AeI8JeAgWIAzOckDrOZyDs?gQ4FeglBeR4EeglCeQ4EehlleAAA" /}}
 </p>
 
-<p>
+<p title="shachiku train">
   {{fumen data="v115@9gF8DeE8CeH8AeK8AeA8JeAgWQAz8bkDoeihEFbEwC?yy1JE" /}}
   {{fumen data="v115@9gF8DeE8CeH8AeK8AeA8JeAgWHAlUlkDVPdCAvhGNn?fFnBAAAMnBNtfFtBAAA" /}}
   {{fumen delay="1500" data="v115@RhF8DeF8NeAgWIAzOckDrOZyD4gAtHeBtHeAtCehlG?eR4glFeR4AeglJeAAA4gAPHeBPDeD8AtA8BehWFeA8xDgWF?ewhwDAegWJeAAeugAtHeBtHeAtCehlGeh0glGeg0AeglGeg?0LeAAAugAPHeBPHeAPCehWEeAAAehHgWEeBAgHAegWGegHL?eAAAogwhIewhCeR4DewhBeR4CeBtwhFeR4BtEeR4AeRpHeR?pJeAAAogQaIeQaCexDDeQaBexDCeBPQaEAAexDBPEexDAex?SFeAAAexSJeAAA8gg0CeR4Deg0BeR4CeAth0FeBtRpFeAtA?eRpJeAAA8ggHCexDDegHAeA8xDCeAPhHCeBAAeBtxwCeCAA?tA8xwJeAAA9gilDei0glDezhg0DeR4GeR4OeAAA" /}}
@@ -328,6 +328,11 @@ Double-Double
   {{fumen delay="1500" data="v115@9gD8FeC8CeBthlD8AeR4BtglD8R4CeglJeAgWGAlE3?rDOnBAAWhBPGewDAPQpMeAAeWhxhHewSwhAtLeAAeNhRpGe?TpGeRpLeAAANhhHRaGeRaAtDeR4xDAeAtJeAAeWhBPGewDA?PQpMeAAAWhxhHewSwhAtLeAAA" /}}
   {{fumen delay="1500" data="v115@zgB8BeB8DeA8CeB8DeB8AeC8CeG8BeH8BeB8JeAgWQ?AT+G5DsCyTASolrDUdToDDhh0R4Feg0R4Geg0WeAAPAA1gB?8BAEeB8AeBAhHxDBeA8AeAAAeglxDAAFeglA8BAFeB8BAJe?AAADhBthlGeBtglIeglTeAAA" /}}
   {{fumen delay="1500" data="v115@HhD8FeC8GeD8AeA8NeAgWJAl8NSATJUABmAAAA6gRp?HeRpEewwCehlCeywAeR4glFeR4AeglJeAAAMhywHewwWeAA?AvhAAAA8gA8BeB8BeA8BeD8CeA8BeE8AeB8BeA8TeAAA" /}}
+</p>
+
+<p title="jl donation dt">
+  {{fumen data="v115@fgglIeglCeF8hlCeE8i0AeF8Beg0AeF8AeI8AeI8Je?AgWNAqS88AQmCKEBPONEOBAAA"}}
+  {{fumen data="v115@fgglIeglCeF8hlCeE8i0AeF8Beg0AeF8AeI8AeI8Je?AgWHAlUlkDVPdCAvhD9bflbBAAAufBigB8IeB8HeF8xeAAA?vhCVWf9gBAAA"}}
 </p>
 
 <p>
